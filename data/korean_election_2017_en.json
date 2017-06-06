@@ -1,0 +1,832 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 422
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 479
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 394
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 526
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 531
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017030900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 657
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8600
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3929
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3368
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2778
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1957
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2439
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1893
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1640
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1365
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017031900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1310
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1431
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1335
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1063
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1072
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 845
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 755
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 942
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1382
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1212
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017032900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1233
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017033000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1404
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017033100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1805
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1112
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1981
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1809
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1651
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1596
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1172
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017040900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1489
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1727
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2014
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2191
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2366
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2124
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2574
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3882
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3302
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017041900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3193
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3555
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2835
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5718
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4048
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4090
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4254
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4115
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3962
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017042900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3451
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017043000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3295
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4005
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4298
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6418
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4784
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7110
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16243
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017050900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 57750
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 29395
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9659
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5236
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6915
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5711
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4509
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3817
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3528
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017051900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3396
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1966
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1119
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1201
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 927
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 871
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 724
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 680
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 656
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017052900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 790
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017053000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 843
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "South_Korean_presidential_election,_2017",
+      "granularity": "daily",
+      "timestamp": "2017053100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 728
+    }
+  ]
+}

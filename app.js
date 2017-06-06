@@ -23,6 +23,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
 app.use('/scripts', express.static(__dirname + '/node_modules/'));
+app.use('/data', express.static(__dirname + '/data/'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
