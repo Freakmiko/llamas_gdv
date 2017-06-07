@@ -3,9 +3,9 @@ GDV Projekt Llamas
 
 Requirements
 ------------
-- [https://nodejs.org/en/](nodejs)
+- [nodejs](https://nodejs.org/en/)
 - npm
-- [http://www.typescriptlang.org/#download-links](typescript)
+- [typescript](http://www.typescriptlang.org/#download-links)
 
 Start
 -----
