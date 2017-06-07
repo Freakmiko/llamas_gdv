@@ -11,6 +11,7 @@ Start
 -----
 To start the project simply enter:
 
+    npm update
     npm start
     
 into your commandline.
