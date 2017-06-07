@@ -207,4 +207,4 @@ d3.select("body").append("button").text("german").on("click", function () {
         lineGraph.renderGraph(data);
     });
 });
-//# sourceMappingURL=donut.js.map
+//# sourceMappingURL=linegraph_korean_election.js.map

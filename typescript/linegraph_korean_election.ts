@@ -1,18 +1,18 @@
 /// <reference path="../node_modules/@types/d3/index.d.ts" />
 class LineGraph {
-    data: any
-    line: any
-    margin: any
-    maximumCircle: any
-    parseDate = d3.timeParse("%Y%m%d00")
-    size: any
-    svgId: string
-    xAxis: any
-    xBrush: any
-    xScale: any
-    yAxis: any
-    yScale: any
-    zoomHistory: Date[][]
+    data: any;
+    line: any;
+    margin: any;
+    maximumCircle: any;
+    parseDate = d3.timeParse("%Y%m%d00");
+    size: any;
+    svgId: string;
+    xAxis: any;
+    xBrush: any;
+    xScale: any;
+    yAxis: any;
+    yScale: any;
+    zoomHistory: Date[][];
 
     /**
      * Creates the line graph in the given svg-element
@@ -20,32 +20,32 @@ class LineGraph {
      * @constructor
      */
     constructor(svgId: string) {
-        this.svgId = svgId
+        this.svgId = svgId;
         this.margin = {
             top: 20,
             right: 20,
             bottom: 40,
             left: 50
-        }
+        };
         this.size = {
             width: 1280,
             height: 720
-        }
-        this.xScale = d3.scaleTime().range([0, this.size.width])
-        this.yScale = d3.scaleLinear().range([this.size.height, 0])
-        this.yAxis = d3.axisLeft(this.yScale).tickSize(0)
-        this.xAxis = d3.axisBottom(this.xScale)
-        this.data = []
-        this.zoomHistory = []
-        this.xBrush = d3.brushX()
+        };
+        this.xScale = d3.scaleTime().range([0, this.size.width]);
+        this.yScale = d3.scaleLinear().range([this.size.height, 0]);
+        this.yAxis = d3.axisLeft(this.yScale).tickSize(0);
+        this.xAxis = d3.axisBottom(this.xScale);
+        this.data = [];
+        this.zoomHistory = [];
+        this.xBrush = d3.brushX();
 
         this.line = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
             .y((d: any) => {console.log(d); return this.yScale(d.views)})
-            .curve(d3.curveLinear)
+            .curve(d3.curveLinear);
 
-        this.initialize()
-        this.addListeners()
+        this.initialize();
+        this.addListeners();
     }
 
     /**
@@ -53,43 +53,43 @@ class LineGraph {
      * SVG-elements (clip, axis container, line graph container)
      */
     initialize() {
-        let svg = d3.select(`#${this.svgId}`)
+        let svg = d3.select(`#${this.svgId}`);
 
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
-            .attr("height", this.size.height + this.margin.top + this.margin.bottom)
+            .attr("height", this.size.height + this.margin.top + this.margin.bottom);
 
         svg.append("g")
-            .attr("class", "gridLines")
+            .attr("class", "gridLines");
 
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
             .append("rect")
             .attr("width", this.size.width)
-            .attr("height", this.size.height + this.margin.top)
+            .attr("height", this.size.height + this.margin.top);
 
         svg.append("g")
             .attr("class", "lineGraph")
             .attr("clip-path", "url(#clip)")
             .attr("transform", `translate(${this.margin.left}, 0)`)
-            .append("path")
+            .append("path");
 
         svg.append("g").attr("class", "brush").call(this.xBrush)
-            .attr("transform", `translate(${this.margin.left},0)`)
+            .attr("transform", `translate(${this.margin.left},0)`);
 
         svg.append("g")
             .attr("class", "leftAxis")
             .attr("transform", `translate(${this.margin.left}, 0)`)
             .call(this.yAxis)
             .select(".domain")
-            .attr("stroke", "none")
+            .attr("stroke", "none");
         svg.append("g")
             .attr("class", "bottomAxis")
             .attr("transform", `translate(${this.margin.left}, ${this.size.height})`)
-            .call(this.xAxis)
+            .call(this.xAxis);
 
         svg.append("g")
             .attr("class", "legend")
-            .attr("transform", `translate(${this.margin.left}, ${this.size.height + this.margin.top + 5})`)
+            .attr("transform", `translate(${this.margin.left}, ${this.size.height + this.margin.top + 5})`);
     }
 
     /**
@@ -137,7 +137,7 @@ class LineGraph {
      * @param duration The duration of the transition animation
      */
     updatePageViews(easingFn: (normalizedTime: number) => number, duration: number) {
-        let g = d3.select(`#${this.svgId} > g.lineGraph > path`)
+        let g = d3.select(`#${this.svgId} > g.lineGraph > path`);
 
         let transitionLine = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
@@ -150,7 +150,7 @@ class LineGraph {
             .attr("d", this.line)
             .attr("fill", "none")
             .attr("stroke", "grey")
-            .attr("stroke-width", "2")
+            .attr("stroke-width", "2");
         //let groupSelection = g.selectAll(".pageViews").datum(this.data)
         //let pageViewsSelection = groupSelection.enter()
         //    .append("g").attr("class", "pageViews")
@@ -177,10 +177,10 @@ class LineGraph {
                 data,
                 (d: any) => this.parseDate(d.timestamp.toString())
             ) as [Date, Date]
-        )
-        let yMaximumValue = d3.max(data, (d: any) => d.views)
-        yMaximumValue += d3.quantile(data, 0.5, (datum: any) => datum.views)
-        this.yScale.domain([0, yMaximumValue])
+        );
+        let yMaximumValue = d3.max(data, (d: any) => d.views);
+        yMaximumValue += d3.quantile(data, 0.5, (datum: any) => datum.views);
+        this.yScale.domain([0, yMaximumValue]);
     }
 
     /**
@@ -189,19 +189,19 @@ class LineGraph {
      */
     updateAxis() {
         this.yAxis = d3.axisLeft(this.yScale).tickSize(0)
-            .tickFormat((d: number) => { return `${d}`})
+            .tickFormat((d: number) => { return `${d}`});
         d3.select(`#${this.svgId}`).select("g.leftAxis")
             .transition().duration(500)
             .call(this.yAxis as any)
             .select(".domain")
-            .attr("stroke", "none")
+            .attr("stroke", "none");
 
-        this.xAxis = d3.axisBottom(this.xScale)
+        this.xAxis = d3.axisBottom(this.xScale);
         d3.select(`#${this.svgId}`).select("g.bottomAxis")
             .transition().duration(500)
             .call(this.xAxis as any)
             .select(".domain")
-            .attr("stroke", "#AAA")
+            .attr("stroke", "#AAA");
     }
 
     /**
@@ -211,7 +211,7 @@ class LineGraph {
      */
     updateGrid() {
         let gridGroup = d3.select(`#${this.svgId}`).select("g.gridLines").selectAll("line")
-            .data(this.yScale.ticks(), (d: any) => d)
+            .data(this.yScale.ticks(), (d: any) => d);
 
         gridGroup.exit().remove();
 
@@ -224,7 +224,7 @@ class LineGraph {
             .attr("y2", (d: any) => this.yScale(d))
             .attr("stroke", "black")
             .attr("opacity", 0.2)
-            .attr("stroke-width", `${0.5}px`)
+            .attr("stroke-width", `${0.5}px`);
     }
 }
 
