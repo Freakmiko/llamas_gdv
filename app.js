@@ -23,6 +23,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
 app.use('/scripts', express.static(__dirname + '/node_modules/'));
+app.use('/material', express.static(__dirname + '/node_modules/material-components-web/dist/'));
 app.use('/data', express.static(__dirname + '/data/'));
 app.use('/typescript', express.static(__dirname + '/typescript/'));
 

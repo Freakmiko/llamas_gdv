@@ -1,4 +1,5 @@
 /// <reference path="../node_modules/@types/d3/index.d.ts" />
+/// <reference path="../node_modules/@types/jquery/index.d.ts" />
 class LineGraph {
     data: any;
     line: any;
@@ -20,6 +21,19 @@ class LineGraph {
      * @constructor
      */
     constructor(svgId: string) {
+        let locale = {
+            "dateTime": "%A, der %e. %B %Y, %X",
+            "date": "%d.%m.%Y",
+            "time": "%H:%M:%S",
+            "periods": ["", ""],
+            "days": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+            "shortDays": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
+            "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+            "shortMonths": ["Jan", "Feb", "Mrz", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"]
+        };
+
+        d3.timeFormatDefaultLocale(locale as any);
+
         this.svgId = svgId;
         this.margin = {
             top: 20,
@@ -28,7 +42,7 @@ class LineGraph {
             left: 50
         };
         this.size = {
-            width: 1280,
+            width: $(`#${this.svgId}`).parent().outerWidth() - this.margin.left - this.margin.right,
             height: 720
         };
         this.xScale = d3.scaleTime().range([0, this.size.width]);
@@ -231,19 +245,19 @@ class LineGraph {
 
 let lineGraph = new LineGraph("linegraph");
 
-d3.select("body").append("button").text("korean").on("click", () => {
+d3.select("#korean-button").on("click", () => {
     d3.json("/data/korean_election_2017_ko.json", (error, d: any) => {
         var data = d.items;
         lineGraph.renderGraph(data);
     });
 });
-d3.select("body").append("button").text("english").on("click", () => {
+d3.select("#english-button").on("click", () => {
     d3.json("/data/korean_election_2017_en.json", (error, d: any) => {
         var data = d.items;
         lineGraph.renderGraph(data);
     });
 });
-d3.select("body").append("button").text("german").on("click", () => {
+d3.select("#german-button").on("click", () => {
     d3.json("/data/korean_election_2017_de.json", (error, d: any) => {
         var data = d.items;
         lineGraph.renderGraph(data);

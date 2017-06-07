@@ -1,4 +1,5 @@
 /// <reference path="../node_modules/@types/d3/index.d.ts" />
+/// <reference path="../node_modules/@types/jquery/index.d.ts" />
 var LineGraph = (function () {
     /**
      * Creates the line graph in the given svg-element
@@ -8,6 +9,17 @@ var LineGraph = (function () {
     function LineGraph(svgId) {
         var _this = this;
         this.parseDate = d3.timeParse("%Y%m%d00");
+        var locale = {
+            "dateTime": "%A, der %e. %B %Y, %X",
+            "date": "%d.%m.%Y",
+            "time": "%H:%M:%S",
+            "periods": ["", ""],
+            "days": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+            "shortDays": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
+            "months": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+            "shortMonths": ["Jan", "Feb", "Mrz", "Apr", "Mai", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dez"]
+        };
+        d3.timeFormatDefaultLocale(locale);
         this.svgId = svgId;
         this.margin = {
             top: 20,
@@ -16,7 +28,7 @@ var LineGraph = (function () {
             left: 50
         };
         this.size = {
-            width: 1280,
+            width: $("#" + this.svgId).parent().outerWidth() - this.margin.left - this.margin.right,
             height: 720
         };
         this.xScale = d3.scaleTime().range([0, this.size.width]);
@@ -189,19 +201,19 @@ var LineGraph = (function () {
     return LineGraph;
 }());
 var lineGraph = new LineGraph("linegraph");
-d3.select("body").append("button").text("korean").on("click", function () {
+d3.select("#korean-button").on("click", function () {
     d3.json("/data/korean_election_2017_ko.json", function (error, d) {
         var data = d.items;
         lineGraph.renderGraph(data);
     });
 });
-d3.select("body").append("button").text("english").on("click", function () {
+d3.select("#english-button").on("click", function () {
     d3.json("/data/korean_election_2017_en.json", function (error, d) {
         var data = d.items;
         lineGraph.renderGraph(data);
     });
 });
-d3.select("body").append("button").text("german").on("click", function () {
+d3.select("#german-button").on("click", function () {
     d3.json("/data/korean_election_2017_de.json", function (error, d) {
         var data = d.items;
         lineGraph.renderGraph(data);
