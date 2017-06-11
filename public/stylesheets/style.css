@@ -1,8 +1,17 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: rgb(45, 45, 45);
 }
 
 a {
   color: #00B7FF;
+}
+
+.bottomAxis text {
+  fill: rgb(223, 223, 223);
+}
+
+.bottomAxis line {
+  stroke: rgb(223, 223, 223);
 }

@@ -53,8 +53,8 @@ var LineGraph = (function () {
         var svg = d3.select("#" + this.svgId);
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
-        svg.append("g")
-            .attr("class", "gridLines");
+        // svg.append("g")
+        //     .attr("class", "gridLines");
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
             .append("rect")
@@ -65,21 +65,21 @@ var LineGraph = (function () {
             .attr("clip-path", "url(#clip)")
             .attr("transform", "translate(" + this.margin.left + ", 0)")
             .append("path");
-        svg.append("g").attr("class", "brush").call(this.xBrush)
-            .attr("transform", "translate(" + this.margin.left + ",0)");
-        svg.append("g")
-            .attr("class", "leftAxis")
-            .attr("transform", "translate(" + this.margin.left + ", 0)")
-            .call(this.yAxis)
-            .select(".domain")
-            .attr("stroke", "none");
+        // svg.append("g").attr("class", "brush").call(this.xBrush)
+        //     .attr("transform", `translate(${this.margin.left},0)`);
+        // svg.append("g")
+        //     .attr("class", "leftAxis")
+        //     .attr("transform", `translate(${this.margin.left}, 0)`)
+        //     .call(this.yAxis)
+        //     .select(".domain")
+        //     .attr("stroke", "none");
         svg.append("g")
             .attr("class", "bottomAxis")
             .attr("transform", "translate(" + this.margin.left + ", " + this.size.height + ")")
             .call(this.xAxis);
-        svg.append("g")
-            .attr("class", "legend")
-            .attr("transform", "translate(" + this.margin.left + ", " + (this.size.height + this.margin.top + 5) + ")");
+        // svg.append("g")
+        //     .attr("class", "legend")
+        //     .attr("transform", `translate(${this.margin.left}, ${this.size.height + this.margin.top + 5})`);
     };
     /**
      * Adds event listeners to its elements
@@ -111,7 +111,7 @@ var LineGraph = (function () {
             .transition().duration(350).ease(d3.easeCircleOut)
             .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
             .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
-        this.updatePageViews(d3.easeElasticOut, 1000);
+        this.updatePageViews(d3.easeCircleOut, 300);
     };
     /**
      * Updates the pageViews linegraphs
@@ -131,8 +131,8 @@ var LineGraph = (function () {
             .transition().duration(duration).ease(easingFn)
             .attr("d", this.line)
             .attr("fill", "none")
-            .attr("stroke", "grey")
-            .attr("stroke-width", "2");
+            .attr("stroke", "#0071B9")
+            .attr("stroke-width", "6");
         //let groupSelection = g.selectAll(".pageViews").datum(this.data)
         //let pageViewsSelection = groupSelection.enter()
         //    .append("g").attr("class", "pageViews")
@@ -175,7 +175,7 @@ var LineGraph = (function () {
             .transition().duration(500)
             .call(this.xAxis)
             .select(".domain")
-            .attr("stroke", "#AAA");
+            .attr("stroke", "#DFDFDF");
     };
     /**
      * Updates the grid on the graph by animating
