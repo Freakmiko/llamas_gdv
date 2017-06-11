@@ -1,18 +1,21 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+	div.header
+		div.headerHoverContainer#headerCountrySelection
+			div.headerMenuContent.headerItem Länderauswahl
+		div.headerHoverContainer#headerCountry			
+			div#headerCountryImage
+			div.headerMenuContent.headerItem USA
+		div.headerHoverContainer#headerCandidates
+			div.headerMenuContent.headerItem 8 Kandidaten
+		div.headerHoverContainer#headerElectionPhases
+			div.headerMenuContent.headerItem 2 Wahlrunden
+		div.headerHoverContainer#headerSettings
+			div.headerMenuContent.headerItem Wikipedia-Sprache
+			div#headerSettingsImage
+	
+	div.contentArea
+		div#graph Graph
+		div#results Ergebnisse
 
-  div(class="mdc-layout-grid")
-      div(class="mdc-layout-grid__cell mdc-layout-grid__cell--span-10")
-          svg(id="linegraph" )
-  div(class="mdc-layout-grid")
-      div(class="mdc-layout-grid__cell")
-          button(class="mdc-button mdc-button--raised" id="korean-button" data-mdc-auto-init="MDCRipple") Korean
-      div(class="mdc-layout-grid__cell")
-          button(class="mdc-button mdc-button--raised" id="english-button" data-mdc-auto-init="MDCRipple") English
-      div(class="mdc-layout-grid__cell")
-          button(class="mdc-button mdc-button--raised" id="german-button" data-mdc-auto-init="MDCRipple") German
-
-  script(src="javascripts/linegraph_korean_election.js")
