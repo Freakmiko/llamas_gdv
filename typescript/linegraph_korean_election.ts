@@ -263,3 +263,12 @@ d3.select("#german-button").on("click", () => {
         lineGraph.renderGraph(data);
     });
 });
+
+d3.json("/data/korean_election_2017_en.json", (error, d: any) => {
+    var data = d.items;
+    lineGraph.renderGraph(data);
+});
+
+let mdc: any;
+let drawer = new mdc.drawer.MDCPersistentDrawer(document.querySelector('.mdc-persistent-drawer'));
+document.querySelector('.mdc-button').addEventListener('click', () => drawer.open = true);

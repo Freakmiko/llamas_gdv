@@ -4,9 +4,16 @@ html
     title= title
     link(rel='stylesheet', href='/material/material-components-web.css')
     link(rel='stylesheet', href='/stylesheets/style.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/icon?family=Material+Icons')
     script(src='scripts/d3/build/d3.js')
     script(src='scripts/jquery/dist/jquery.js')
-  body(class='mdc-theme--dark')
-    block content
+  body.mdc-theme--dark.mdc-typography
+    aside.mdc-persistent-drawer
+      nav.mdc-persistent-drawer__drawer
+        header.mdc-permanent-drawer__header
+          div.mdc-permanent-drawer__header-content
+            p some bullshit
+    div.content
+      block content
     script(src='/material/material-components-web.js')
     script mdc.autoInit()
