@@ -2,11 +2,18 @@ extends layout
 
 block content
 	div.header
-		div#headerCountrySelection Länderauswahl
-		div#headerCountry USA
-		div#headerCandidates 8 Kandidaten
-		div#headerElectionPhases 2 Wahlrunden
-		
+		div.headerHoverContainer#headerCountrySelection
+			div.headerMenuContent.headerItem Länderauswahl
+		div.headerHoverContainer#headerCountry			
+			div#headerCountryImage
+			div.headerMenuContent.headerItem USA
+		div.headerHoverContainer#headerCandidates
+			div.headerMenuContent.headerItem 8 Kandidaten
+		div.headerHoverContainer#headerElectionPhases
+			div.headerMenuContent.headerItem 2 Wahlrunden
+		div.headerHoverContainer#headerSettings
+			div.headerMenuContent.headerItem Wikipedia-Sprache
+			div#headerSettingsImage
 	
 	div.contentArea
 		div#graph Graph
