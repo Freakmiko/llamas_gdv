@@ -223,7 +223,4 @@ d3.json("/data/korean_election_2017_en.json", function (error, d) {
     var data = d.items;
     lineGraph.renderGraph(data);
 });
-var mdc;
-var drawer = new mdc.drawer.MDCPersistentDrawer(document.querySelector('.mdc-persistent-drawer'));
-document.querySelector('.mdc-button').addEventListener('click', function () { return drawer.open = true; });
 //# sourceMappingURL=linegraph_korean_election.js.map
