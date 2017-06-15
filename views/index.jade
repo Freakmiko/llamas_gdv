@@ -12,16 +12,18 @@ block content
 			h1#title Präsidentschaftswahlen
 			div#infotext Allgemein: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation Lorem ipsum dolor sit amet, consectetuer
 		div#selectionbox
-			div#images			
-				div#franceImage
-				div#austriaImage 			
-				div#usaImage 			
-				div#southKoreaImage			
-				div#allImage 
-			div#texts
-				a(href="http://localhost:3000/france" onmouseover="setFranceInfotext()").countryName#france Frankreich
-				a(href="http://localhost:3000/austria" onmouseover="setAustriaInfotext()").countryName#austria Österreich
-				a(href="http://localhost:3000/usa" onmouseover="setUSAInfotext()").countryName#usa USA
-				a(href="http://localhost:3000/southkorea" onmouseover="setSouthKoreaInfotext()").countryName#southkorea Südkorea
-				a(href="http://localhost:3000/all" onmouseover="setAllInfotext()").countryName#all Vergleich
-				
+			div#franceBox
+				img#franceImg(src="/data/france.svg")
+				a(href="http://localhost:3000/france" onmouseover="setFranceInfotext()").countryName Frankreich
+			div#austriaBox
+				img#austriaImg(src="/data/austria.svg")
+				a(href="http://localhost:3000/austria" onmouseover="setAustriaInfotext()").countryName Österreich
+			div#usaBox
+				img#usaImg(src="/data/usa.svg")
+				a(href="http://localhost:3000/usa" onmouseover="setUSAInfotext()").countryName USA
+			div#southKoreaBox
+				img#southKoreaImg(src="/data/southKorea.svg")
+				a(href="http://localhost:3000/southKorea" onmouseover="setSouthKoreaInfotext()").countryName Südkorea
+			div#allBox
+				img#allImg(src="/data/all.svg")
+				a(href="http://localhost:3000/all" onmouseover="setAllInfotext()").countryName Vergleich			
