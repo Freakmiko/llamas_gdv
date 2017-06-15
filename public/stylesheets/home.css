@@ -1,0 +1,128 @@
+#container{
+	display:flex;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+
+#infobox{
+	width: 30%;
+	height: 100%;	
+}
+
+#selectionbox{
+	width: 70%;
+	height: 100%;	
+	align-items: center;
+}
+
+#title{
+	text-align: center;
+	margin-top: 30%;
+	font-size: 250%;
+	color: #333333;
+	font-family: Avenir;
+	margin-right: 8%;
+}
+
+#infotext{
+	width: 70%;
+	margin-left: 15%;
+	height: 56%;
+	font-size: 145%;
+	color: #333333;
+	font-family: Avenir;
+	line-height: 140%;
+	overflow: hidden;
+}
+
+#texts{
+	width: 100%;
+	height: 10%;
+	display: flex;
+	align-items: center;
+}
+
+#images{
+	width: 100%;
+	height: 20%;
+	display: flex;
+	margin-top: 25%;
+}
+
+#franceImage{
+	background: url(../data/France.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 100%;
+	width: 15%;
+}
+
+#austriaImage{
+	background: url(../data/Austria.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 80%;
+	width: 20%;
+	margin-top: 3%;
+	margin-left: 3%;
+}
+
+#usaImage{
+	background: url(../data/USA.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 90%;
+	width: 18%;
+	margin-top: 2%;
+	margin-left: 5%;
+}
+
+#southKoreaImage{
+	background: url(../data/SouthKorea.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 90%;
+	width: 10%;
+	margin-top: 1%;
+	margin-left: 5%;
+}
+
+#allImage{
+	background: url(../data/All.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 100%;
+	width: 15%;
+	margin-left: 5%;
+}
+
+.countryName{
+	color: #333333;	
+	text-decoration: none;
+	font-size: 170%;
+}
+
+#france{
+	margin-left: 3%;
+}
+
+#austria{	
+	margin-left: 14%;
+}
+
+#usa{
+	margin-left: 16%;
+}
+
+#southkorea{
+	margin-left: 14%;
+}
+
+#all{
+	margin-left: 9.5%;
+}
+
+#france:hover, #austria:hover, #usa:hover, #southkorea:hover, #all:hover{
+	border-bottom: 1px dotted black;
+}

@@ -1,21 +1,27 @@
 extends layout
 
-block content
-	div.header
-		div.headerHoverContainer#headerCountrySelection
-			div.headerMenuContent.headerItem Länderauswahl
-		div.headerHoverContainer#headerCountry			
-			div#headerCountryImage
-			div.headerMenuContent.headerItem USA
-		div.headerHoverContainer#headerCandidates
-			div.headerMenuContent.headerItem 8 Kandidaten
-		div.headerHoverContainer#headerElectionPhases
-			div.headerMenuContent.headerItem 2 Wahlrunden
-		div.headerHoverContainer#headerSettings
-			div.headerMenuContent.headerItem Wikipedia-Sprache
-			div#headerSettingsImage
+block styles
+	link(href='/stylesheets/home.css', rel='stylesheet')
 	
-	div.contentArea
-		div#graph Graph
-		div#results Ergebnisse
-
+block scripts
+	script(src="/javascripts/home_menu.js")
+	
+block content
+	div#container
+		div#infobox
+			h1#title Präsidentschaftswahlen
+			div#infotext Allgemein: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation Lorem ipsum dolor sit amet, consectetuer
+		div#selectionbox
+			div#images			
+				div#franceImage
+				div#austriaImage 			
+				div#usaImage 			
+				div#southKoreaImage			
+				div#allImage 
+			div#texts
+				a(href="http://localhost:3000/france" onmouseover="setFranceInfotext()").countryName#france Frankreich
+				a(href="http://localhost:3000/austria" onmouseover="setAustriaInfotext()").countryName#austria Österreich
+				a(href="http://localhost:3000/usa" onmouseover="setUSAInfotext()").countryName#usa USA
+				a(href="http://localhost:3000/southkorea" onmouseover="setSouthKoreaInfotext()").countryName#southkorea Südkorea
+				a(href="http://localhost:3000/all" onmouseover="setAllInfotext()").countryName#all Vergleich
+				
