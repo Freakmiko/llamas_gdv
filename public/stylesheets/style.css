@@ -115,3 +115,37 @@ html,body {
 	height: 3.5vh;	
 	margin-right: 0.6vw;
 }
+
+#sidebarInfoContainer{
+	visibility: hidden;
+	background-color: #f2f2f2;
+	width: 15vw;
+	height: 100%;
+	border-right: 1px solid #333333;
+	position: absolute;
+}
+
+#candidateInfoImage{
+	width: 8vw;
+	height: 8vw;
+	margin-top: 8vh;
+	border-radius: 50%;
+	margin-left: 3vw;
+}
+
+#candidateInfoText{
+	width: 80%;
+	height: 50%;
+	margin-left: 10%;
+	margin-top: 4vh;
+	font-family: Avenir;
+	font-size: 1vw;
+	line-height: 2.5vh;
+}
+
+#candidateName{
+	font-family: Avenir;
+	color: #333333;
+	text-align: center;
+	font-size: 1.5vw;
+}

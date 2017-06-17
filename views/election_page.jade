@@ -4,6 +4,10 @@ block scripts
 	script(src="/javascripts/selection_page.js")
 
 block content
+	div#sidebarInfoContainer
+		img#candidateInfoImage
+		h1#candidateName
+		div#candidateInfoText
 	div.header
 		div.headerHoverContainer#headerCountrySelection
 			div.headerMenuContent.headerItem(onclick="back()") Länderauswahl
@@ -11,7 +15,7 @@ block content
 			block countryImage	
 			block countryName					
 		div.headerHoverContainer#headerCandidates
-			div.headerMenuContent.headerItem 5 Kandidaten
+			div.headerMenuContent.headerItem(onclick="showCandidateInformation(\'CLINTON\')") 5 Kandidaten
 		div.headerHoverContainer#headerElectionPhases
 			block electionPhases			
 		div.headerHoverContainer#headerComparison
@@ -21,6 +25,6 @@ block content
 			div.headerMenuContent.headerItem Wikipedia-Sprache
 			img#headerSettingsImage(src="/data/settings.svg")			
 	
-	div.contentArea
+	div.contentArea(onclick="hideCandidateInformation()")
 		block graph
 		block results		
