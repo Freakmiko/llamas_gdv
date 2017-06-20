@@ -1,16 +1,19 @@
 extends election_page
 
 block countryImage
-	img#headerCountryImage(src="/images/austria.svg")
+    img#headerCountryImage(src="/images/austria.svg")
 
 block countryName
-	div.headerMenuContent.headerItem Österreich
-	
+    div.headerMenuContent.headerItem Österreich
+
 block electionPhases
-	div.headerMenuContent.headerItem 2 Wahlrunden
-	
+    div.headerMenuContent.headerItem 2 Wahlrunden
+
 block graph
-	div#graph Graph
+    div#graph Graph
+        svg#linegraph
+        script.
+            d3.json("/data/austrian_election_2016_en.json", function (error, d) { lineGraph.renderGraph(d.items) })
 
 block results	
-	div#results Ergebnisse
+    div#results Ergebnisse
