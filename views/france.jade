@@ -10,10 +10,10 @@ block electionPhases
     div.headerMenuContent.headerItem 2 Wahlrunden
 
 block graph
-    div#graph Graph
+    div#graph
         svg#linegraph
         script.
-            d3.json("/data/french_election_2017_en.json", function (error, d) { lineGraph.renderGraph(d.items) })
+            d3.json("/data/france/en/election_2017.json", function (error, d) { lineGraph.renderGraph(d.items) })
 
 block results	
     div#results Ergebnisse
