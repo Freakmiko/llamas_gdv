@@ -244,21 +244,21 @@ class LineGraph {
 
 let lineGraph = new LineGraph("linegraph");
 
-d3.select("#korean-button").on("click", () => {
-    d3.json("/data/korean_election_2017_ko.json", (error, d: any) => {
-        var data = d.items;
-        lineGraph.renderGraph(data);
-    });
-});
-d3.select("#english-button").on("click", () => {
-    d3.json("/data/korean_election_2017_en.json", (error, d: any) => {
-        var data = d.items;
-        lineGraph.renderGraph(data);
-    });
-});
-d3.select("#german-button").on("click", () => {
-    d3.json("/data/korean_election_2017_de.json", (error, d: any) => {
-        var data = d.items;
-        lineGraph.renderGraph(data);
-    });
-});
+// d3.select("#korean-button").on("click", () => {
+//     d3.json("/data/korean_election_2017_ko.json", (error, d: any) => {
+//         var data = d.items;
+//         lineGraph.renderGraph(data);
+//     });
+// });
+// d3.select("#english-button").on("click", () => {
+//     d3.json("/data/korean_election_2017_en.json", (error, d: any) => {
+//         var data = d.items;
+//         lineGraph.renderGraph(data);
+//     });
+// });
+// d3.select("#german-button").on("click", () => {
+//     d3.json("/data/korean_election_2017_de.json", (error, d: any) => {
+//         var data = d.items;
+//         lineGraph.renderGraph(data);
+//     });
+// });
