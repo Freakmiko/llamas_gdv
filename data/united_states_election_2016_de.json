@@ -1,0 +1,2551 @@
+{
+  "items": [
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15059
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 32134
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 12234
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8697
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10244
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17772
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9734
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6964
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016030900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 11400
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5351
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4989
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5265
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8647
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5905
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6025
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15240
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5627
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3981
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016031900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3165
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4081
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4025
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5269
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6553
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3541
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3246
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3269
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6100
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3857
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016032900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3095
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016033000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2799
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016033100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3228
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2809
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2096
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2989
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2738
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3309
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5058
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2560
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2055
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016040900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2202
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3217
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2965
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2608
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2334
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2050
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2097
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1759
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2518
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2559
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016041900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3246
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6002
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2687
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2173
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2364
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6540
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5368
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3254
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6539
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3336
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016042900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2049
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016043000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1562
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3383
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2921
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2994
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 11316
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7477
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6406
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3179
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2669
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016050900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2586
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2449
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3425
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2348
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1755
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1597
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2126
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1849
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2035
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3090
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016051900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2226
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1733
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1625
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2313
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2865
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2558
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2205
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3084
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4318
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1950
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016052900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2016
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016053000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2277
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016053100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1851
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1968
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1924
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3901
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1770
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2408
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2602
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5630
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9528
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016060900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3748
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2454
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1865
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2562
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3342
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2712
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3438
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2690
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2133
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1489
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016061900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1743
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2012
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1942
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1660
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1419
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2749
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1749
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1597
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1586
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1377
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016062900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1358
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016063000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1457
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1269
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 939
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1171
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1261
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1576
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1855
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1278
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1344
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016070900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1127
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1578
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1203
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1901
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1748
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1745
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2174
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1816
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1747
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3102
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016071900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4452
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10151
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7257
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7498
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3753
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3839
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5171
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5591
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10580
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8534
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016072900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9425
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016073000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4554
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016073100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3940
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4764
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5038
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4085
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3667
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2636
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2015
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2073
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2524
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016080900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3461
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3473
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2993
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2344
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1650
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1812
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1814
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2375
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1868
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1717
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016081900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1837
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1649
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1833
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1948
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1992
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1842
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1984
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1602
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1617
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1887
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016082900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2293
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016083000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2253
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016083100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2175
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3367
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2169
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2396
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2923
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2509
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2965
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3199
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3248
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016090900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2890
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2746
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4158
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6759
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4916
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3551
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4028
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3892
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3498
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4281
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016091900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3817
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4731
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4595
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3991
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4068
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3573
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7505
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 13293
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22016
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8395
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016092900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5859
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016093000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5259
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4623
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5509
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4890
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5896
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5017
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4272
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4160
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8131
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016100900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10201
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16175
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9015
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8082
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6937
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6490
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6076
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7646
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7053
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6699
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016101900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9578
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15973
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8483
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6903
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9151
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9088
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8209
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9486
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8663
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10038
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016102900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9681
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016103000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 13800
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016103100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17642
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 28126
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30785
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 36568
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 33417
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 33041
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 68692
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 96118
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 139721
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016110900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 292693
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 69157
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 35029
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22381
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 19275
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 14488
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 11865
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10282
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9636
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6652
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016111900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5352
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5595
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5004
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4638
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6433
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5588
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4226
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6760
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5872
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4583
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016112900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3518
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016113000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3176
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2797
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2476
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2320
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3454
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2555
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2370
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3406
+    },
+    {
+      "project": "de.wikipedia",
+      "article": "Präsidentschaftswahl_in_den_Vereinigten_Staaten_2016",
+      "granularity": "daily",
+      "timestamp": "2016120800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2403
+    }
+  ]
+}

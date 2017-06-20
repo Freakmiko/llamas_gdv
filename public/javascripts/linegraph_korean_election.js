@@ -201,10 +201,6 @@ var LineGraph = (function () {
     return LineGraph;
 }());
 var lineGraph = new LineGraph("linegraph");
-d3.json("/data/korean_election_2017_ko.json", function (error, d) {
-    var data = d.items;
-    lineGraph.renderGraph(data);
-});
 d3.select("#korean-button").on("click", function () {
     d3.json("/data/korean_election_2017_ko.json", function (error, d) {
         var data = d.items;

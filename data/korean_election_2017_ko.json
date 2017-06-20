@@ -4,6 +4,816 @@
       "project": "ko.wikipedia",
       "article": "대한민국_제19대_대통령_선거",
       "granularity": "daily",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 512
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 364
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 280
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 312
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 350
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 286
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 274
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 279
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016120900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1072
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 502
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 381
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 384
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 335
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 266
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 262
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 273
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 299
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 286
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016121900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 256
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 316
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 268
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 273
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 239
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 233
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 226
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 324
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 252
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 254
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016122900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 316
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016123000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 329
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2016123100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 391
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 670
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 680
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 717
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 556
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 336
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 308
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 249
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 307
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017010900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 406
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 387
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 457
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 534
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 497
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 368
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 446
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 418
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 433
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 579
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017011900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 395
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 416
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 429
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 649
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 693
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 491
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 530
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 803
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 595
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 607
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017012900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 465
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017013000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 452
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017013100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 477
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 966
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 690
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 561
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 434
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 450
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 496
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 489
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 458
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017020900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 480
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 465
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 450
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 401
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 528
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 460
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 326
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 489
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 612
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 444
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017021900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 360
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 401
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 458
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 457
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 267
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 291
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 301
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 268
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 394
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017022800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 306
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
       "timestamp": "2017030100",
       "access": "all-access",
       "agent": "all-agents",
@@ -827,6 +1637,87 @@
       "access": "all-access",
       "agent": "all-agents",
       "views": 452
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 415
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 346
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 405
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 441
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 384
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 483
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 382
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 378
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "대한민국_제19대_대통령_선거",
+      "granularity": "daily",
+      "timestamp": "2017060900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 330
     }
   ]
 }
