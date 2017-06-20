@@ -43,8 +43,12 @@
 	font-size: 1.2vw;
 }
 
-.countryName:hover{
+#franceBox:hover .countryName, #austriaBox:hover .countryName, #usaBox:hover .countryName, #southKoreaBox:hover .countryName, #allBox:hover .countryName{	
 	border-bottom: 1px dotted black;
+}
+
+#franceBox:hover, #austriaBox:hover, #usaBox:hover, #southKoreaBox:hover, #allBox:hover{
+	cursor: pointer;
 }
 
 #franceBox{
