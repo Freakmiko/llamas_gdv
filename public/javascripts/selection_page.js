@@ -11,16 +11,16 @@ candidatesInfoText['HUNDSTORFER'] = "Rudolf Hundstorfer ist ein österreichische
 candidatesInfoText['KHOL'] = "Andreas Khol ist ein ehemaliger österreichischer Politiker der ÖVP. In der Zeit von 1969-1973 war er internationaler Beamter im Sekretariat des Europarates. Dort arbeitete er im internationalen Menschenrechtsschutz. Von 2002 bis 2006 war er Präsident des österreichischen Nationalrates. Am 10. Januar 2016 wurde Khol als ÖVP-Kandidat für die Bundespräsidentenwahl in Österreich 2016 präsentiert. Nach seiner Wahlniederlage im ersten Wahlgang gab Khol allerdings bekannt, sich aus der Politik zurückzuziehen.";
 
 var candidatesInfoImage = new Array ();
-candidatesInfoImage['CLINTON'] = "/data/Clinton.jpg";
-candidatesInfoImage['TRUMP'] = "/data/Trump.jpg";
-candidatesInfoImage['SANDERS'] = "/data/Sanders.jpg";
-candidatesInfoImage['CRUZ'] = "/data/Cruz.jpg";
-candidatesInfoImage['KASICH'] = "/data/Kasich.jpg";
-candidatesInfoImage['BELLEN'] = "/data/Bellen.jpg";
-candidatesInfoImage['HOFER'] = "/data/Hofer.jpg";
-candidatesInfoImage['GRISS'] = "/data/Griss.jpg";
-candidatesInfoImage['HUNDSTORFER'] = "/data/Hundstorfer.jpg";
-candidatesInfoImage['KHOL'] = "/data/Khol.jpg";
+candidatesInfoImage['CLINTON'] = "/images/Clinton.jpg";
+candidatesInfoImage['TRUMP'] = "/images/Trump.jpg";
+candidatesInfoImage['SANDERS'] = "/images/Sanders.jpg";
+candidatesInfoImage['CRUZ'] = "/images/Cruz.jpg";
+candidatesInfoImage['KASICH'] = "/images/Kasich.jpg";
+candidatesInfoImage['BELLEN'] = "/images/Bellen.jpg";
+candidatesInfoImage['HOFER'] = "/images/Hofer.jpg";
+candidatesInfoImage['GRISS'] = "/images/Griss.jpg";
+candidatesInfoImage['HUNDSTORFER'] = "/images/Hundstorfer.jpg";
+candidatesInfoImage['KHOL'] = "/images/Khol.jpg";
 
 var candidatesNames = new Array();
 candidatesNames['CLINTON'] = "Hillary Clinton";
