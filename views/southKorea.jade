@@ -1,16 +1,20 @@
 extends election_page
 
 block countryImage
-	img#headerCountryImage(src="/images/southKorea.svg")
+    img#headerCountryImage(src="/images/southKorea.svg")
 
 block countryName
-	div.headerMenuContent.headerItem Südkorea
-	
+    div.headerMenuContent.headerItem Südkorea
+
 block electionPhases
-	div.headerMenuContent.headerItem 1 Wahlrunde
-	
+    div.headerMenuContent.headerItem 1 Wahlrunde
+
 block graph
-	div#graph Graph
+    div#graph
+        svg#linegraph
+        script.
+            d3.json("/data/korean_election_2017_en.json", function (error, d) { lineGraph.renderGraph(d.items) })
 
 block results	
-	div#results Ergebnisse
+    div#results Ergebnisse
+

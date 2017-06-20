@@ -72,8 +72,8 @@ class LineGraph {
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
 
-        svg.append("g")
-            .attr("class", "gridLines");
+        // svg.append("g")
+        //     .attr("class", "gridLines");
 
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
@@ -87,15 +87,15 @@ class LineGraph {
             .attr("transform", `translate(${this.margin.left}, 0)`)
             .append("path");
 
-        svg.append("g").attr("class", "brush").call(this.xBrush)
-            .attr("transform", `translate(${this.margin.left},0)`);
+        // svg.append("g").attr("class", "brush").call(this.xBrush)
+        //     .attr("transform", `translate(${this.margin.left},0)`);
 
-        svg.append("g")
-            .attr("class", "leftAxis")
-            .attr("transform", `translate(${this.margin.left}, 0)`)
-            .call(this.yAxis)
-            .select(".domain")
-            .attr("stroke", "none");
+        // svg.append("g")
+        //     .attr("class", "leftAxis")
+        //     .attr("transform", `translate(${this.margin.left}, 0)`)
+        //     .call(this.yAxis)
+        //     .select(".domain")
+        //     .attr("stroke", "none");
         svg.append("g")
             .attr("class", "bottomAxis")
             .attr("transform", `translate(${this.margin.left}, ${this.size.height})`)
@@ -140,7 +140,7 @@ class LineGraph {
             .attr("y1", this.yScale(d3.max(data, (datum: any) => datum.views)))
             .attr("y2", this.yScale(d3.max(data, (datum: any) => datum.views)));
 
-        this.updatePageViews(d3.easeElasticOut, 1000);
+        this.updatePageViews(d3.easeCircleOut, 120);
     }
 
     /**
@@ -163,8 +163,8 @@ class LineGraph {
             .transition().duration(duration).ease(easingFn)
             .attr("d", this.line)
             .attr("fill", "none")
-            .attr("stroke", "grey")
-            .attr("stroke-width", "2");
+            .attr("stroke", "#2a6093")
+            .attr("stroke-width", "4");
         //let groupSelection = g.selectAll(".pageViews").datum(this.data)
         //let pageViewsSelection = groupSelection.enter()
         //    .append("g").attr("class", "pageViews")
@@ -242,8 +242,12 @@ class LineGraph {
     }
 }
 
-
 let lineGraph = new LineGraph("linegraph");
+
+d3.json("/data/korean_election_2017_ko.json", (error, d: any) => {
+    var data = d.items;
+    lineGraph.renderGraph(data);
+});
 
 d3.select("#korean-button").on("click", () => {
     d3.json("/data/korean_election_2017_ko.json", (error, d: any) => {
