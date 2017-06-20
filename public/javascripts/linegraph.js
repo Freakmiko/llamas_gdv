@@ -219,4 +219,4 @@ var lineGraph = new LineGraph("linegraph");
 //         lineGraph.renderGraph(data);
 //     });
 // });
-//# sourceMappingURL=linegraph_korean_election.js.map
+//# sourceMappingURL=linegraph.js.map
