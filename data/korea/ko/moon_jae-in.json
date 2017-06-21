@@ -1,0 +1,1723 @@
+{
+  "items": [
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2261
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3836
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2530
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2675
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2563
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1639
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1671
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2601
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016120900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6558
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3842
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3207
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3192
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2486
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1864
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1821
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2006
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2061
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1520
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016121900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1645
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1689
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2170
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1463
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1301
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1711
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1373
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2055
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2241
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1892
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016122900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2098
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016123000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1855
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2016123100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1669
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2846
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4269
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2244
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2045
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2779
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2579
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3182
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3100
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017010900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3033
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2539
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2645
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3506
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5400
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3883
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3484
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3309
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3179
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3134
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017011900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2649
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2369
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2498
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3568
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3027
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1960
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2696
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2930
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3805
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3639
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017012900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2895
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017013000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2883
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017013100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3262
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8011
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5593
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4433
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3106
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4350
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3891
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3425
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4739
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017020900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5447
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6469
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3249
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4452
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3527
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2591
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1793
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1802
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2177
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1514
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017021900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1349
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1581
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1610
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1402
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1868
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2181
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2454
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1845
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5697
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017022800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2491
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 14803
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3848
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2229
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1474
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1489
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1501
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1863
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1296
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017030900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1829
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10189
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6070
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7507
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4287
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3952
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4039
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2921
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2723
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3233
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017031900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3895
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 21286
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10255
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4063
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2670
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4764
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3010
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3068
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4257
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3447
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017032900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3273
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017033000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4059
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017033100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6190
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3222
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3994
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8330
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8829
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5834
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4644
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4138
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3136
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017040900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4276
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4767
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4876
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3520
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4459
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4271
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3641
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4957
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8108
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6408
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017041900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9004
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9782
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6005
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6000
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 11557
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7651
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16390
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10472
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7702
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6996
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017042900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5625
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017043000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6107
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8165
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 21727
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16128
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10402
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10475
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7977
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 8124
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18170
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017050900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 138876
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 83569
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24253
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9827
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 12299
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9041
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 7913
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6293
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5227
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 6984
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017051900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 5166
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4581
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 4226
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3989
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 3755
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2856
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2759
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2199
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2144
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 2287
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017052900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1699
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017053000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1733
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017053100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1897
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1659
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1619
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1425
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1544
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1217
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1946
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1292
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1364
+    },
+    {
+      "project": "ko.wikipedia",
+      "article": "문재인",
+      "granularity": "daily",
+      "timestamp": "2017060900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1246
+    }
+  ]
+}

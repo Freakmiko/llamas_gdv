@@ -1,0 +1,1723 @@
+{
+  "items": [
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 9
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 21
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 25
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 35
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016120900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 42
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 14
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 13
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016121900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 26
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 37
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 26
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 16
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 13
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 52
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 23
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016122900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016123000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2016123100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 167
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 62
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 45
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 56
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 41
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017010900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 80
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 36
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 29
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 32
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 35
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 23
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017011900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 33
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 23
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 32
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 37
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 39
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 43
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 51
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017012900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017013000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 48
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017013100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 35
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 109
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 88
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 87
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 51
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 56
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 37
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 42
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 52
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017020900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 40
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 29
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 39
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017021900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 32
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 46
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 25
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 15
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017022800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 20
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 14
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017030900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 28
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 237
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 106
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 65
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 60
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 63
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 53
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017031900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 31
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 41
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 25
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 34
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 68
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 38
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 176
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017032900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 131
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017033000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017033100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 90
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 82
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 126
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 135
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 128
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 130
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 117
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 55
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017040900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 88
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 104
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 114
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 123
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 156
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 189
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 257
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 181
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 360
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 251
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017041900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 340
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 371
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 228
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 315
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 369
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 388
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 265
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 210
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 240
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017042900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 178
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017043000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 180
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 220
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 408
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 316
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 362
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 517
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 271
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 290
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 603
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017050900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 1367
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 615
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 235
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 129
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 111
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 89
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 95
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 91
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 64
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 51
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017051900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 55
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 52
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 39
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 33
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 35
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 37
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 25
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 29
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017052900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 23
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017053000",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 21
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017053100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 30
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060100",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 18
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060200",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 10
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060300",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060400",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 24
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060500",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 17
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060600",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 19
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060700",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 27
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060800",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 22
+    },
+    {
+      "project": "en.wikipedia",
+      "article": "Yoo_Seong-min",
+      "granularity": "daily",
+      "timestamp": "2017060900",
+      "access": "all-access",
+      "agent": "all-agents",
+      "views": 25
+    }
+  ]
+}
