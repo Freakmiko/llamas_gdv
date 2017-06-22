@@ -1,46 +1,48 @@
 {
-	"event01": {
-					"date":"20160719", 
-					"text":"Donald Trump wird auf dem Parteitag der Republikaner in Cleveland zum Präsidentschaftskandidaten gewählt."
-				},
-	"event02": {
-					"date":"20160726", 
-					"text":"Hillary Clinton wird auf dem Parteitag der Demokraten in Philadelphia zur Präsidentschaftskandidatin gewählt."
-				},
-	"event03": {
-					"date":"20161108"
-					"text":"Wahltag"
-				},
-	"event04": {
-					"date":"20161128"
-					"text":" Die Grünen-Politikerin Jill Stein kündgt an, in drei Bundesstaaten offiziell eine Nachzählung der Stimmen zu beantragen, da Clinton bei den Ergebnisse der Wahlautomaten in diesen Staaten unverhältnismäßig schlecht abgeschnitten hat."
-				},
-	"event05": {
-					"date":"20160825"
-					"text":"Private Unterlagen werden veröffentlich aus denen hervorgeht, dass Clinton nach Spendenzahlungen an ihre Stiftung auffällig schnell freie Termine für persönliche Gespräche mit den Spendern arrangiert."
-				},
-	"event06": {
-					"date":"20160305"
-					"text":"Es wird publik, dass Clinton ihre dienstliche Kommunikation über eigene Server abwickelte. Zwar verstößt sie damit gegen keine Regel, schürte aber die Gerüchte, dass sie etwas zu verbergen hat. "
-				},
-	"event07": {
-					"date":"20161028"
-					"text":"FBI-Chef James Comey gibt bekannt, dass neue von Clintons Privatserver verschickte Mails aufgetaucht seien und die Untersuchungen zu dem Fall wieder aufgenommen wurden. Der Zeitpunkt direkt vor der Wahl wird heftig vom Clinton-Lager kritisiert, da das FBI noch nicht geprüft hat, ob die gefundenen Mails tatsächlich noch nicht bekannt waren."
-				},
-	"event08": {
-					"date":"20161007"
-					"text":"Trump wird dabei gefilmt, wie er vor dem Moderator einer Fernsehsendung davon erzählt, dass er den weiblichen Kandidaten an ihre Genitalien greife und diese ihn gewähren lassen würden."
-				},
-	"event09": {
-					"date":"20160530"
-					"text":"Trump wettert in einem Tweet gegen einen amerikanischen Richter aufgrund dessen mexikanischer Wurzeln. Selbst aus eigenen Reihen werden Trumps Aussagen als “Lehrbuch-Definition von Rassismus” bezeichnet."
-				},
-	"event10": {
-					"date":"20160729"
-					"text":"Auf die Rede des Vaters eines gefallenen muslimischen US-Soldaten, der die Pläne Trumps zu Mauerbau und Einreiseverbot kritisierte, entgegnet Trump diesem, dass er nicht das Recht habe ihn zu kritisieren. Da sich die Mutter selbst nicht zu Wort meldet, spekulierte Trump, dass ihr das verboten worden sei."
-				},
-	"event11": {
-					"date":"20160415"
-					"text":"An diesem Tag legen Präsidentschaftskandidaten üblicherweise ihre Steuererklärung für die letzten Jahre offen. Im Gegensatz zu Clinton weigert sich Trump dies zu tun und sorgt damit für Spekulationen, dass er selbst jene Steuer-Schlupflöcher nutzt, die er zuvor stark kritisiert hatte."
-				}
+    "items": [
+        {
+            "date": "20160719",
+            "text": "Donald Trump wird auf dem Parteitag der Republikaner in Cleveland zum Präsidentschaftskandidaten gewählt."
+        },
+        {
+            "date": "20160726",
+            "text": "Hillary Clinton wird auf dem Parteitag der Demokraten in Philadelphia zur Präsidentschaftskandidatin gewählt."
+        },
+        {
+            "date": "20161108",
+            "text": "Wahltag"
+        },
+        {
+            "date": "20161128",
+            "text": " Die Grünen-Politikerin Jill Stein kündgt an, in drei Bundesstaaten offiziell eine Nachzählung der Stimmen zu beantragen, da Clinton bei den Ergebnisse der Wahlautomaten in diesen Staaten unverhältnismäßig schlecht abgeschnitten hat."
+        },
+        {
+            "date": "20160825",
+            "text": "Private Unterlagen werden veröffentlich aus denen hervorgeht, dass Clinton nach Spendenzahlungen an ihre Stiftung auffällig schnell freie Termine für persönliche Gespräche mit den Spendern arrangiert."
+        },
+        {
+            "date": "20160305",
+            "text": "Es wird publik, dass Clinton ihre dienstliche Kommunikation über eigene Server abwickelte. Zwar verstößt sie damit gegen keine Regel, schürte aber die Gerüchte, dass sie etwas zu verbergen hat. "
+        },
+        {
+            "date": "20161028",
+            "text": "FBI-Chef James Comey gibt bekannt, dass neue von Clintons Privatserver verschickte Mails aufgetaucht seien und die Untersuchungen zu dem Fall wieder aufgenommen wurden. Der Zeitpunkt direkt vor der Wahl wird heftig vom Clinton-Lager kritisiert, da das FBI noch nicht geprüft hat, ob die gefundenen Mails tatsächlich noch nicht bekannt waren."
+        },
+        {
+            "date": "20161007",
+            "text": "Trump wird dabei gefilmt, wie er vor dem Moderator einer Fernsehsendung davon erzählt, dass er den weiblichen Kandidaten an ihre Genitalien greife und diese ihn gewähren lassen würden."
+        },
+        {
+            "date": "20160530",
+            "text": "Trump wettert in einem Tweet gegen einen amerikanischen Richter aufgrund dessen mexikanischer Wurzeln. Selbst aus eigenen Reihen werden Trumps Aussagen als “Lehrbuch-Definition von Rassismus” bezeichnet."
+        },
+        {
+            "date": "20160729",
+            "text": "Auf die Rede des Vaters eines gefallenen muslimischen US-Soldaten, der die Pläne Trumps zu Mauerbau und Einreiseverbot kritisierte, entgegnet Trump diesem, dass er nicht das Recht habe ihn zu kritisieren. Da sich die Mutter selbst nicht zu Wort meldet, spekulierte Trump, dass ihr das verboten worden sei."
+        },
+        {
+            "date": "20160415",
+            "text": "An diesem Tag legen Präsidentschaftskandidaten üblicherweise ihre Steuererklärung für die letzten Jahre offen. Im Gegensatz zu Clinton weigert sich Trump dies zu tun und sorgt damit für Spekulationen, dass er selbst jene Steuer-Schlupflöcher nutzt, die er zuvor stark kritisiert hatte."
+        }
+    ]
 }

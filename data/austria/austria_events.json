@@ -1,34 +1,36 @@
 {
-	"event01": {
-					"date":"20160128", 
-					"text":"Die FPÖ gibt in einer Pressekonferenz bekannt, daß Ing. Norbert Hofer für die FPÖ bei der Bundespräsidentschaftswahl 2016 kandidieren wird."
-				},
-	"event02": {
-					"date":"20160701", 
-					"text":"Der Verfassungsgerichtshof entscheidet wegen Unregelmäßigkeiten bei der Wahl, dass die von Van der Bellen zuvor knapp gewonnene Stichwahl wiederholt werden muss. Der Wahlkampf startet erneut."
-				},
-	"event03": {
-					"date":"20160424"
-					"text":"Erster Wahlgang. Da kein Kandidat die absolute Mehrheit an Stimmen erhält, müssen die zwei Kandidaten mit den meisten Stimmen in einer Stichwahl gegeneinander antreten."
-				},
-	"event04": {
-					"date":"20160522"
-					"text":"Erste Stichwahl. Alexander van der Bellen setzt sich denkbar knapp mit 50,3 % der Stimmen gegen Norbert Hofer mit 49,7 % der Stimmen durch."
-				},
-	"event05": {
-					"date":"20160414"
-					"text":"Es werden Zweier-Konfrontationen zu je 15 Minuten von allen Kandidaten (ausgenommen von Richard Lugner) in der Sendung 'Die 2 im Gespräch' übertragen. "
-				},
-	"event06": {
-					"date":"20160421"
-					"text":"Alle Kandidaten werden in einer TV Sendung nach ihren Standpunkten befragt. "
-				},
-	"event07": {
-					"date":"20160508"
-					"text":"Das ORF strahlt ein TV-Duell zwischen Hofer und Van der Bellen aus."
-				},
-	"event08": {
-					"date":"20161201"
-					"text":"Das ORF strahlt ein TV-Duell zwischen Hofer und Van der Bellen aus. In einem enorm hitzigen und angriffigen Duell schildern beide, wie sie das Amt im Falle eines Wahlsiegs anlegen würden."
-				}	
+    "items": [
+        {
+            "date": "20160128",
+            "text": "Die FPÖ gibt in einer Pressekonferenz bekannt, daß Ing. Norbert Hofer für die FPÖ bei der Bundespräsidentschaftswahl 2016 kandidieren wird."
+        },
+        {
+            "date": "20160701",
+            "text": "Der Verfassungsgerichtshof entscheidet wegen Unregelmäßigkeiten bei der Wahl, dass die von Van der Bellen zuvor knapp gewonnene Stichwahl wiederholt werden muss. Der Wahlkampf startet erneut."
+        },
+        {
+            "date": "20160424",
+            "text": "Erster Wahlgang. Da kein Kandidat die absolute Mehrheit an Stimmen erhält, müssen die zwei Kandidaten mit den meisten Stimmen in einer Stichwahl gegeneinander antreten."
+        },
+        {
+            "date": "20160522",
+            "text": "Erste Stichwahl. Alexander van der Bellen setzt sich denkbar knapp mit 50,3 % der Stimmen gegen Norbert Hofer mit 49,7 % der Stimmen durch."
+        },
+        {
+            "date": "20160414",
+            "text": "Es werden Zweier-Konfrontationen zu je 15 Minuten von allen Kandidaten (ausgenommen von Richard Lugner) in der Sendung 'Die 2 im Gespräch' übertragen. "
+        },
+        {
+            "date": "20160421",
+            "text": "Alle Kandidaten werden in einer TV Sendung nach ihren Standpunkten befragt. "
+        },
+        {
+            "date": "20160508",
+            "text": "Das ORF strahlt ein TV-Duell zwischen Hofer und Van der Bellen aus."
+        },
+        {
+            "date": "20161201",
+            "text": "Das ORF strahlt ein TV-Duell zwischen Hofer und Van der Bellen aus. In einem enorm hitzigen und angriffigen Duell schildern beide, wie sie das Amt im Falle eines Wahlsiegs anlegen würden."
+        }
+    ]
 }
