@@ -1,0 +1,659 @@
+{"items": [
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017021000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017021100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017021200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017021300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017021400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017021500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017021600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017021700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017021800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 2,
+      "timestamp": "2017021900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017022500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017022600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017022700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017022800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017030100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 7,
+      "timestamp": "2017030200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017030300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017030400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017030500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017030600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017030700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017030800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017030900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017031000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 1,
+      "timestamp": "2017031100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017031200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017031300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017031400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017031500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017031600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017031700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017031800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017031900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 12,
+      "timestamp": "2017032000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 22,
+      "timestamp": "2017032100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 9,
+      "timestamp": "2017032200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017032300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017032400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017032500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017032600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017032700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017032800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 9,
+      "timestamp": "2017032900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 6,
+      "timestamp": "2017033000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017033100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 2,
+      "timestamp": "2017040100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017040200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017040300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 7,
+      "timestamp": "2017040400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 8,
+      "timestamp": "2017040500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017040600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017040700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 1,
+      "timestamp": "2017040800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017040900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 7,
+      "timestamp": "2017041000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017041100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017041200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 3,
+      "timestamp": "2017041300"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017041400"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 5,
+      "timestamp": "2017041500"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 4,
+      "timestamp": "2017041600"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 8,
+      "timestamp": "2017041700"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 10,
+      "timestamp": "2017041800"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 13,
+      "timestamp": "2017041900"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 17,
+      "timestamp": "2017042000"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 32,
+      "timestamp": "2017042100"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 42,
+      "timestamp": "2017042200"
+   },
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Benoît_Hamon",
+      "views": 100,
+      "timestamp": "2017042300"
+   }
+]}
