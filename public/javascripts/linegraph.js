@@ -42,7 +42,7 @@ var LineGraph = (function () {
         this.colorScale = d3.scaleOrdinal(d3.schemeCategory20);
         this.line = d3.line()
             .x(function (d) { return _this.xScale(_this.parseDate(d.timestamp)); })
-            .y(function (d) { console.log(d); return _this.yScale(d.views); })
+            .y(function (d) { return _this.yScale(d.views); })
             .curve(d3.curveLinear);
         this.initialize();
         this.addListeners();

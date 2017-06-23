@@ -61,7 +61,7 @@ class LineGraph {
 
         this.line = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
-            .y((d: any) => {console.log(d); return this.yScale(d.views)})
+            .y((d: any) => this.yScale(d.views))
             .curve(d3.curveLinear);
 
         this.initialize();
