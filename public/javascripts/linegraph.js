@@ -30,7 +30,7 @@ var LineGraph = (function () {
         };
         this.size = {
             width: $("#" + this.svgId).parent().outerWidth() - this.margin.left - this.margin.right,
-            height: 720
+            height: $("#" + this.svgId).parent().outerHeight() - this.margin.top - this.margin.bottom
         };
         this.xScale = d3.scaleTime().range([0, this.size.width]);
         this.yScale = d3.scaleLinear().range([this.size.height, 0]);
