@@ -1,7 +1,10 @@
 /// <reference path="../node_modules/@types/d3/index.d.ts" />
 /// <reference path="../node_modules/@types/jquery/index.d.ts" />
+/// <reference path="../node_modules/@types/lodash/index.d.ts" />
+
 class LineGraph {
     data: any;
+    groupedData: any;
     line: any;
     margin: any;
     maximumCircle: any;
@@ -14,6 +17,7 @@ class LineGraph {
     yAxis: any;
     yScale: any;
     zoomHistory: Date[][];
+    colorScale: any;
 
     /**
      * Creates the line graph in the given svg-element
@@ -52,6 +56,8 @@ class LineGraph {
         this.data = [];
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
+
+        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20);
 
         this.line = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
@@ -130,7 +136,9 @@ class LineGraph {
      */
     renderGraph(data: any) {
         //console.log(data);
-        this.data = data;
+        //this.data = data;
+        this.addData(data);
+
         this.updateScales(data);
         this.updateAxis();
         this.updateGrid();
@@ -140,7 +148,12 @@ class LineGraph {
             .attr("y1", this.yScale(d3.max(data, (datum: any) => datum.views)))
             .attr("y2", this.yScale(d3.max(data, (datum: any) => datum.views)));
 
-        this.updatePageViews(d3.easeCircleOut, 120);
+        this.updatePageViews(d3.easeCircleOut, 200);
+    }
+
+    addData(data: any) {
+        this.data = d3.merge([this.data, data]);
+        this.groupedData = _.toArray(_.groupBy(this.data, "article"))
     }
 
     /**
@@ -151,20 +164,31 @@ class LineGraph {
      * @param duration The duration of the transition animation
      */
     updatePageViews(easingFn: (normalizedTime: number) => number, duration: number) {
-        let g = d3.select(`#${this.svgId} > g.lineGraph > path`);
-
+        let g = d3.select(`#${this.svgId} > g.lineGraph`);
+        let groupSelection = g.selectAll(".pageviews").data(this.groupedData);
+        let pageviewsSelection = groupSelection.enter().append("g").attr("class", "pageviews");
         let transitionLine = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
             .y((d: any) => this.yScale(0))
             .curve(d3.curveLinear);
 
-        g.datum(this.data).attr("d", transitionLine(this.data))
-        //.merge(g.selectAll(".pageViews > path") as any)
+
+        pageviewsSelection.append("path").attr("d", (d: any[]) => transitionLine(d))
+            .merge(g.selectAll(".pageviews > path") as any)
             .transition().duration(duration).ease(easingFn)
-            .attr("d", this.line)
             .attr("fill", "none")
-            .attr("stroke", "#2a6093")
-            .attr("stroke-width", "4");
+            .attr("stroke", (d: any) => this.colorScale(d[0].article))
+            .attr("stroke-width", "2")
+            .attr("d", (d: any[]) => this.line(d))
+
+        // g.datum(this.data).attr("d", transitionLine(this.data))
+        // //.merge(g.selectAll(".pageViews > path") as any)
+        //     .transition().duration(duration).ease(easingFn)
+        //     .attr("d", this.line)
+        //     .attr("fill", "none")
+        //     .attr("stroke", "#2a6093")
+        //     .attr("stroke-width", "4");
+
         //let groupSelection = g.selectAll(".pageViews").datum(this.data)
         //let pageViewsSelection = groupSelection.enter()
         //    .append("g").attr("class", "pageViews")

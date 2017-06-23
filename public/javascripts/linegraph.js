@@ -1,5 +1,6 @@
 /// <reference path="../node_modules/@types/d3/index.d.ts" />
 /// <reference path="../node_modules/@types/jquery/index.d.ts" />
+/// <reference path="../node_modules/@types/lodash/index.d.ts" />
 var LineGraph = (function () {
     /**
      * Creates the line graph in the given svg-element
@@ -38,6 +39,7 @@ var LineGraph = (function () {
         this.data = [];
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
+        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20);
         this.line = d3.line()
             .x(function (d) { return _this.xScale(_this.parseDate(d.timestamp)); })
             .y(function (d) { console.log(d); return _this.yScale(d.views); })
@@ -103,7 +105,8 @@ var LineGraph = (function () {
      */
     LineGraph.prototype.renderGraph = function (data) {
         //console.log(data);
-        this.data = data;
+        //this.data = data;
+        this.addData(data);
         this.updateScales(data);
         this.updateAxis();
         this.updateGrid();
@@ -111,7 +114,11 @@ var LineGraph = (function () {
             .transition().duration(350).ease(d3.easeCircleOut)
             .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
             .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
-        this.updatePageViews(d3.easeCircleOut, 120);
+        this.updatePageViews(d3.easeCircleOut, 200);
+    };
+    LineGraph.prototype.addData = function (data) {
+        this.data = d3.merge([this.data, data]);
+        this.groupedData = _.toArray(_.groupBy(this.data, "article"));
     };
     /**
      * Updates the pageViews linegraphs
@@ -122,17 +129,27 @@ var LineGraph = (function () {
      */
     LineGraph.prototype.updatePageViews = function (easingFn, duration) {
         var _this = this;
-        var g = d3.select("#" + this.svgId + " > g.lineGraph > path");
+        var g = d3.select("#" + this.svgId + " > g.lineGraph");
+        var groupSelection = g.selectAll(".pageviews").data(this.groupedData);
+        var pageviewsSelection = groupSelection.enter().append("g").attr("class", "pageviews");
         var transitionLine = d3.line()
             .x(function (d) { return _this.xScale(_this.parseDate(d.timestamp)); })
             .y(function (d) { return _this.yScale(0); })
             .curve(d3.curveLinear);
-        g.datum(this.data).attr("d", transitionLine(this.data))
+        pageviewsSelection.append("path").attr("d", function (d) { return transitionLine(d); })
+            .merge(g.selectAll(".pageviews > path"))
             .transition().duration(duration).ease(easingFn)
-            .attr("d", this.line)
             .attr("fill", "none")
-            .attr("stroke", "#2a6093")
-            .attr("stroke-width", "4");
+            .attr("stroke", function (d) { return _this.colorScale(d[0].article); })
+            .attr("stroke-width", "2")
+            .attr("d", function (d) { return _this.line(d); });
+        // g.datum(this.data).attr("d", transitionLine(this.data))
+        // //.merge(g.selectAll(".pageViews > path") as any)
+        //     .transition().duration(duration).ease(easingFn)
+        //     .attr("d", this.line)
+        //     .attr("fill", "none")
+        //     .attr("stroke", "#2a6093")
+        //     .attr("stroke-width", "4");
         //let groupSelection = g.selectAll(".pageViews").datum(this.data)
         //let pageViewsSelection = groupSelection.enter()
         //    .append("g").attr("class", "pageViews")

@@ -13,7 +13,27 @@ block graph
     div#graph
         svg#linegraph
         script.
-            d3.json("/data/korea/en/election_2017.json", function (error, d) { lineGraph.renderGraph(d.items) })
+            var data = [];
+            d3.json("/data/korea/en/election_2017.json", function (error, d) {
+                data = d3.merge([data, d.items])
+                d3.json("/data/korea/en/ahn_cheol-soo.json", function (error, d) {
+                    data = d3.merge([data, d.items])
+                    d3.json("/data/korea/en/hong_jun-pyo.json", function (error, d) {
+                        data = d3.merge([data, d.items])
+                        d3.json("/data/korea/en/moon_jae-in.json", function (error, d) {
+                            data = d3.merge([data, d.items])
+                            d3.json("/data/korea/en/sim_sang-jung.json", function (error, d) {
+                                data = d3.merge([data, d.items])
+                                d3.json("/data/korea/en/yoo_seung-min.json", function (error, d) {
+                                    data = d3.merge([data, d.items])
+                                    lineGraph.renderGraph(data)
+                                })
+                            })
+                        })
+                    })
+                })
+            })
+
 
 block results	
     div#results Ergebnisse
