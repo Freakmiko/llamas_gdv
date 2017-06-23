@@ -1,1723 +1,1721 @@
-{
-  "items": [
-    {
+{"items": [
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120100",
-      "access": "all-access",
+      "views": 24,
+      "timestamp": "2016120100"
+   },
+   {
       "agent": "all-agents",
-      "views": 4415
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120200"
+   },
+   {
       "agent": "all-agents",
-      "views": 627
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016120300"
+   },
+   {
       "agent": "all-agents",
-      "views": 842
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120400",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016120400"
+   },
+   {
       "agent": "all-agents",
-      "views": 985
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120500",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2016120500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3258
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120600"
+   },
+   {
       "agent": "all-agents",
-      "views": 656
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016120700"
+   },
+   {
       "agent": "all-agents",
-      "views": 443
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016120800"
+   },
+   {
       "agent": "all-agents",
-      "views": 525
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016120900",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016120900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1514
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016121000"
+   },
+   {
       "agent": "all-agents",
-      "views": 864
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016121100"
+   },
+   {
       "agent": "all-agents",
-      "views": 835
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121200"
+   },
+   {
       "agent": "all-agents",
-      "views": 615
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121300"
+   },
+   {
       "agent": "all-agents",
-      "views": 658
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121400"
+   },
+   {
       "agent": "all-agents",
-      "views": 420
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121500"
+   },
+   {
       "agent": "all-agents",
-      "views": 292
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121600"
+   },
+   {
       "agent": "all-agents",
-      "views": 336
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121700"
+   },
+   {
       "agent": "all-agents",
-      "views": 275
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121800"
+   },
+   {
       "agent": "all-agents",
-      "views": 309
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016121900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121900"
+   },
+   {
       "agent": "all-agents",
-      "views": 270
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122000"
+   },
+   {
       "agent": "all-agents",
-      "views": 377
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122100"
+   },
+   {
       "agent": "all-agents",
-      "views": 413
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122200"
+   },
+   {
       "agent": "all-agents",
-      "views": 322
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122300"
+   },
+   {
       "agent": "all-agents",
-      "views": 299
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122400"
+   },
+   {
       "agent": "all-agents",
-      "views": 235
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122500"
+   },
+   {
       "agent": "all-agents",
-      "views": 243
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122600"
+   },
+   {
       "agent": "all-agents",
-      "views": 353
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122700"
+   },
+   {
       "agent": "all-agents",
-      "views": 356
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122800"
+   },
+   {
       "agent": "all-agents",
-      "views": 341
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016122900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016122900"
+   },
+   {
       "agent": "all-agents",
-      "views": 585
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016123000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016123000"
+   },
+   {
       "agent": "all-agents",
-      "views": 560
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2016123100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016123100"
+   },
+   {
       "agent": "all-agents",
-      "views": 515
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010100"
+   },
+   {
       "agent": "all-agents",
-      "views": 477
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017010200"
+   },
+   {
       "agent": "all-agents",
-      "views": 665
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010300"
+   },
+   {
       "agent": "all-agents",
-      "views": 365
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010400"
+   },
+   {
       "agent": "all-agents",
-      "views": 438
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010500"
+   },
+   {
       "agent": "all-agents",
-      "views": 518
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010600",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017010600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1027
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010700"
+   },
+   {
       "agent": "all-agents",
-      "views": 458
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010800"
+   },
+   {
       "agent": "all-agents",
-      "views": 506
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017010900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017010900"
+   },
+   {
       "agent": "all-agents",
-      "views": 419
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011000"
+   },
+   {
       "agent": "all-agents",
-      "views": 327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017011100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1092
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017011200"
+   },
+   {
       "agent": "all-agents",
-      "views": 875
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017011300"
+   },
+   {
       "agent": "all-agents",
-      "views": 527
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017011400"
+   },
+   {
       "agent": "all-agents",
-      "views": 402
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011500",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017011500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1212
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017011600"
+   },
+   {
       "agent": "all-agents",
-      "views": 652
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017011700"
+   },
+   {
       "agent": "all-agents",
-      "views": 534
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017011800"
+   },
+   {
       "agent": "all-agents",
-      "views": 521
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017011900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017011900"
+   },
+   {
       "agent": "all-agents",
-      "views": 520
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017012000"
+   },
+   {
       "agent": "all-agents",
-      "views": 516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017012100"
+   },
+   {
       "agent": "all-agents",
-      "views": 611
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017012200"
+   },
+   {
       "agent": "all-agents",
-      "views": 830
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017012300"
+   },
+   {
       "agent": "all-agents",
-      "views": 782
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012400",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2017012400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2670
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017012500"
+   },
+   {
       "agent": "all-agents",
-      "views": 999
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012600",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017012600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1157
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017012700"
+   },
+   {
       "agent": "all-agents",
-      "views": 883
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017012800"
+   },
+   {
       "agent": "all-agents",
-      "views": 910
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017012900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017012900"
+   },
+   {
       "agent": "all-agents",
-      "views": 853
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017013000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017013000"
+   },
+   {
       "agent": "all-agents",
-      "views": 753
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017013100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017013100"
+   },
+   {
       "agent": "all-agents",
-      "views": 716
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020100",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017020100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3908
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020200",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2017020200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2132
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017020300"
+   },
+   {
       "agent": "all-agents",
-      "views": 956
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017020400"
+   },
+   {
       "agent": "all-agents",
-      "views": 734
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017020500"
+   },
+   {
       "agent": "all-agents",
-      "views": 800
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020600",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017020600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1598
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017020700"
+   },
+   {
       "agent": "all-agents",
-      "views": 983
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020800",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017020800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1347
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017020900",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2017020900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1923
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021000",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1727
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021100",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1691
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021200",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 903
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 983
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021400",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1094
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021500",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2017021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2794
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021600",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2017021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2886
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 815
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 581
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017021900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 446
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 462
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 559
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 476
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022300",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2510
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022400",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2538
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 830
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 709
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 580
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017022800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 490
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 593
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 457
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 444
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 432
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 329
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 523
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 417
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017030900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 481
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031000",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1189
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 782
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031200",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1198
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 820
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 833
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031500",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1757
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031600",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 928
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 717
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1054
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017031900",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 3219
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032000",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1493
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 767
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 804
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1281
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 874
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032500",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2265
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032600",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2017032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2767
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032700",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2017032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2455
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032800",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2017032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2134
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017032900",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2219
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017033000",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2297
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017033100",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3273
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040100",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2017040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2828
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040200",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3486
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040300",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3904
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040400",
-      "access": "all-access",
+      "views": 42,
+      "timestamp": "2017040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 7607
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040500",
-      "access": "all-access",
+      "views": 41,
+      "timestamp": "2017040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 7373
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040600",
-      "access": "all-access",
+      "views": 35,
+      "timestamp": "2017040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 6306
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040700",
-      "access": "all-access",
+      "views": 31,
+      "timestamp": "2017040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 5620
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040800",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3864
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017040900",
-      "access": "all-access",
+      "views": 42,
+      "timestamp": "2017040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 7549
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041000",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2017041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 17788
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041100",
-      "access": "all-access",
+      "views": 48,
+      "timestamp": "2017041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 8659
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041200",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3778
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041300",
-      "access": "all-access",
+      "views": 35,
+      "timestamp": "2017041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 6283
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041400",
-      "access": "all-access",
+      "views": 25,
+      "timestamp": "2017041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 4501
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041500",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3033
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041600",
-      "access": "all-access",
+      "views": 20,
+      "timestamp": "2017041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3719
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041700",
-      "access": "all-access",
+      "views": 27,
+      "timestamp": "2017041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 4823
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041800",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4679
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017041900",
-      "access": "all-access",
+      "views": 34,
+      "timestamp": "2017041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 6058
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042000",
-      "access": "all-access",
+      "views": 28,
+      "timestamp": "2017042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 5155
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042100",
-      "access": "all-access",
+      "views": 20,
+      "timestamp": "2017042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3713
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042200",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3419
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042300",
-      "access": "all-access",
+      "views": 40,
+      "timestamp": "2017042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 7184
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042400",
-      "access": "all-access",
+      "views": 28,
+      "timestamp": "2017042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 5154
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042500",
-      "access": "all-access",
+      "views": 29,
+      "timestamp": "2017042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 5326
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042600",
-      "access": "all-access",
+      "views": 27,
+      "timestamp": "2017042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 4840
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042700",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3053
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042800",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4773
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017042900",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2515
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017043000",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 3103
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050100",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2497
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050200",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3886
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050300",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3555
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050400",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 3480
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050500",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3814
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050600",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3249
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050700",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3889
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050800",
-      "access": "all-access",
+      "views": 41,
+      "timestamp": "2017050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 7306
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017050900",
-      "access": "all-access",
+      "views": 87,
+      "timestamp": "2017050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 15588
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051000",
-      "access": "all-access",
+      "views": 24,
+      "timestamp": "2017051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 4383
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051100",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2017051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2040
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051200",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1141
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1009
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051400",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 907
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 719
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 623
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 481
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 476
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017051900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 412
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 398
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 373
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 360
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 265
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 260
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 258
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 224
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 236
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 266
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017052900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 250
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017053000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 230
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017053100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 210
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 365
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 203
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 202
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 199
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 158
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 190
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060700"
+   },
+   {
       "agent": "all-agents",
-      "views": 199
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017060800"
+   },
+   {
       "agent": "all-agents",
-      "views": 177
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "안철수",
-      "granularity": "daily",
-      "timestamp": "2017060900",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 126
-    }
-  ]
-}
+      "views": 0,
+      "timestamp": "2017060900"
+   }
+]}

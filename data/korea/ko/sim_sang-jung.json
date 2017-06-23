@@ -1,1723 +1,1721 @@
-{
-  "items": [
-    {
+{"items": [
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120100",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2016120100"
+   },
+   {
       "agent": "all-agents",
-      "views": 771
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016120200"
+   },
+   {
       "agent": "all-agents",
-      "views": 271
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120300"
+   },
+   {
       "agent": "all-agents",
-      "views": 227
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120400"
+   },
+   {
       "agent": "all-agents",
-      "views": 238
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120500"
+   },
+   {
       "agent": "all-agents",
-      "views": 224
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120600",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016120600"
+   },
+   {
       "agent": "all-agents",
-      "views": 426
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016120700"
+   },
+   {
       "agent": "all-agents",
-      "views": 284
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016120800"
+   },
+   {
       "agent": "all-agents",
-      "views": 327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016120900",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2016120900"
+   },
+   {
       "agent": "all-agents",
-      "views": 812
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016121000"
+   },
+   {
       "agent": "all-agents",
-      "views": 330
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121100"
+   },
+   {
       "agent": "all-agents",
-      "views": 225
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121200"
+   },
+   {
       "agent": "all-agents",
-      "views": 138
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121300"
+   },
+   {
       "agent": "all-agents",
-      "views": 262
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121400",
-      "access": "all-access",
+      "views": 29,
+      "timestamp": "2016121400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1935
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016121500"
+   },
+   {
       "agent": "all-agents",
-      "views": 360
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121600",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016121600"
+   },
+   {
       "agent": "all-agents",
-      "views": 492
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121700"
+   },
+   {
       "agent": "all-agents",
-      "views": 125
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121800"
+   },
+   {
       "agent": "all-agents",
-      "views": 103
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016121900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121900"
+   },
+   {
       "agent": "all-agents",
-      "views": 90
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122000"
+   },
+   {
       "agent": "all-agents",
-      "views": 99
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122100"
+   },
+   {
       "agent": "all-agents",
-      "views": 154
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122200"
+   },
+   {
       "agent": "all-agents",
-      "views": 135
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122300"
+   },
+   {
       "agent": "all-agents",
-      "views": 120
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122400"
+   },
+   {
       "agent": "all-agents",
-      "views": 76
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122500"
+   },
+   {
       "agent": "all-agents",
-      "views": 81
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016122600"
+   },
+   {
       "agent": "all-agents",
-      "views": 196
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122700"
+   },
+   {
       "agent": "all-agents",
-      "views": 97
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122800"
+   },
+   {
       "agent": "all-agents",
-      "views": 94
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016122900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122900"
+   },
+   {
       "agent": "all-agents",
-      "views": 73
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016123000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016123000"
+   },
+   {
       "agent": "all-agents",
-      "views": 77
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2016123100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016123100"
+   },
+   {
       "agent": "all-agents",
-      "views": 93
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010100"
+   },
+   {
       "agent": "all-agents",
-      "views": 70
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010200"
+   },
+   {
       "agent": "all-agents",
-      "views": 109
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010300"
+   },
+   {
       "agent": "all-agents",
-      "views": 131
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010400"
+   },
+   {
       "agent": "all-agents",
-      "views": 106
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010500"
+   },
+   {
       "agent": "all-agents",
-      "views": 92
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010600"
+   },
+   {
       "agent": "all-agents",
-      "views": 81
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010700"
+   },
+   {
       "agent": "all-agents",
-      "views": 84
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010800"
+   },
+   {
       "agent": "all-agents",
-      "views": 90
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017010900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017010900"
+   },
+   {
       "agent": "all-agents",
-      "views": 348
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017011000"
+   },
+   {
       "agent": "all-agents",
-      "views": 255
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011100"
+   },
+   {
       "agent": "all-agents",
-      "views": 89
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011200"
+   },
+   {
       "agent": "all-agents",
-      "views": 84
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011300"
+   },
+   {
       "agent": "all-agents",
-      "views": 78
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011400"
+   },
+   {
       "agent": "all-agents",
-      "views": 88
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011500"
+   },
+   {
       "agent": "all-agents",
-      "views": 64
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011600"
+   },
+   {
       "agent": "all-agents",
-      "views": 78
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017011700"
+   },
+   {
       "agent": "all-agents",
-      "views": 97
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017011800"
+   },
+   {
       "agent": "all-agents",
-      "views": 143
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017011900",
-      "access": "all-access",
+      "views": 25,
+      "timestamp": "2017011900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1676
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017012000"
+   },
+   {
       "agent": "all-agents",
-      "views": 201
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012100"
+   },
+   {
       "agent": "all-agents",
-      "views": 85
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012200"
+   },
+   {
       "agent": "all-agents",
-      "views": 93
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012300"
+   },
+   {
       "agent": "all-agents",
-      "views": 114
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017012400"
+   },
+   {
       "agent": "all-agents",
-      "views": 237
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012500"
+   },
+   {
       "agent": "all-agents",
-      "views": 129
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012600"
+   },
+   {
       "agent": "all-agents",
-      "views": 107
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017012700"
+   },
+   {
       "agent": "all-agents",
-      "views": 147
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012800"
+   },
+   {
       "agent": "all-agents",
-      "views": 92
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017012900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017012900"
+   },
+   {
       "agent": "all-agents",
-      "views": 91
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017013000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017013000"
+   },
+   {
       "agent": "all-agents",
-      "views": 123
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017013100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017013100"
+   },
+   {
       "agent": "all-agents",
-      "views": 236
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017020100"
+   },
+   {
       "agent": "all-agents",
-      "views": 423
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020200",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017020200"
+   },
+   {
       "agent": "all-agents",
-      "views": 400
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020300",
-      "access": "all-access",
+      "views": 24,
+      "timestamp": "2017020300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1627
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017020400"
+   },
+   {
       "agent": "all-agents",
-      "views": 271
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017020500"
+   },
+   {
       "agent": "all-agents",
-      "views": 187
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017020600"
+   },
+   {
       "agent": "all-agents",
-      "views": 183
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017020700"
+   },
+   {
       "agent": "all-agents",
-      "views": 206
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017020800"
+   },
+   {
       "agent": "all-agents",
-      "views": 253
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017020900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017020900"
+   },
+   {
       "agent": "all-agents",
-      "views": 213
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 195
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 224
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 189
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 201
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021400",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2017021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 721
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 201
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 235
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 341
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 181
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017021900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 111
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 103
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 165
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 239
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 180
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 155
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 129
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 156
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 170
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017022800",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1278
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 455
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 228
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 255
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 183
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 161
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 118
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 127
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 215
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017030900",
-      "access": "all-access",
+      "views": 39,
+      "timestamp": "2017030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2582
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031000",
-      "access": "all-access",
+      "views": 25,
+      "timestamp": "2017031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1664
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031100",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 797
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031200",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 540
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031300",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 431
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031400",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 436
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 380
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 276
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031700",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 439
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 227
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017031900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 272
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032000",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 411
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 289
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 241
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 309
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 241
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 278
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 262
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 351
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 343
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017032900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 287
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017033000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 279
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017033100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 449
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040100",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 554
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040200",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 411
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 465
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040400",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 652
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040500",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2017040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 910
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040600",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2017040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 900
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040700",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 600
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040800",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 529
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017040900",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2017040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 665
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041000",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 583
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041100",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 530
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041200",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 656
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041300",
-      "access": "all-access",
+      "views": 54,
+      "timestamp": "2017041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3618
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041400",
-      "access": "all-access",
+      "views": 35,
+      "timestamp": "2017041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2353
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041500",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1200
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041600",
-      "access": "all-access",
+      "views": 23,
+      "timestamp": "2017041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1578
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041700",
-      "access": "all-access",
+      "views": 41,
+      "timestamp": "2017041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2757
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041800",
-      "access": "all-access",
+      "views": 33,
+      "timestamp": "2017041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2217
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017041900",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2017041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 6590
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042000",
-      "access": "all-access",
+      "views": 57,
+      "timestamp": "2017042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 3767
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042100",
-      "access": "all-access",
+      "views": 33,
+      "timestamp": "2017042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2211
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042200",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1744
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042300",
-      "access": "all-access",
+      "views": 70,
+      "timestamp": "2017042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 4638
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042400",
-      "access": "all-access",
+      "views": 37,
+      "timestamp": "2017042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2480
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042500",
-      "access": "all-access",
+      "views": 70,
+      "timestamp": "2017042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 4623
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042600",
-      "access": "all-access",
+      "views": 68,
+      "timestamp": "2017042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 4527
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042700",
-      "access": "all-access",
+      "views": 50,
+      "timestamp": "2017042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3329
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042800",
-      "access": "all-access",
+      "views": 64,
+      "timestamp": "2017042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4262
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017042900",
-      "access": "all-access",
+      "views": 41,
+      "timestamp": "2017042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2730
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017043000",
-      "access": "all-access",
+      "views": 30,
+      "timestamp": "2017043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2001
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050100",
-      "access": "all-access",
+      "views": 25,
+      "timestamp": "2017050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1648
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050200",
-      "access": "all-access",
+      "views": 53,
+      "timestamp": "2017050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3545
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050300",
-      "access": "all-access",
+      "views": 47,
+      "timestamp": "2017050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3112
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050400",
-      "access": "all-access",
+      "views": 40,
+      "timestamp": "2017050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2673
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050500",
-      "access": "all-access",
+      "views": 38,
+      "timestamp": "2017050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2558
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050600",
-      "access": "all-access",
+      "views": 31,
+      "timestamp": "2017050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2058
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050700",
-      "access": "all-access",
+      "views": 31,
+      "timestamp": "2017050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2104
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050800",
-      "access": "all-access",
+      "views": 44,
+      "timestamp": "2017050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2949
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017050900",
-      "access": "all-access",
+      "views": 87,
+      "timestamp": "2017050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 5773
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051000",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1769
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051100",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1121
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051200",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 846
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 506
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051400",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 330
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 219
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 246
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 264
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017051900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 200
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 197
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 178
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 129
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 140
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 139
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 121
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 113
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 102
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052800",
-      "access": "all-access",
+      "views": 29,
+      "timestamp": "2017052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1931
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017052900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017053000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 199
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017053100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 204
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 133
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 169
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 234
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 110
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 88
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 121
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060700"
+   },
+   {
       "agent": "all-agents",
-      "views": 86
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060800"
+   },
+   {
       "agent": "all-agents",
-      "views": 78
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "ko.wikipedia",
       "article": "심상정",
-      "granularity": "daily",
-      "timestamp": "2017060900",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 81
-    }
-  ]
-}
+      "views": 1,
+      "timestamp": "2017060900"
+   }
+]}

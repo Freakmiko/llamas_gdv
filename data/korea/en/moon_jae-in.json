@@ -1,1723 +1,1721 @@
-{
-  "items": [
-    {
+{"items": [
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120100"
+   },
+   {
       "agent": "all-agents",
-      "views": 406
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120200"
+   },
+   {
       "agent": "all-agents",
-      "views": 377
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120300"
+   },
+   {
       "agent": "all-agents",
-      "views": 397
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120400"
+   },
+   {
       "agent": "all-agents",
-      "views": 364
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120500"
+   },
+   {
       "agent": "all-agents",
-      "views": 351
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120600"
+   },
+   {
       "agent": "all-agents",
-      "views": 358
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120700"
+   },
+   {
       "agent": "all-agents",
-      "views": 297
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016120800"
+   },
+   {
       "agent": "all-agents",
-      "views": 429
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016120900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2241
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1243
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121100"
+   },
+   {
       "agent": "all-agents",
-      "views": 486
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121200"
+   },
+   {
       "agent": "all-agents",
-      "views": 567
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121300"
+   },
+   {
       "agent": "all-agents",
-      "views": 492
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121400"
+   },
+   {
       "agent": "all-agents",
-      "views": 403
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121500"
+   },
+   {
       "agent": "all-agents",
-      "views": 479
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121600"
+   },
+   {
       "agent": "all-agents",
-      "views": 340
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121700"
+   },
+   {
       "agent": "all-agents",
-      "views": 327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121800"
+   },
+   {
       "agent": "all-agents",
-      "views": 231
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016121900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121900"
+   },
+   {
       "agent": "all-agents",
-      "views": 250
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122000"
+   },
+   {
       "agent": "all-agents",
-      "views": 250
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122100"
+   },
+   {
       "agent": "all-agents",
-      "views": 244
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122200"
+   },
+   {
       "agent": "all-agents",
-      "views": 206
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122300"
+   },
+   {
       "agent": "all-agents",
-      "views": 501
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122400"
+   },
+   {
       "agent": "all-agents",
-      "views": 418
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122500"
+   },
+   {
       "agent": "all-agents",
-      "views": 296
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122600"
+   },
+   {
       "agent": "all-agents",
-      "views": 345
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122700"
+   },
+   {
       "agent": "all-agents",
-      "views": 410
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122800"
+   },
+   {
       "agent": "all-agents",
-      "views": 345
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016122900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122900"
+   },
+   {
       "agent": "all-agents",
-      "views": 291
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016123000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016123000"
+   },
+   {
       "agent": "all-agents",
-      "views": 267
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2016123100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016123100"
+   },
+   {
       "agent": "all-agents",
-      "views": 214
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010100"
+   },
+   {
       "agent": "all-agents",
-      "views": 375
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010200"
+   },
+   {
       "agent": "all-agents",
-      "views": 530
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010300"
+   },
+   {
       "agent": "all-agents",
-      "views": 382
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010400"
+   },
+   {
       "agent": "all-agents",
-      "views": 313
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010500"
+   },
+   {
       "agent": "all-agents",
-      "views": 312
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010600"
+   },
+   {
       "agent": "all-agents",
-      "views": 370
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010700"
+   },
+   {
       "agent": "all-agents",
-      "views": 484
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010800"
+   },
+   {
       "agent": "all-agents",
-      "views": 311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017010900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010900"
+   },
+   {
       "agent": "all-agents",
-      "views": 333
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011000"
+   },
+   {
       "agent": "all-agents",
-      "views": 280
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011100"
+   },
+   {
       "agent": "all-agents",
-      "views": 260
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011200"
+   },
+   {
       "agent": "all-agents",
-      "views": 428
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011300"
+   },
+   {
       "agent": "all-agents",
-      "views": 577
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011400"
+   },
+   {
       "agent": "all-agents",
-      "views": 387
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011500"
+   },
+   {
       "agent": "all-agents",
-      "views": 407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011600"
+   },
+   {
       "agent": "all-agents",
-      "views": 608
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011700"
+   },
+   {
       "agent": "all-agents",
-      "views": 443
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011800"
+   },
+   {
       "agent": "all-agents",
-      "views": 450
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017011900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017011900"
+   },
+   {
       "agent": "all-agents",
-      "views": 403
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012000"
+   },
+   {
       "agent": "all-agents",
-      "views": 298
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012100"
+   },
+   {
       "agent": "all-agents",
-      "views": 347
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012200"
+   },
+   {
       "agent": "all-agents",
-      "views": 359
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012300"
+   },
+   {
       "agent": "all-agents",
-      "views": 370
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012400"
+   },
+   {
       "agent": "all-agents",
-      "views": 348
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012500"
+   },
+   {
       "agent": "all-agents",
-      "views": 332
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012600"
+   },
+   {
       "agent": "all-agents",
-      "views": 356
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012700"
+   },
+   {
       "agent": "all-agents",
-      "views": 406
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012800"
+   },
+   {
       "agent": "all-agents",
-      "views": 307
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017012900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017012900"
+   },
+   {
       "agent": "all-agents",
-      "views": 309
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017013000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017013000"
+   },
+   {
       "agent": "all-agents",
-      "views": 304
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017013100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017013100"
+   },
+   {
       "agent": "all-agents",
-      "views": 281
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017020100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1288
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017020200"
+   },
+   {
       "agent": "all-agents",
-      "views": 810
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020300"
+   },
+   {
       "agent": "all-agents",
-      "views": 508
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020400"
+   },
+   {
       "agent": "all-agents",
-      "views": 440
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020500"
+   },
+   {
       "agent": "all-agents",
-      "views": 413
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020600"
+   },
+   {
       "agent": "all-agents",
-      "views": 471
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020700"
+   },
+   {
       "agent": "all-agents",
-      "views": 428
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020800"
+   },
+   {
       "agent": "all-agents",
-      "views": 428
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017020900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017020900"
+   },
+   {
       "agent": "all-agents",
-      "views": 517
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 533
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 432
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 632
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 498
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 381
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 353
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 449
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 322
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017021900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 400
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 346
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 290
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 285
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 238
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 211
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 290
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 308
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 460
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017022800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 334
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 743
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 373
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 266
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 236
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 246
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 289
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 357
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 348
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017030900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 459
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031000",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2017031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 8710
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3053
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3037
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2286
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1360
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1236
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 999
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1212
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 779
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017031900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 862
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 925
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 860
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 708
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 690
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 655
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 521
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 551
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1004
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 646
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017032900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 609
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017033000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 764
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017033100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1169
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 720
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 571
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1368
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1121
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 943
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 861
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 749
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 567
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017040900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 760
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 919
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1136
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 833
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 774
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 945
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 915
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 959
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1761
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017041900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1248
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1496
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1215
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1811
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1599
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1710
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1613
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1892
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1644
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1864
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017042900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1546
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017043000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1408
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1506
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2580
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2357
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2660
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3048
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2118
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2887
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050800",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2017050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 6107
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017050900",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2017050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 63937
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051000",
-      "access": "all-access",
+      "views": 85,
+      "timestamp": "2017051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 54456
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051100",
-      "access": "all-access",
+      "views": 32,
+      "timestamp": "2017051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 20515
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051200",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2017051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 10655
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051300",
-      "access": "all-access",
+      "views": 33,
+      "timestamp": "2017051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 21538
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051400",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 16848
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051500",
-      "access": "all-access",
+      "views": 23,
+      "timestamp": "2017051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 14752
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051600",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 12553
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051700",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2017051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 10412
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051800",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 9299
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017051900",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2017051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 8929
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052000",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 4751
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2935
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2862
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3753
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2642
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2414
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1988
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1816
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1783
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017052900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017053000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2348
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017053100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2444
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2508
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1674
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1444
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1471
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1771
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1613
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1829
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017060800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2027
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Moon_Jae-in",
-      "granularity": "daily",
-      "timestamp": "2017060900",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 1556
-    }
-  ]
-}
+      "views": 2,
+      "timestamp": "2017060900"
+   }
+]}

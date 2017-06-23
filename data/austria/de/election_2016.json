@@ -1,3127 +1,3125 @@
-{
-  "items": [
-    {
-      "project": "de.wikipedia",
-      "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012400",
-      "access": "all-access",
+{"items": [
+   {
       "agent": "all-agents",
-      "views": 890
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016012400"
+   },
+   {
       "agent": "all-agents",
-      "views": 948
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016012500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1207
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016012600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1468
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016012700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3403
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016012900",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016012800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2281
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016013000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016012900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1398
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016013100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016013000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1580
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016013100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1336
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016020100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1358
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016020200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1104
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016020300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1325
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016020400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1328
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016020500"
+   },
+   {
       "agent": "all-agents",
-      "views": 897
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016020600"
+   },
+   {
       "agent": "all-agents",
-      "views": 958
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016020700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1061
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016020900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016020800"
+   },
+   {
       "agent": "all-agents",
-      "views": 880
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016020900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1927
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1619
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1109
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 826
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 916
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 902
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 846
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 768
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 682
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016021900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 538
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 504
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 687
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1020
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1037
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 956
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 840
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 768
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 594
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 894
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016022900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 885
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016022900"
+   },
+   {
       "agent": "all-agents",
-      "views": 801
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 946
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 899
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 680
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 649
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 765
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 844
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 902
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016030900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 883
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 764
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 815
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 614
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1159
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1496
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1245
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1026
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1304
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1404
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016031900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 986
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1089
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1302
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1394
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1925
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1939
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1500
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 927
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1062
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1168
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016032900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016033000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1832
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016033100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1939
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1701
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2476
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2819
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2673
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2647
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3028
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2846
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016040900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2176
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2527
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2909
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041200",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2840
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2617
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 3622
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041500",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 3364
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041600",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2128
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3830
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041800",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 5079
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016041900",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2016041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4113
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042000",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 3803
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 5286
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042200",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2016042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 5775
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042300",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2016042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 7269
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042400",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2016042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 47684
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042500",
-      "access": "all-access",
+      "views": 86,
+      "timestamp": "2016042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 30303
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042600",
-      "access": "all-access",
+      "views": 54,
+      "timestamp": "2016042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 11864
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042700",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2016042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 4523
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042800",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3457
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016042900",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3340
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016043000",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2082
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2687
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2423
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1927
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1766
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1673
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1628
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2498
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016050900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4484
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051000",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2605
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2232
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2611
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2029
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1671
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1873
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3106
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3113
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3079
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016051900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3553
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052000",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 4397
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052100",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 4702
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052200",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 37604
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052300",
-      "access": "all-access",
+      "views": 68,
+      "timestamp": "2016052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 55162
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052400",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2016052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 15668
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052500",
-      "access": "all-access",
+      "views": 28,
+      "timestamp": "2016052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 6613
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052600",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2016052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3314
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052700",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2233
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1369
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016052900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1690
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016053000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1659
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016053100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1248
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1545
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1094
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 684
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 671
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 749
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 957
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 715
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060700"
+   },
+   {
       "agent": "all-agents",
-      "views": 2320
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016060900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016060800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3068
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016060900"
+   },
+   {
       "agent": "all-agents",
-      "views": 810
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061000"
+   },
+   {
       "agent": "all-agents",
-      "views": 490
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061100"
+   },
+   {
       "agent": "all-agents",
-      "views": 693
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061200"
+   },
+   {
       "agent": "all-agents",
-      "views": 753
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061300"
+   },
+   {
       "agent": "all-agents",
-      "views": 658
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061400"
+   },
+   {
       "agent": "all-agents",
-      "views": 711
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061500"
+   },
+   {
       "agent": "all-agents",
-      "views": 940
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061600"
+   },
+   {
       "agent": "all-agents",
-      "views": 434
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061700"
+   },
+   {
       "agent": "all-agents",
-      "views": 417
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016061900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061800"
+   },
+   {
       "agent": "all-agents",
-      "views": 439
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061900"
+   },
+   {
       "agent": "all-agents",
-      "views": 603
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062000"
+   },
+   {
       "agent": "all-agents",
-      "views": 564
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062100"
+   },
+   {
       "agent": "all-agents",
-      "views": 387
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062200"
+   },
+   {
       "agent": "all-agents",
-      "views": 654
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062300"
+   },
+   {
       "agent": "all-agents",
-      "views": 747
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062400"
+   },
+   {
       "agent": "all-agents",
-      "views": 355
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062500"
+   },
+   {
       "agent": "all-agents",
-      "views": 398
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062600"
+   },
+   {
       "agent": "all-agents",
-      "views": 335
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062700"
+   },
+   {
       "agent": "all-agents",
-      "views": 301
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016062900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062800"
+   },
+   {
       "agent": "all-agents",
-      "views": 380
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016063000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062900"
+   },
+   {
       "agent": "all-agents",
-      "views": 383
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016063000"
+   },
+   {
       "agent": "all-agents",
-      "views": 8107
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070200",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2016070100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3566
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070300",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016070200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2252
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016070300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2946
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016070400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1228
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016070500"
+   },
+   {
       "agent": "all-agents",
-      "views": 683
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016070600"
+   },
+   {
       "agent": "all-agents",
-      "views": 493
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016070700"
+   },
+   {
       "agent": "all-agents",
-      "views": 605
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016070900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016070800"
+   },
+   {
       "agent": "all-agents",
-      "views": 589
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016070900"
+   },
+   {
       "agent": "all-agents",
-      "views": 655
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071000"
+   },
+   {
       "agent": "all-agents",
-      "views": 484
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071100"
+   },
+   {
       "agent": "all-agents",
-      "views": 452
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071200"
+   },
+   {
       "agent": "all-agents",
-      "views": 419
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071300"
+   },
+   {
       "agent": "all-agents",
-      "views": 456
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071400"
+   },
+   {
       "agent": "all-agents",
-      "views": 366
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071500"
+   },
+   {
       "agent": "all-agents",
-      "views": 331
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071600"
+   },
+   {
       "agent": "all-agents",
-      "views": 415
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071700"
+   },
+   {
       "agent": "all-agents",
-      "views": 428
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016071900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071800"
+   },
+   {
       "agent": "all-agents",
-      "views": 427
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016071900"
+   },
+   {
       "agent": "all-agents",
-      "views": 385
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072000"
+   },
+   {
       "agent": "all-agents",
-      "views": 362
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072100"
+   },
+   {
       "agent": "all-agents",
-      "views": 356
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072200"
+   },
+   {
       "agent": "all-agents",
-      "views": 283
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072300"
+   },
+   {
       "agent": "all-agents",
-      "views": 359
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072400"
+   },
+   {
       "agent": "all-agents",
-      "views": 424
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072500"
+   },
+   {
       "agent": "all-agents",
-      "views": 373
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072600"
+   },
+   {
       "agent": "all-agents",
-      "views": 432
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072700"
+   },
+   {
       "agent": "all-agents",
-      "views": 418
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016072900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072800"
+   },
+   {
       "agent": "all-agents",
-      "views": 400
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016073000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016072900"
+   },
+   {
       "agent": "all-agents",
-      "views": 364
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016073100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016073000"
+   },
+   {
       "agent": "all-agents",
-      "views": 384
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016073100"
+   },
+   {
       "agent": "all-agents",
-      "views": 428
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080100"
+   },
+   {
       "agent": "all-agents",
-      "views": 357
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080200"
+   },
+   {
       "agent": "all-agents",
-      "views": 373
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080300"
+   },
+   {
       "agent": "all-agents",
-      "views": 558
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080400"
+   },
+   {
       "agent": "all-agents",
-      "views": 442
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080500"
+   },
+   {
       "agent": "all-agents",
-      "views": 328
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080600"
+   },
+   {
       "agent": "all-agents",
-      "views": 364
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080700"
+   },
+   {
       "agent": "all-agents",
-      "views": 326
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016080900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080800"
+   },
+   {
       "agent": "all-agents",
-      "views": 411
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016080900"
+   },
+   {
       "agent": "all-agents",
-      "views": 407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081000"
+   },
+   {
       "agent": "all-agents",
-      "views": 384
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081100"
+   },
+   {
       "agent": "all-agents",
-      "views": 388
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081200"
+   },
+   {
       "agent": "all-agents",
-      "views": 300
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081300"
+   },
+   {
       "agent": "all-agents",
-      "views": 308
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081400"
+   },
+   {
       "agent": "all-agents",
-      "views": 407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081500"
+   },
+   {
       "agent": "all-agents",
-      "views": 427
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081600"
+   },
+   {
       "agent": "all-agents",
-      "views": 446
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081700"
+   },
+   {
       "agent": "all-agents",
-      "views": 376
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016081900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081800"
+   },
+   {
       "agent": "all-agents",
-      "views": 417
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016081900"
+   },
+   {
       "agent": "all-agents",
-      "views": 388
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082000"
+   },
+   {
       "agent": "all-agents",
-      "views": 521
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082100"
+   },
+   {
       "agent": "all-agents",
-      "views": 576
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082200"
+   },
+   {
       "agent": "all-agents",
-      "views": 570
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082300"
+   },
+   {
       "agent": "all-agents",
-      "views": 487
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082400"
+   },
+   {
       "agent": "all-agents",
-      "views": 589
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082500"
+   },
+   {
       "agent": "all-agents",
-      "views": 514
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082600"
+   },
+   {
       "agent": "all-agents",
-      "views": 406
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082700"
+   },
+   {
       "agent": "all-agents",
-      "views": 547
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016082900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016082800"
+   },
+   {
       "agent": "all-agents",
-      "views": 765
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016083000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082900"
+   },
+   {
       "agent": "all-agents",
-      "views": 768
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016083100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016083000"
+   },
+   {
       "agent": "all-agents",
-      "views": 583
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016083100"
+   },
+   {
       "agent": "all-agents",
-      "views": 651
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090100"
+   },
+   {
       "agent": "all-agents",
-      "views": 633
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090200"
+   },
+   {
       "agent": "all-agents",
-      "views": 631
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090300"
+   },
+   {
       "agent": "all-agents",
-      "views": 849
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1076
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1538
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090600"
+   },
+   {
       "agent": "all-agents",
-      "views": 932
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1003
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016090900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1097
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090900"
+   },
+   {
       "agent": "all-agents",
-      "views": 789
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091000"
+   },
+   {
       "agent": "all-agents",
-      "views": 677
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091100"
+   },
+   {
       "agent": "all-agents",
-      "views": 4012
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016091200"
+   },
+   {
       "agent": "all-agents",
-      "views": 4655
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091400",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016091300"
+   },
+   {
       "agent": "all-agents",
-      "views": 986
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091400"
+   },
+   {
       "agent": "all-agents",
-      "views": 657
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091500"
+   },
+   {
       "agent": "all-agents",
-      "views": 581
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091600"
+   },
+   {
       "agent": "all-agents",
-      "views": 590
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091700"
+   },
+   {
       "agent": "all-agents",
-      "views": 713
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016091900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091800"
+   },
+   {
       "agent": "all-agents",
-      "views": 773
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091900"
+   },
+   {
       "agent": "all-agents",
-      "views": 642
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092000"
+   },
+   {
       "agent": "all-agents",
-      "views": 571
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092100"
+   },
+   {
       "agent": "all-agents",
-      "views": 478
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016092200"
+   },
+   {
       "agent": "all-agents",
-      "views": 580
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092300"
+   },
+   {
       "agent": "all-agents",
-      "views": 446
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016092400"
+   },
+   {
       "agent": "all-agents",
-      "views": 528
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016092500"
+   },
+   {
       "agent": "all-agents",
-      "views": 672
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092600"
+   },
+   {
       "agent": "all-agents",
-      "views": 592
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092700"
+   },
+   {
       "agent": "all-agents",
-      "views": 469
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016092900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016092800"
+   },
+   {
       "agent": "all-agents",
-      "views": 547
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016093000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016092900"
+   },
+   {
       "agent": "all-agents",
-      "views": 475
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016093000"
+   },
+   {
       "agent": "all-agents",
-      "views": 625
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100100"
+   },
+   {
       "agent": "all-agents",
-      "views": 802
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100200"
+   },
+   {
       "agent": "all-agents",
-      "views": 784
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100300"
+   },
+   {
       "agent": "all-agents",
-      "views": 632
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100400"
+   },
+   {
       "agent": "all-agents",
-      "views": 496
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016100500"
+   },
+   {
       "agent": "all-agents",
-      "views": 392
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016100600"
+   },
+   {
       "agent": "all-agents",
-      "views": 323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016100700"
+   },
+   {
       "agent": "all-agents",
-      "views": 311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016100900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016100800"
+   },
+   {
       "agent": "all-agents",
-      "views": 378
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016100900"
+   },
+   {
       "agent": "all-agents",
-      "views": 363
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101000"
+   },
+   {
       "agent": "all-agents",
-      "views": 435
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101100"
+   },
+   {
       "agent": "all-agents",
-      "views": 700
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101200"
+   },
+   {
       "agent": "all-agents",
-      "views": 415
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101300"
+   },
+   {
       "agent": "all-agents",
-      "views": 323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101400"
+   },
+   {
       "agent": "all-agents",
-      "views": 348
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101500"
+   },
+   {
       "agent": "all-agents",
-      "views": 405
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101600"
+   },
+   {
       "agent": "all-agents",
-      "views": 452
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101700"
+   },
+   {
       "agent": "all-agents",
-      "views": 479
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016101900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101800"
+   },
+   {
       "agent": "all-agents",
-      "views": 405
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016101900"
+   },
+   {
       "agent": "all-agents",
-      "views": 433
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102000"
+   },
+   {
       "agent": "all-agents",
-      "views": 346
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102100"
+   },
+   {
       "agent": "all-agents",
-      "views": 331
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102200"
+   },
+   {
       "agent": "all-agents",
-      "views": 487
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102300"
+   },
+   {
       "agent": "all-agents",
-      "views": 516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102400"
+   },
+   {
       "agent": "all-agents",
-      "views": 479
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102500"
+   },
+   {
       "agent": "all-agents",
-      "views": 411
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102600"
+   },
+   {
       "agent": "all-agents",
-      "views": 436
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102700"
+   },
+   {
       "agent": "all-agents",
-      "views": 381
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016102900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102800"
+   },
+   {
       "agent": "all-agents",
-      "views": 358
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016103000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016102900"
+   },
+   {
       "agent": "all-agents",
-      "views": 464
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016103100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016103000"
+   },
+   {
       "agent": "all-agents",
-      "views": 398
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110100",
+      "views": 0,
+      "timestamp": "2016103100"
+   },
+   {
+      "agent": "all-agents",
       "access": "all-access",
+      "granularity": "daily",
+      "project": "de.wikipedia",
+      "article": "Bundespräsidentenwahl_in_Österreich_2016",
+      "views": 0,
+      "timestamp": "2016110100"
+   },
+   {
       "agent": "all-agents",
-      "views": 423
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016110200"
+   },
+   {
       "agent": "all-agents",
-      "views": 516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016110300"
+   },
+   {
       "agent": "all-agents",
-      "views": 516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016110400"
+   },
+   {
       "agent": "all-agents",
-      "views": 577
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016110500"
+   },
+   {
       "agent": "all-agents",
-      "views": 534
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016110600"
+   },
+   {
       "agent": "all-agents",
-      "views": 632
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016110700"
+   },
+   {
       "agent": "all-agents",
-      "views": 775
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016110800"
+   },
+   {
       "agent": "all-agents",
-      "views": 856
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016110900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016110900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2527
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016111000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1414
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1021
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111200"
+   },
+   {
       "agent": "all-agents",
-      "views": 904
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1015
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016111400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1176
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111500"
+   },
+   {
       "agent": "all-agents",
-      "views": 987
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016111600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1141
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016111700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1139
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111800"
+   },
+   {
       "agent": "all-agents",
-      "views": 953
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016111900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016111900"
+   },
+   {
       "agent": "all-agents",
-      "views": 972
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1333
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1472
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1183
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1205
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016112400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1091
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1355
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016112600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1342
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016112700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1923
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016112800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1991
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016112900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016112900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1940
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016113000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016113000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2074
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016120100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2615
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120200",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016120200"
+   },
+   {
       "agent": "all-agents",
-      "views": 4636
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120300",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016120300"
+   },
+   {
       "agent": "all-agents",
-      "views": 4607
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120400",
-      "access": "all-access",
+      "views": 53,
+      "timestamp": "2016120400"
+   },
+   {
       "agent": "all-agents",
-      "views": 29321
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120500",
-      "access": "all-access",
+      "views": 32,
+      "timestamp": "2016120500"
+   },
+   {
       "agent": "all-agents",
-      "views": 17855
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120600",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2016120600"
+   },
+   {
       "agent": "all-agents",
-      "views": 7838
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120700",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016120700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3753
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016120800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2143
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016120900",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016120900"
+   },
+   {
       "agent": "all-agents",
-      "views": 3571
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016121000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2270
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1732
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1362
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1091
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121400"
+   },
+   {
       "agent": "all-agents",
-      "views": 911
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121500"
+   },
+   {
       "agent": "all-agents",
-      "views": 773
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121600"
+   },
+   {
       "agent": "all-agents",
-      "views": 543
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016121700"
+   },
+   {
       "agent": "all-agents",
-      "views": 435
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121800"
+   },
+   {
       "agent": "all-agents",
-      "views": 622
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016121900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121900"
+   },
+   {
       "agent": "all-agents",
-      "views": 576
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122000"
+   },
+   {
       "agent": "all-agents",
-      "views": 441
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122100"
+   },
+   {
       "agent": "all-agents",
-      "views": 450
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122200"
+   },
+   {
       "agent": "all-agents",
-      "views": 346
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122300"
+   },
+   {
       "agent": "all-agents",
-      "views": 316
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122400"
+   },
+   {
       "agent": "all-agents",
-      "views": 211
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122500"
+   },
+   {
       "agent": "all-agents",
-      "views": 224
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122600"
+   },
+   {
       "agent": "all-agents",
-      "views": 294
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122700"
+   },
+   {
       "agent": "all-agents",
-      "views": 268
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122800"
+   },
+   {
       "agent": "all-agents",
-      "views": 281
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016122900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122900"
+   },
+   {
       "agent": "all-agents",
-      "views": 309
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016123000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016123000"
+   },
+   {
       "agent": "all-agents",
-      "views": 341
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2016123100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016123100"
+   },
+   {
       "agent": "all-agents",
-      "views": 311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2017010100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010100"
+   },
+   {
       "agent": "all-agents",
-      "views": 499
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2017010200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010200"
+   },
+   {
       "agent": "all-agents",
-      "views": 384
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2017010300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2017010300"
+   },
+   {
       "agent": "all-agents",
-      "views": 320
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "de.wikipedia",
       "article": "Bundespräsidentenwahl_in_Österreich_2016",
-      "granularity": "daily",
-      "timestamp": "2017010400",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 296
-    }
-  ]
-}
+      "views": 0,
+      "timestamp": "2017010400"
+   }
+]}

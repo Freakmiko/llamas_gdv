@@ -1,1066 +1,1064 @@
-{
-  "items": [
-    {
+{"items": [
+   {
+      "agent": "all-agents",
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021000",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 12798
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 9483
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 11317
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 13342
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 11027
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 10931
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 12218
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 12957
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 9883
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017021900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 10443
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 13640
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 17498
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022200",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 20516
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 15726
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022400",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 14285
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 10981
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 11874
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 14290
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017022800",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 14605
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 18347
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030200",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 16945
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030300",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 15494
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 12015
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 15849
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030600",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 23775
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 14282
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 12220
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017030900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 12491
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 10496
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 8433
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 10305
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 12847
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031400",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 16966
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031500",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 16237
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031600",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 19090
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 12693
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 11777
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017031900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 12178
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 15992
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032100",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 19390
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 13301
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 11377
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032400",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 13163
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032500",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 10432
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 12413
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 13929
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 12858
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017032900",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 16346
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017033000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 14843
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017033100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 11455
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 9844
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 12356
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040300",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 17308
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040400",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 16430
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040500",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 19595
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040600",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 16145
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 13414
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 11418
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017040900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2017040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 14804
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041000",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 21788
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041100",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 19777
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041200",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 19262
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 20478
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041400",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 21738
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041500",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 20562
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041600",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2017041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 22376
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041700",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 46863
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041800",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 57146
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017041900",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2017041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 47449
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042000",
-      "access": "all-access",
+      "views": 22,
+      "timestamp": "2017042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 59264
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042100",
-      "access": "all-access",
+      "views": 32,
+      "timestamp": "2017042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 86476
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042200",
-      "access": "all-access",
+      "views": 29,
+      "timestamp": "2017042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 78855
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042300",
-      "access": "all-access",
+      "views": 98,
+      "timestamp": "2017042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 264469
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042400",
-      "access": "all-access",
+      "views": 79,
+      "timestamp": "2017042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 214512
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042500",
-      "access": "all-access",
+      "views": 32,
+      "timestamp": "2017042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 87881
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042600",
-      "access": "all-access",
+      "views": 24,
+      "timestamp": "2017042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 64741
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042700",
-      "access": "all-access",
+      "views": 20,
+      "timestamp": "2017042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 53728
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042800",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2017042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 45455
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017042900",
-      "access": "all-access",
+      "views": 14,
+      "timestamp": "2017042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 39105
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017043000",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2017043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 40479
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050100",
-      "access": "all-access",
+      "views": 19,
+      "timestamp": "2017050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 52509
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050200",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 49129
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050300",
-      "access": "all-access",
+      "views": 18,
+      "timestamp": "2017050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 48740
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050400",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2017050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 57148
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050500",
-      "access": "all-access",
+      "views": 23,
+      "timestamp": "2017050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 63675
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050600",
-      "access": "all-access",
+      "views": 30,
+      "timestamp": "2017050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 81028
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050700",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2017050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 268285
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050800",
-      "access": "all-access",
+      "views": 72,
+      "timestamp": "2017050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 193964
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017050900",
-      "access": "all-access",
+      "views": 26,
+      "timestamp": "2017050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 70906
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051000",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2017051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 43340
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051100",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2017051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 32294
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051200",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2017051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 26894
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051300",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 20005
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051400",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2017051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 19012
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051500",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2017051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 17168
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2017051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 12598
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 10422
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 9073
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017051900",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 8418
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 7518
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 8017
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 8187
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2017052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 8052
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 7949
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 7107
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 6079
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 5262
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 5508
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017052900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 6362
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017053000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 6222
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017053100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 5662
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 5468
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2017060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 6022
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 4846
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 4703
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 4710
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 4710
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "French_presidential_election,_2017",
-      "granularity": "daily",
-      "timestamp": "2017060700",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 4355
-    }
-  ]
-}
+      "views": 1,
+      "timestamp": "2017060700"
+   }
+]}

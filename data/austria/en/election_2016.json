@@ -1,3127 +1,3125 @@
-{
-  "items": [
-    {
-      "project": "en.wikipedia",
-      "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012400",
-      "access": "all-access",
+{"items": [
+   {
       "agent": "all-agents",
-      "views": 235
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012400"
+   },
+   {
       "agent": "all-agents",
-      "views": 269
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012500"
+   },
+   {
       "agent": "all-agents",
-      "views": 228
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012600"
+   },
+   {
       "agent": "all-agents",
-      "views": 290
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012700"
+   },
+   {
       "agent": "all-agents",
-      "views": 292
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016012900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012800"
+   },
+   {
       "agent": "all-agents",
-      "views": 294
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016013000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016012900"
+   },
+   {
       "agent": "all-agents",
-      "views": 305
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016013100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016013000"
+   },
+   {
       "agent": "all-agents",
-      "views": 269
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016013100"
+   },
+   {
       "agent": "all-agents",
-      "views": 215
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020100"
+   },
+   {
       "agent": "all-agents",
-      "views": 249
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020200"
+   },
+   {
       "agent": "all-agents",
-      "views": 248
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020300"
+   },
+   {
       "agent": "all-agents",
-      "views": 209
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020400"
+   },
+   {
       "agent": "all-agents",
-      "views": 323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020500"
+   },
+   {
       "agent": "all-agents",
-      "views": 216
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020600"
+   },
+   {
       "agent": "all-agents",
-      "views": 225
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020700"
+   },
+   {
       "agent": "all-agents",
-      "views": 275
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016020900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020800"
+   },
+   {
       "agent": "all-agents",
-      "views": 216
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016020900"
+   },
+   {
       "agent": "all-agents",
-      "views": 258
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021000"
+   },
+   {
       "agent": "all-agents",
-      "views": 243
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021100"
+   },
+   {
       "agent": "all-agents",
-      "views": 186
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021200"
+   },
+   {
       "agent": "all-agents",
-      "views": 187
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021300"
+   },
+   {
       "agent": "all-agents",
-      "views": 225
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021400"
+   },
+   {
       "agent": "all-agents",
-      "views": 232
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021500"
+   },
+   {
       "agent": "all-agents",
-      "views": 231
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021600"
+   },
+   {
       "agent": "all-agents",
-      "views": 254
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021700"
+   },
+   {
       "agent": "all-agents",
-      "views": 223
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016021900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021800"
+   },
+   {
       "agent": "all-agents",
-      "views": 203
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016021900"
+   },
+   {
       "agent": "all-agents",
-      "views": 249
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022000"
+   },
+   {
       "agent": "all-agents",
-      "views": 229
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022100"
+   },
+   {
       "agent": "all-agents",
-      "views": 246
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022200"
+   },
+   {
       "agent": "all-agents",
-      "views": 208
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022300"
+   },
+   {
       "agent": "all-agents",
-      "views": 231
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022400"
+   },
+   {
       "agent": "all-agents",
-      "views": 266
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022500"
+   },
+   {
       "agent": "all-agents",
-      "views": 327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022600"
+   },
+   {
       "agent": "all-agents",
-      "views": 258
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022700"
+   },
+   {
       "agent": "all-agents",
-      "views": 277
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016022900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022800"
+   },
+   {
       "agent": "all-agents",
-      "views": 272
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016022900"
+   },
+   {
       "agent": "all-agents",
-      "views": 238
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030100"
+   },
+   {
       "agent": "all-agents",
-      "views": 257
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030200"
+   },
+   {
       "agent": "all-agents",
-      "views": 211
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030300"
+   },
+   {
       "agent": "all-agents",
-      "views": 224
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030400"
+   },
+   {
       "agent": "all-agents",
-      "views": 234
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030500"
+   },
+   {
       "agent": "all-agents",
-      "views": 384
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030600"
+   },
+   {
       "agent": "all-agents",
-      "views": 350
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030700"
+   },
+   {
       "agent": "all-agents",
-      "views": 277
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016030900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030800"
+   },
+   {
       "agent": "all-agents",
-      "views": 294
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016030900"
+   },
+   {
       "agent": "all-agents",
-      "views": 209
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031000"
+   },
+   {
       "agent": "all-agents",
-      "views": 322
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031100"
+   },
+   {
       "agent": "all-agents",
-      "views": 230
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031200"
+   },
+   {
       "agent": "all-agents",
-      "views": 305
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031300"
+   },
+   {
       "agent": "all-agents",
-      "views": 349
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031400"
+   },
+   {
       "agent": "all-agents",
-      "views": 291
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031500"
+   },
+   {
       "agent": "all-agents",
-      "views": 267
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031600"
+   },
+   {
       "agent": "all-agents",
-      "views": 299
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031700"
+   },
+   {
       "agent": "all-agents",
-      "views": 271
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016031900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031800"
+   },
+   {
       "agent": "all-agents",
-      "views": 227
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016031900"
+   },
+   {
       "agent": "all-agents",
-      "views": 286
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032000"
+   },
+   {
       "agent": "all-agents",
-      "views": 291
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032100"
+   },
+   {
       "agent": "all-agents",
-      "views": 299
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032200"
+   },
+   {
       "agent": "all-agents",
-      "views": 380
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032300"
+   },
+   {
       "agent": "all-agents",
-      "views": 409
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032400"
+   },
+   {
       "agent": "all-agents",
-      "views": 366
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032500"
+   },
+   {
       "agent": "all-agents",
-      "views": 250
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032600"
+   },
+   {
       "agent": "all-agents",
-      "views": 281
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032700"
+   },
+   {
       "agent": "all-agents",
-      "views": 395
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016032900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032800"
+   },
+   {
       "agent": "all-agents",
-      "views": 372
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016033000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016032900"
+   },
+   {
       "agent": "all-agents",
-      "views": 364
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016033100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016033000"
+   },
+   {
       "agent": "all-agents",
-      "views": 407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016033100"
+   },
+   {
       "agent": "all-agents",
-      "views": 409
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040100"
+   },
+   {
       "agent": "all-agents",
-      "views": 380
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040200"
+   },
+   {
       "agent": "all-agents",
-      "views": 434
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040300"
+   },
+   {
       "agent": "all-agents",
-      "views": 416
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040400"
+   },
+   {
       "agent": "all-agents",
-      "views": 547
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040500"
+   },
+   {
       "agent": "all-agents",
-      "views": 575
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040600"
+   },
+   {
       "agent": "all-agents",
-      "views": 546
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040700"
+   },
+   {
       "agent": "all-agents",
-      "views": 511
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016040900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040800"
+   },
+   {
       "agent": "all-agents",
-      "views": 474
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016040900"
+   },
+   {
       "agent": "all-agents",
-      "views": 541
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016041000"
+   },
+   {
       "agent": "all-agents",
-      "views": 702
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041100"
+   },
+   {
       "agent": "all-agents",
-      "views": 762
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041200"
+   },
+   {
       "agent": "all-agents",
-      "views": 839
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041300"
+   },
+   {
       "agent": "all-agents",
-      "views": 785
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041400"
+   },
+   {
       "agent": "all-agents",
-      "views": 704
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041500"
+   },
+   {
       "agent": "all-agents",
-      "views": 617
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016041600"
+   },
+   {
       "agent": "all-agents",
-      "views": 692
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041700"
+   },
+   {
       "agent": "all-agents",
-      "views": 945
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016041900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1116
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016041900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1000
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016042000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1066
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016042100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1327
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016042200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1858
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016042300"
+   },
+   {
       "agent": "all-agents",
-      "views": 18203
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042500",
-      "access": "all-access",
+      "views": 27,
+      "timestamp": "2016042400"
+   },
+   {
       "agent": "all-agents",
-      "views": 15002
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042600",
-      "access": "all-access",
+      "views": 22,
+      "timestamp": "2016042500"
+   },
+   {
       "agent": "all-agents",
-      "views": 5679
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042700",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016042600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3280
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016042700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3047
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016042900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016042800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2203
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016043000",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016042900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2020
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016043000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2091
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016050100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2068
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016050200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1938
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1819
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1772
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1602
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1558
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1735
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016050900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016050800"
+   },
+   {
       "agent": "all-agents",
-      "views": 4947
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051000",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016050900"
+   },
+   {
       "agent": "all-agents",
-      "views": 3135
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051000"
+   },
+   {
       "agent": "all-agents",
-      "views": 2955
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2573
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2042
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1843
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016051400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2153
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051500"
+   },
+   {
       "agent": "all-agents",
-      "views": 2434
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051700",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016051600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2894
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016051700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3425
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016051900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016051800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3861
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016051900"
+   },
+   {
       "agent": "all-agents",
-      "views": 4658
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052100",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016052000"
+   },
+   {
       "agent": "all-agents",
-      "views": 6111
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052200",
-      "access": "all-access",
+      "views": 9,
+      "timestamp": "2016052100"
+   },
+   {
       "agent": "all-agents",
-      "views": 30995
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052300",
-      "access": "all-access",
+      "views": 46,
+      "timestamp": "2016052200"
+   },
+   {
       "agent": "all-agents",
-      "views": 59499
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052400",
-      "access": "all-access",
+      "views": 88,
+      "timestamp": "2016052300"
+   },
+   {
       "agent": "all-agents",
-      "views": 21706
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052500",
-      "access": "all-access",
+      "views": 32,
+      "timestamp": "2016052400"
+   },
+   {
       "agent": "all-agents",
-      "views": 8380
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052600",
-      "access": "all-access",
+      "views": 12,
+      "timestamp": "2016052500"
+   },
+   {
       "agent": "all-agents",
-      "views": 5786
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052700",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016052600"
+   },
+   {
       "agent": "all-agents",
-      "views": 5069
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052800",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016052700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3783
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016052900",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016052800"
+   },
+   {
       "agent": "all-agents",
-      "views": 3643
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016053000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016052900"
+   },
+   {
       "agent": "all-agents",
-      "views": 3465
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016053100",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016053000"
+   },
+   {
       "agent": "all-agents",
-      "views": 3092
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060100",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016053100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2127
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060200",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016060100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1227
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1053
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1006
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1057
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1057
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060600"
+   },
+   {
       "agent": "all-agents",
-      "views": 873
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1269
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016060900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060800"
+   },
+   {
       "agent": "all-agents",
-      "views": 898
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016060900"
+   },
+   {
       "agent": "all-agents",
-      "views": 695
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061000"
+   },
+   {
       "agent": "all-agents",
-      "views": 667
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061100"
+   },
+   {
       "agent": "all-agents",
-      "views": 736
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061200"
+   },
+   {
       "agent": "all-agents",
-      "views": 670
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061300"
+   },
+   {
       "agent": "all-agents",
-      "views": 695
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061400"
+   },
+   {
       "agent": "all-agents",
-      "views": 2073
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061600",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016061500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1191
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061600"
+   },
+   {
       "agent": "all-agents",
-      "views": 712
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061700"
+   },
+   {
       "agent": "all-agents",
-      "views": 736
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016061900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016061800"
+   },
+   {
       "agent": "all-agents",
-      "views": 670
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016061900"
+   },
+   {
       "agent": "all-agents",
-      "views": 883
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062000"
+   },
+   {
       "agent": "all-agents",
-      "views": 626
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062200",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062100"
+   },
+   {
       "agent": "all-agents",
-      "views": 732
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062200"
+   },
+   {
       "agent": "all-agents",
-      "views": 871
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1716
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016062400"
+   },
+   {
       "agent": "all-agents",
-      "views": 767
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062500"
+   },
+   {
       "agent": "all-agents",
-      "views": 842
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062600"
+   },
+   {
       "agent": "all-agents",
-      "views": 756
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016062700"
+   },
+   {
       "agent": "all-agents",
-      "views": 627
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016062900",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062800"
+   },
+   {
       "agent": "all-agents",
-      "views": 583
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016063000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016062900"
+   },
+   {
       "agent": "all-agents",
-      "views": 508
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070100",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016063000"
+   },
+   {
       "agent": "all-agents",
-      "views": 23586
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070200",
-      "access": "all-access",
+      "views": 35,
+      "timestamp": "2016070100"
+   },
+   {
       "agent": "all-agents",
-      "views": 21030
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070300",
-      "access": "all-access",
+      "views": 31,
+      "timestamp": "2016070200"
+   },
+   {
       "agent": "all-agents",
-      "views": 11415
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070400",
-      "access": "all-access",
+      "views": 16,
+      "timestamp": "2016070300"
+   },
+   {
       "agent": "all-agents",
-      "views": 11805
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070500",
-      "access": "all-access",
+      "views": 17,
+      "timestamp": "2016070400"
+   },
+   {
       "agent": "all-agents",
-      "views": 9096
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070600",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2016070500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3717
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016070600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1463
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016070700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1463
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016070900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016070800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1295
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016070900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1352
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016071000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1391
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016071100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1285
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1100
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1134
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1223
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071500"
+   },
+   {
       "agent": "all-agents",
-      "views": 988
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071600"
+   },
+   {
       "agent": "all-agents",
-      "views": 936
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1166
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016071900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1105
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016071900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1048
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072000"
+   },
+   {
       "agent": "all-agents",
-      "views": 977
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1062
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072200"
+   },
+   {
       "agent": "all-agents",
-      "views": 971
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1054
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1293
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1236
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1096
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1051
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016072900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1165
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016073000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016072900"
+   },
+   {
       "agent": "all-agents",
-      "views": 878
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016073100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016073000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1127
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016073100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1107
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1005
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080200"
+   },
+   {
       "agent": "all-agents",
-      "views": 845
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080300"
+   },
+   {
       "agent": "all-agents",
-      "views": 973
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1149
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080500"
+   },
+   {
       "agent": "all-agents",
-      "views": 834
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1039
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080700"
+   },
+   {
       "agent": "all-agents",
-      "views": 985
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016080900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080800"
+   },
+   {
       "agent": "all-agents",
-      "views": 872
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016080900"
+   },
+   {
       "agent": "all-agents",
-      "views": 819
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081000"
+   },
+   {
       "agent": "all-agents",
-      "views": 819
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081100"
+   },
+   {
       "agent": "all-agents",
-      "views": 800
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081200"
+   },
+   {
       "agent": "all-agents",
-      "views": 786
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081300"
+   },
+   {
       "agent": "all-agents",
-      "views": 777
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081400"
+   },
+   {
       "agent": "all-agents",
-      "views": 960
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1150
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081600"
+   },
+   {
       "agent": "all-agents",
-      "views": 937
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081700"
+   },
+   {
       "agent": "all-agents",
-      "views": 827
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016081900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081800"
+   },
+   {
       "agent": "all-agents",
-      "views": 857
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016081900"
+   },
+   {
       "agent": "all-agents",
-      "views": 792
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082000"
+   },
+   {
       "agent": "all-agents",
-      "views": 823
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1068
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1016
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1115
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1052
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1045
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082600"
+   },
+   {
       "agent": "all-agents",
-      "views": 982
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082700"
+   },
+   {
       "agent": "all-agents",
-      "views": 972
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016082900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1190
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016083000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016082900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1112
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016083100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016083000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1065
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016083100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1070
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1052
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1228
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1429
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1574
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1458
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1349
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1179
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016090900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016090800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1381
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016090900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1443
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016091000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1226
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2412
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016091200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1525
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016091300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1177
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1259
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1162
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1069
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1185
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016091900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016091800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1384
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092000",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016091900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1526
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016092000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1116
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1335
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1080
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1070
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1153
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1231
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1258
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1209
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016092900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1212
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016093000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016092900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1221
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016093000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1173
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2074
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100300",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016100200"
+   },
+   {
       "agent": "all-agents",
-      "views": 2086
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100400",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016100300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1554
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016100400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1280
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1333
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1150
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1086
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016100900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1185
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016100900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1323
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1272
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1311
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1239
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101400",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1072
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1067
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1298
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1629
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101800",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016101700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1450
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016101900",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016101800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1270
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016101900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1522
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016102000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1291
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016102100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1229
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016102200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1407
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016102300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1721
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016102400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1614
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016102500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1446
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016102600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1260
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016102700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1207
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016102900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016102800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1210
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016103000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016102900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1538
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016103100",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016103000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1714
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110100",
+      "views": 2,
+      "timestamp": "2016103100"
+   },
+   {
+      "agent": "all-agents",
       "access": "all-access",
+      "granularity": "daily",
+      "project": "en.wikipedia",
+      "article": "Austrian_presidential_election,_2016",
+      "views": 2,
+      "timestamp": "2016110100"
+   },
+   {
       "agent": "all-agents",
-      "views": 1595
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1586
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1539
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1580
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110500",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1378
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110600",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1614
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110700",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016110700"
+   },
+   {
       "agent": "all-agents",
-      "views": 1827
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110800",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016110800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2116
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016110900",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2016110900"
+   },
+   {
       "agent": "all-agents",
-      "views": 7832
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111000",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016111000"
+   },
+   {
       "agent": "all-agents",
-      "views": 5271
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111100",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016111100"
+   },
+   {
       "agent": "all-agents",
-      "views": 3850
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111200",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016111200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3176
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111300",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016111300"
+   },
+   {
       "agent": "all-agents",
-      "views": 4141
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111400",
-      "access": "all-access",
+      "views": 6,
+      "timestamp": "2016111400"
+   },
+   {
       "agent": "all-agents",
-      "views": 4351
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111500",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016111500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3371
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111600",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016111600"
+   },
+   {
       "agent": "all-agents",
-      "views": 3462
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111700",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016111700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3310
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111800",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016111800"
+   },
+   {
       "agent": "all-agents",
-      "views": 2941
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016111900",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016111900"
+   },
+   {
       "agent": "all-agents",
-      "views": 2918
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016112000"
+   },
+   {
       "agent": "all-agents",
-      "views": 4026
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112100",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016112100"
+   },
+   {
       "agent": "all-agents",
-      "views": 4007
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112200",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016112200"
+   },
+   {
       "agent": "all-agents",
-      "views": 3510
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112300",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016112300"
+   },
+   {
       "agent": "all-agents",
-      "views": 2943
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112400",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016112400"
+   },
+   {
       "agent": "all-agents",
-      "views": 4038
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112500",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016112500"
+   },
+   {
       "agent": "all-agents",
-      "views": 3170
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112600",
-      "access": "all-access",
+      "views": 4,
+      "timestamp": "2016112600"
+   },
+   {
       "agent": "all-agents",
-      "views": 2754
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112700",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016112700"
+   },
+   {
       "agent": "all-agents",
-      "views": 3865
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112800",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016112800"
+   },
+   {
       "agent": "all-agents",
-      "views": 5460
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016112900",
-      "access": "all-access",
+      "views": 7,
+      "timestamp": "2016112900"
+   },
+   {
       "agent": "all-agents",
-      "views": 5242
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016113000",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016113000"
+   },
+   {
       "agent": "all-agents",
-      "views": 5634
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120100",
-      "access": "all-access",
+      "views": 11,
+      "timestamp": "2016120100"
+   },
+   {
       "agent": "all-agents",
-      "views": 7887
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120200",
-      "access": "all-access",
+      "views": 15,
+      "timestamp": "2016120200"
+   },
+   {
       "agent": "all-agents",
-      "views": 10753
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120300",
-      "access": "all-access",
+      "views": 21,
+      "timestamp": "2016120300"
+   },
+   {
       "agent": "all-agents",
-      "views": 14400
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120400",
-      "access": "all-access",
+      "views": 100,
+      "timestamp": "2016120400"
+   },
+   {
       "agent": "all-agents",
-      "views": 67355
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120500",
-      "access": "all-access",
+      "views": 78,
+      "timestamp": "2016120500"
+   },
+   {
       "agent": "all-agents",
-      "views": 52599
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120600",
-      "access": "all-access",
+      "views": 28,
+      "timestamp": "2016120600"
+   },
+   {
       "agent": "all-agents",
-      "views": 19154
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120700",
-      "access": "all-access",
+      "views": 13,
+      "timestamp": "2016120700"
+   },
+   {
       "agent": "all-agents",
-      "views": 9394
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120800",
-      "access": "all-access",
+      "views": 10,
+      "timestamp": "2016120800"
+   },
+   {
       "agent": "all-agents",
-      "views": 6914
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016120900",
-      "access": "all-access",
+      "views": 8,
+      "timestamp": "2016120900"
+   },
+   {
       "agent": "all-agents",
-      "views": 5629
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121000",
-      "access": "all-access",
+      "views": 5,
+      "timestamp": "2016121000"
+   },
+   {
       "agent": "all-agents",
-      "views": 3525
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121100",
-      "access": "all-access",
+      "views": 3,
+      "timestamp": "2016121100"
+   },
+   {
       "agent": "all-agents",
-      "views": 2292
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121200",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121200"
+   },
+   {
       "agent": "all-agents",
-      "views": 1943
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121300",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121300"
+   },
+   {
       "agent": "all-agents",
-      "views": 1621
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121400",
-      "access": "all-access",
+      "views": 2,
+      "timestamp": "2016121400"
+   },
+   {
       "agent": "all-agents",
-      "views": 1363
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121500",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121500"
+   },
+   {
       "agent": "all-agents",
-      "views": 1219
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121600",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121600"
+   },
+   {
       "agent": "all-agents",
-      "views": 1053
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121700",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121700"
+   },
+   {
       "agent": "all-agents",
-      "views": 989
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121800",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121800"
+   },
+   {
       "agent": "all-agents",
-      "views": 1089
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016121900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016121900"
+   },
+   {
       "agent": "all-agents",
-      "views": 1153
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122000",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122000"
+   },
+   {
       "agent": "all-agents",
-      "views": 1335
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122100"
+   },
+   {
       "agent": "all-agents",
-      "views": 997
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122200"
+   },
+   {
       "agent": "all-agents",
-      "views": 832
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122300",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122300"
+   },
+   {
       "agent": "all-agents",
-      "views": 633
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122400",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122400"
+   },
+   {
       "agent": "all-agents",
-      "views": 612
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122500",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122500"
+   },
+   {
       "agent": "all-agents",
-      "views": 507
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122600",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122600"
+   },
+   {
       "agent": "all-agents",
-      "views": 659
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122700",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122700"
+   },
+   {
       "agent": "all-agents",
-      "views": 595
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122800",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016122800"
+   },
+   {
       "agent": "all-agents",
-      "views": 613
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016122900",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016122900"
+   },
+   {
       "agent": "all-agents",
-      "views": 678
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016123000",
-      "access": "all-access",
+      "views": 0,
+      "timestamp": "2016123000"
+   },
+   {
       "agent": "all-agents",
-      "views": 663
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2016123100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2016123100"
+   },
+   {
       "agent": "all-agents",
-      "views": 685
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2017010100",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010100"
+   },
+   {
       "agent": "all-agents",
-      "views": 722
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2017010200",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010200"
+   },
+   {
       "agent": "all-agents",
-      "views": 717
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2017010300",
-      "access": "all-access",
+      "views": 1,
+      "timestamp": "2017010300"
+   },
+   {
       "agent": "all-agents",
-      "views": 706
-    },
-    {
+      "access": "all-access",
+      "granularity": "daily",
       "project": "en.wikipedia",
       "article": "Austrian_presidential_election,_2016",
-      "granularity": "daily",
-      "timestamp": "2017010400",
-      "access": "all-access",
-      "agent": "all-agents",
-      "views": 675
-    }
-  ]
-}
+      "views": 1,
+      "timestamp": "2017010400"
+   }
+]}
