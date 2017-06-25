@@ -15,5 +15,5 @@ function setSouthKoreaInfotext() {
 }
 
 function setAllInfotext() {
-    document.getElementById("infotext").textContent = "Hier können die Zugriffszahlen der Wikipedia-Artikel für verschiedenen Sprachversionen gegenübergestellt werden. Explizit können für jede Wahlseite die Zugriffszahlen in den einzelnen Sprachen verglichen werden.";
+    document.getElementById("infotext").textContent = "Hier können die Zugriffszahlen der Wikipedia-Artikel für verschiedenen Sprachversionen gegenübergestellt werden. Zur Auswahl stehen dabei immer das landessprachliche Wikipedia sowie das deutsch- und englischsprachige Wikipedia. Explizit können somit für eine Wahlseite die Zugriffszahlen in mindestens zwei verschiednen Sprachversionen verglichen werden. Parallel zu den Analyse-Seiten der einzelnen Wahlen werden auch hier Ereignisse angezeigt, die einen Einfluss auf die Zugriffszahlen zu einem bestimmten Zeitpunkt haben könnten. Dabei besteht die Möglichkeit zwischen den einzelnen Wahlen auszuwählen.";
 }
