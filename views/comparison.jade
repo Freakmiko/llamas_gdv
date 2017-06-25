@@ -15,7 +15,17 @@ block content
 		div.nonClickableHeaderContainer#headerImagesText Sprachvergleich				
 	
 	div.contentArea		
-		div#graph Graph	
+		div#graph
+			svg#linegraph
+			script.
+				var data = [];
+				d3.json("/data/usa/en/election_2016.json", function (error, d) {
+					data = d3.merge([data, d.items])
+					d3.json("/data/usa/de/election_2016.json", function (error, d) {
+						data = d3.merge([data, d.items])						
+						lineGraph.renderGraph(data)						
+					})
+				})
 		div#results 
 			h2#analysisTitle Analyse der Wahl
 			div#analysisText Allgemein:Lorem ipsum dolor sit amet, consectetueradipiscing elit, sed diamnonummy nibh euismod tinciduntut laoreet dolore magna aliquamerat volutpat. Ut wisi enim adminim veniam, quis nostrud exercitation ullamcorper suscipit lobortisnisl ut aliquip ex ea commodo consequat.Duis autem vel eum iriuredolor in hendrerit in vulputate velitcilisi. Lorem ipsum dolor sit amet,cons ectetuer adipiscing elit, seddiam nonummy nibh euismodtincidunt ut laoreet minim veniam,quis nostrud exerci tation Loremipsum dolor sit amet, consectetuer

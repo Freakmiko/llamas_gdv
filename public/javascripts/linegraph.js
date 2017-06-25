@@ -39,7 +39,7 @@ var LineGraph = (function () {
         this.data = [];
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
-        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20).range(["#ed1c24", "#c1272d" , "#0071bc" , "#29abe2" , "#5cd5ff"]);		
+        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20).range(["#ed1c24", "#0071bc" , "#5cd5ff" , "#c1272d" , "#29abe2"]);		
         this.line = d3.line()
             .x(function (d) { return _this.xScale(_this.parseDate(d.timestamp)); })
             .y(function (d) { return _this.yScale(d.views); })
