@@ -13,7 +13,26 @@ block graph
     div#graph
         svg#linegraph
         script.
-            d3.json("/data/austria/en/election_2016.json", function (error, d) { lineGraph.renderGraph(d.items) })
+            var data = [];
+            d3.json("/data/austria/de/election_2016.json", function (error, d) {
+                data = d3.merge([data, d.items])
+                d3.json("/data/austria/de/alexander_van_der_bellen.json", function (error, d) {
+                    data = d3.merge([data, d.items])
+                    d3.json("/data/austria/de/andreas_khol.json", function (error, d) {
+                        data = d3.merge([data, d.items])
+                        d3.json("/data/austria/de/irmgard_griss.json", function (error, d) {
+                            data = d3.merge([data, d.items])
+                            d3.json("/data/austria/de/norbert_hofer.json", function (error, d) {
+                                data = d3.merge([data, d.items])
+                                d3.json("/data/austria/de/rudolf_hundstorfer.json", function (error, d) {
+                                    data = d3.merge([data, d.items])
+                                    lineGraph.renderGraph(data)
+                                })
+                            })
+                        })
+                    })
+                })
+            })
 
 block results	
     div#results Ergebnisse
