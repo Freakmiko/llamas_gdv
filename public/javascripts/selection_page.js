@@ -69,6 +69,10 @@ function back() {
 	window.open("http://localhost:3000/","_self")
 }
 
+function compare(){
+	window.open("http://localhost:3000/all","_self")
+}
+
 function showCandidateInformation(name){		
 	document.getElementById("sidebarInfoContainer").style.visibility = "visible";	
 	document.getElementById("candidateName").textContent = candidatesNames[name];

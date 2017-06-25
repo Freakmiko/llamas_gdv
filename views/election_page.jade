@@ -18,9 +18,9 @@ block content
 			div.headerMenuContent 5 Kandidaten
 		div.nonClickableHeaderContainer#headerElectionPhases
 			block electionPhases			
-		div.headerHoverContainer
+		div.headerHoverContainer(onclick="compare()")
 			img#headerComparisonImage(src="/images/cross.svg")
-			div.headerMenuContent.headerItem Ländervergleich		
+			div.headerMenuContent.headerItem Sprachvergleich		
 	
 	div.contentArea(onclick="hideCandidateInformation()")
 		block graph
