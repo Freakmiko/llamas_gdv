@@ -1,5 +1,5 @@
 function setFranceInfotext() {
-    document.getElementById("infotext").textContent = "Die französische Präsidentschaftswahl 2017 war die elfte Wahl des Staatspräsidenten der Fünften Französischen Republik. Der erste Wahlgang fand am 23. April 2017 statt; die entscheidende Stichwahl zwischen den Siegern des ersten Wahlgangs, Emmanuel Macron und Marine Le Pen, am 7. Mai 2017. Macron gewann die Wahl deutlich mit 66,1 % der abgegebenen gültigen Stimmen und wurde somit für eine Amtszeit von fünf Jahren gewählt.";
+    document.getElementById("infotext").textContent = "Die französische Präsidentschaftswahl 2017 war erst die elfte ihrer Art dieser fünften französischen Republik. Da Sie nur kurz nach dem Brexit-Votum stattfand, stand die französische Präsidentschaftswahl unter besondere Beobachtung, galt sie doch als Wahl über das Fortbestehen der Europäischn Union. Viele Experten prognostizierten ein Auseinanderbrechen der EU, sollte Le Pen, die einen europafeindlichen Kurs verfolgte, die Wahl gewinnen und Frankreich ebenfalls seinen Austritt aus der Union verkünden. Der erste Wahlgang fand am 23. April 2017 statt; die entscheidende Stichwahl zwischen Emmanuel Macron und Marine Le Pen am 7. Mai 2017. Macron gewann die Wahl deutlich mit 66,1 % der Stimmen.";
 }
 
 function setAustriaInfotext() {
