@@ -26,4 +26,9 @@ router.get('/southKorea', function(req, res, next) {
   res.render('southKorea', { title: 'Express' });
 });
 
+/* GET SouthKorea page */
+router.get('/all', function(req, res, next) {
+  res.render('comparison', { title: 'Express' });
+});
+
 module.exports = router;

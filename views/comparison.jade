@@ -1,0 +1,22 @@
+extends layout
+
+block scripts
+	script(src="/javascripts/selection_page.js")
+
+block content	
+	div.header
+		div.headerHoverContainer#headerCountrySelection
+			div.headerMenuContent.headerItem(onclick="back()") Länderauswahl
+		div.nonClickableHeaderContainer#headerImages
+			img.headerImage(src="/images/france.svg")
+			img.headerImage(src="/images/austria.svg")
+			img.headerImage(src="/images/usa.svg")
+			img.headerImage(src="/images/southKorea.svg")
+		div.nonClickableHeaderContainer#headerImagesText Sprachvergleich				
+	
+	div.contentArea		
+		div#graph Graph	
+		div#results 
+			h2#analysisTitle Analyse der Wahl
+			div#analysisText Allgemein:Lorem ipsum dolor sit amet, consectetueradipiscing elit, sed diamnonummy nibh euismod tinciduntut laoreet dolore magna aliquamerat volutpat. Ut wisi enim adminim veniam, quis nostrud exercitation ullamcorper suscipit lobortisnisl ut aliquip ex ea commodo consequat.Duis autem vel eum iriuredolor in hendrerit in vulputate velitcilisi. Lorem ipsum dolor sit amet,cons ectetuer adipiscing elit, seddiam nonummy nibh euismodtincidunt ut laoreet minim veniam,quis nostrud exerci tation Loremipsum dolor sit amet, consectetuer
+	script(src="/javascripts/linegraph.js")

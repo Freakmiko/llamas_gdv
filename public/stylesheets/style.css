@@ -102,16 +102,14 @@ html,body {
 #graph{
 	width: 69.5%;
 	height: 95%;
-	text-align: center;
-	border: solid #333333 1px;
+	text-align: center;	
 	margin: 2% 0% 0% 1%;
 }
 
 #results{
 	width: 28.5%;
 	height: 95%;
-	text-align: center;
-	border: solid #333333 1px;
+	text-align: center;	
 	margin: 2% 0% 0% 0%;
 }
 
