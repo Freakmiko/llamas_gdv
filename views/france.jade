@@ -13,7 +13,26 @@ block graph
     div#graph
         svg#linegraph
         script.
-            d3.json("/data/france/en/election_2017.json", function (error, d) { lineGraph.renderGraph(d.items) })
+            var data = [];
+            d3.json("/data/france/fr/election_2017.json", function (error, d) {
+                data = d3.merge([data, d.items])
+                d3.json("/data/france/fr/benoit_hamon.json", function (error, d) {
+                    data = d3.merge([data, d.items])
+                    d3.json("/data/france/fr/emmanuel_macron.json", function (error, d) {
+                        data = d3.merge([data, d.items])
+                        d3.json("/data/france/fr/francois_fillon.json", function (error, d) {
+                            data = d3.merge([data, d.items])
+                            d3.json("/data/france/fr/jean_luc_melenchon.json", function (error, d) {
+                                data = d3.merge([data, d.items])
+                                d3.json("/data/france/fr/marine_le_pen.json", function (error, d) {
+                                    data = d3.merge([data, d.items])
+                                    lineGraph.renderGraph(data)
+                                })
+                            })
+                        })
+                    })
+                })
+            })
 
 block results	
     div#results Ergebnisse
