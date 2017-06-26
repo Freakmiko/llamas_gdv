@@ -13,47 +13,13 @@ block graph
     div#graph
         svg#linegraph
         script.
-            var data = [];
-            d3.json("/data/austria/de/election_2016.json", function (error, d) {
-                data = d3.merge([data, d.items])
-                d3.json("/data/austria/de/alexander_van_der_bellen.json", function (error, d) {
-                    data = d3.merge([data, d.items])
-                    d3.json("/data/austria/de/andreas_khol.json", function (error, d) {
-                        data = d3.merge([data, d.items])
-                        d3.json("/data/austria/de/irmgard_griss.json", function (error, d) {
-                            data = d3.merge([data, d.items])
-                            d3.json("/data/austria/de/norbert_hofer.json", function (error, d) {
-                                data = d3.merge([data, d.items])
-                                d3.json("/data/austria/de/rudolf_hundstorfer.json", function (error, d) {
-                                    data = d3.merge([data, d.items])
-                                    lineGraph.renderGraph(data)
-                                })
-                            })
-                        })
-                    })
-                })
-            })
+            loadAustrianData("de");
 
 block results	
     div#results
         div#barchart
             script.
-                d3.json("/data/austria/de/candidate_percentages.json", function (error, d) {
-                    var charts = [];
-                    for (var i = 0; i < d.length; i++) {
-                        charts.push(new Barchart("barchart", i));
-                    }
-                    var currentDay = 0;
-                    d3.interval(function () {
-                        charts.forEach(function (element, index) {
-                            if (currentDay >= d[index].length)
-                                element.renderGraph(d[index][currentDay - 1])
-                            else
-                                element.renderGraph(d[index][currentDay])
-                        })
-                        currentDay++;
-                    }, 150)
-                });
+                loadAustrianCandidatePercentagesData("de")
 //                var barData = [];
 //                    d3.json("/data/austria/en/alexander_van_der_bellen.json", function (error, d) {
 //                        barData = d3.merge([barData, d.items]);
