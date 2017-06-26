@@ -41,21 +41,43 @@ block results
         script.
             d3.json("/data/korea/en/candidate_percentages.json", function (error, d) {
                 var currentDay = 0;
-                var chart =  new Barchart("barchart", 0);
-                var chart2 =  new Barchart("barchart", 1);
-                var chart3 =  new Barchart("barchart", 2);
-                d3.interval(function (elapsed) {
-                    if (currentDay >= d[0].length) {
-                        chart.renderGraph(d[0][currentDay - 1]);
-                        chart2.renderGraph(d[1][currentDay - 1]);
-                        chart3.renderGraph(d[2][currentDay - 1]);
-                    } else {
-                        chart.renderGraph(d[0][currentDay]);
-                        chart2.renderGraph(d[1][currentDay]);
-                        chart3.renderGraph(d[2][currentDay++]);
-                    }
-                }, 50);
+                var charts = [];
+                for (var i = 0; i < d.length; i++) {
+                    charts.push(new Barchart("barchart", i));
+                }
+                var currentDay = 0;
+                d3.interval(function() {
+                        charts.forEach(function(element, index) {
+                            if (currentDay >= d[index].length)
+                                element.renderGraph(d[index][currentDay - 1])
+                            else
+                                element.renderGraph(d[index][currentDay])
+                        })
+                        currentDay++;
+                }, 50)
             });
+//                var chart =  new Barchart("barchart", 0);
+//                var chart2 =  new Barchart("barchart", 1);
+//                var chart3 =  new Barchart("barchart", 2);
+//                var chart4 =  new Barchart("barchart", 3);
+//                var chart5 =  new Barchart("barchart", 4);
+//                d3.interval(function (elapsed) {
+//                    if (currentDay >= d[0].length) {
+//                        chart.renderGraph(d[0][currentDay - 1]);
+//                        chart2.renderGraph(d[1][currentDay - 1]);
+//                        chart3.renderGraph(d[2][currentDay - 1]);
+//                        chart4.renderGraph(d[3][currentDay - 1]);
+//                        chart5.renderGraph(d[4][currentDay - 1]);
+//                    } else {
+//                        chart.renderGraph(d[0][currentDay]);
+//                        chart2.renderGraph(d[1][currentDay]);
+//                        chart3.renderGraph(d[2][currentDay]);
+//                        chart4.renderGraph(d[3][currentDay]);
+//                        chart5.renderGraph(d[4][currentDay]);
+//                        currentDay++;
+//                    }
+//                }, 50);
+//            });
 //            var barData = [];
 //            d3.json("/data/korea/en/ahn_cheol-soo.json", function (error, d) {
 //                barData = d3.merge([barData, d.items])

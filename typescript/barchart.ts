@@ -20,6 +20,19 @@ class Barchart {
     zoomHistory: Date[][];
     colorScale: any;
 
+    nameMap = {
+        "문재인": "images/Moon.jpg",
+        "Moon_Jae-in": "images/Moon.jpg",
+        "홍준표": "images/Hong.jpg",
+        "Hong_Jun-pyo": "images/Hong.jpg",
+        "안철수": "images/Ahn.jpg",
+        "Ahn_Cheol-soo": "images/Ahn.jpg",
+        "유승민": "images/Yoo.jpg",
+        "Yoo_Seong-min": "images/Yoo.jpg",
+        "심상정": "images/Sim.jpg",
+        "Sim_Sang-jung": "images/Sim.jpg"
+    }
+
     /**
      * Creates the line graph in the given svg-element
      * @param svgId The svg-element that the line graph will be created in
@@ -32,7 +45,7 @@ class Barchart {
             top: 20,
             right: 20,
             bottom: 40,
-            left: 50
+            left: 90
         };
         this.size = {
             width: $(`#${this.divId}`).parent().outerWidth() - this.margin.left - this.margin.right,
@@ -69,6 +82,7 @@ class Barchart {
 
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
+        svg.append("image").attr("width", 80).attr("height", 80);
     }
 
     /**
@@ -80,14 +94,19 @@ class Barchart {
         //console.log(this.data);
         this.updateScales(data);
 
-        let g = d3.select(`#barchart${this.svgIndex}`);
-        var bar = g.selectAll("g").data(this.data.items, (d: any) => d.viewPercentage)
+        let svg = d3.select(`#barchart${this.svgIndex}`);
+
+        console.log(this.data.items[0].candidate + " " + "안철수");
+        svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
+
+        var bar = svg.selectAll("g").data(this.data.items, (d: any) => d.viewPercentage)
         var barEnter = bar.enter().append("g")
-            .attr("transform", (d, i) => `translate(0,${ 20})`);
+            .attr("transform", (d, i) => `translate(${this.margin.left},${ 20})`);
 
         barEnter.append("rect")
             .attr("width", (d: any) => this.xScale(d.viewPercentage))
-            .attr("height", 20);
+            .attr("height", 20)
+            .attr("fill", (d: any) => this.colorScale(d.candidate));
 
         bar.exit().remove();
         //this.updatePageViews(d3.easeCircleOut, 200);
