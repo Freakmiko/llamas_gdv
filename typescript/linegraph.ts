@@ -18,6 +18,7 @@ class LineGraph {
     yScale: any;
     zoomHistory: Date[][];
     colorScale: any;
+    currentWidth: number;
 
     /**
      * Creates the line graph in the given svg-element
@@ -56,6 +57,7 @@ class LineGraph {
         this.data = [];
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
+        this.currentWidth = 0;
 
         this.colorScale = d3.scaleOrdinal(d3.schemeCategory20).range(["#ed1c24", "#c1272d" , "#0071bc" , "#29abe2" , "#5cd5ff"]);
 
@@ -84,7 +86,7 @@ class LineGraph {
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
             .append("rect")
-            .attr("width", this.size.width)
+            .attr("width", this.currentWidth)
             .attr("height", this.size.height + this.margin.top);
 
         svg.append("g")
@@ -149,6 +151,13 @@ class LineGraph {
             .attr("y2", this.yScale(d3.max(data, (datum: any) => datum.views)));
 
         this.updatePageViews(d3.easeCircleOut, 200);
+
+        d3.interval((elapsed: number) => {
+            let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
+            let stepsize = this.size.width / maximum;
+            this.currentWidth += stepsize;
+            d3.select("clipPath > rect").transition().duration(150).attr("width", this.currentWidth)
+        }, 150);
     }
 
     addData(data: any) {

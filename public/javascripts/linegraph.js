@@ -39,6 +39,7 @@ var LineGraph = (function () {
         this.data = [];
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
+        this.currentWidth = 0;
         this.colorScale = d3.scaleOrdinal(d3.schemeCategory20).range(["#ed1c24", "#c1272d", "#0071bc", "#29abe2", "#5cd5ff"]);
         this.line = d3.line()
             .x(function (d) { return _this.xScale(_this.parseDate(d.timestamp)); })
@@ -60,7 +61,7 @@ var LineGraph = (function () {
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
             .append("rect")
-            .attr("width", this.size.width)
+            .attr("width", this.currentWidth)
             .attr("height", this.size.height + this.margin.top);
         svg.append("g")
             .attr("class", "lineGraph")
@@ -104,6 +105,7 @@ var LineGraph = (function () {
      * @param data The {any} that is used for the graph
      */
     LineGraph.prototype.renderGraph = function (data) {
+        var _this = this;
         //console.log(data);
         //this.data = data;
         this.addData(data);
@@ -115,6 +117,12 @@ var LineGraph = (function () {
             .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
             .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
         this.updatePageViews(d3.easeCircleOut, 200);
+        d3.interval(function (elapsed) {
+            var maximum = parseInt(d3.max(_this.groupedData, function (datum) { return datum.length; }));
+            var stepsize = _this.size.width / maximum;
+            _this.currentWidth += stepsize;
+            d3.select("clipPath > rect").transition().duration(150).attr("width", _this.currentWidth);
+        }, 150);
     };
     LineGraph.prototype.addData = function (data) {
         this.data = d3.merge([this.data, data]);
