@@ -10,6 +10,7 @@ var LineGraph = (function () {
     function LineGraph(svgId) {
         var _this = this;
         this.parseDate = d3.timeParse("%Y%m%d00");
+        this.parseEventDate = d3.timeParse("%Y%m%d");
         var locale = {
             "dateTime": "%A, der %e. %B %Y, %X",
             "date": "%d.%m.%Y",
@@ -83,6 +84,17 @@ var LineGraph = (function () {
         svg.append("g")
             .attr("class", "legend")
             .attr("transform", "translate(" + this.margin.left + ", " + (this.size.height + this.margin.top + 5) + ")");
+        svg.append("line")
+            .attr("class", "selectionLine")
+            .attr("x1", this.margin.left)
+            .attr("x2", this.margin.left)
+            .attr("y1", 0)
+            .attr("y2", this.size.height)
+            .attr("stroke-dasharray", "0, 5")
+            .attr("stroke-width", "1.75")
+            .attr("stroke-linecap", "round")
+            .style("stroke", "#2ECC71")
+            .style("pointer-events", "none");
     };
     /**
      * Adds event listeners to its elements
@@ -91,6 +103,7 @@ var LineGraph = (function () {
     LineGraph.prototype.addListeners = function () {
         // this.xBrush.on("end", (datum: any, index: number, groups: SVGGElement[]) => {
         //     this.zoomHistory.push(this.xScale.domain())
+        var _this = this;
         //     let domain = [this.xScale.invert(d3.brushSelection(groups[index])[0] as number),
         //                   this.xScale.invert(d3.brushSelection(groups[index])[1] as number)]
         //     this.xScale.domain(domain)
@@ -99,6 +112,27 @@ var LineGraph = (function () {
         //     this.updatePageViews(d3.easeCircleInOut, 550)
         //     this.updateAxis()
         // })
+        d3.select("#" + this.svgId)
+            .on("contextmenu", function () {
+            d3.event.preventDefault();
+        })
+            .on("mousemove", function () {
+            var mouseDate = _this.xScale.invert(d3.mouse(d3.event.currentTarget)[0] - _this.margin.left);
+            var mappedValues = _.map(_this.events, function (value) {
+                return [value.date, Math.abs(_this.parseEventDate(value.date).valueOf() - mouseDate.valueOf())];
+            });
+            var closestDate = _.reduce(mappedValues, function (memo, value) {
+                return memo[1] < value[1] ? memo : value;
+            })[0];
+            showEvent(_.find(_this.events, function (event) { return event.date == closestDate; }));
+            d3.select(".eventText").remove();
+            d3.select("#" + _this.svgId).append("text").attr("class", "eventText").text(_.find(_this.events, function (event) { return event.date == closestDate; }).text)
+                .attr("transform", "translate(300, 400)").attr("width", 200);
+            console.log(_this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
+            d3.select("#" + _this.svgId).select(".selectionLine")
+                .attr("x1", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left)
+                .attr("x2", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
+        });
     };
     /**
      * Renders the line graph with the given data
@@ -127,6 +161,10 @@ var LineGraph = (function () {
     LineGraph.prototype.addData = function (data) {
         this.data = d3.merge([this.data, data]);
         this.groupedData = _.toArray(_.groupBy(this.data, "article"));
+    };
+    LineGraph.prototype.addEvents = function (events) {
+        this.events = events;
+        console.log(events);
     };
     /**
      * Updates the pageViews linegraphs

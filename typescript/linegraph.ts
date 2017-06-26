@@ -9,6 +9,7 @@ class LineGraph {
     margin: any;
     maximumCircle: any;
     parseDate = d3.timeParse("%Y%m%d00");
+    parseEventDate = d3.timeParse("%Y%m%d");
     size: any;
     svgId: string;
     xAxis: any;
@@ -19,6 +20,7 @@ class LineGraph {
     zoomHistory: Date[][];
     colorScale: any;
     currentWidth: number;
+    events: any;
 
     /**
      * Creates the line graph in the given svg-element
@@ -112,6 +114,19 @@ class LineGraph {
         svg.append("g")
             .attr("class", "legend")
             .attr("transform", `translate(${this.margin.left}, ${this.size.height + this.margin.top + 5})`);
+
+        svg.append("line")
+            .attr("class", "selectionLine")
+            .attr("x1", this.margin.left)
+            .attr("x2", this.margin.left)
+            .attr("y1", 0)
+            .attr("y2", this.size.height)
+            .attr("stroke-dasharray", "0, 5")
+            .attr("stroke-width", "1.75")
+            .attr("stroke-linecap", "round")
+            .style("stroke", "#2ECC71")
+            .style("pointer-events", "none")
+
     }
 
     /**
@@ -130,6 +145,33 @@ class LineGraph {
         //     this.updatePageViews(d3.easeCircleInOut, 550)
         //     this.updateAxis()
         // })
+        d3.select(`#${this.svgId}`)
+            .on("contextmenu", () => {
+                d3.event.preventDefault();
+            })
+            .on("mousemove", () => {
+                let mouseDate = this.xScale.invert(d3.mouse(d3.event.currentTarget)[0] - this.margin.left);
+                let mappedValues = _.map(this.events, (value: any) => {
+                    return [value.date, Math.abs(this.parseEventDate(value.date).valueOf() - mouseDate.valueOf())]
+                });
+
+                let closestDate = _.reduce(mappedValues,
+                    (memo: any[], value: any[]) => {
+                        return memo[1] < value[1] ? memo : value;
+                    })[0];
+
+                 showEvent(_.find(this.events, (event: any) => event.date == closestDate));
+
+                 d3.select(".eventText").remove();
+                 d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
+                     .attr("transform", "translate(300, 400)").attr("width", 200);
+
+                 console.log(this.xScale(this.parseEventDate(closestDate)) + this.margin.left);
+
+                d3.select(`#${this.svgId}`).select(".selectionLine")
+                    .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
+                    .attr("x2", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
+            })
     }
 
     /**
@@ -163,6 +205,11 @@ class LineGraph {
     addData(data: any) {
         this.data = d3.merge([this.data, data]);
         this.groupedData = _.toArray(_.groupBy(this.data, "article"))
+    }
+
+    addEvents(events: any) {
+        this.events = events;
+        console.log(events);
     }
 
     /**

@@ -14,6 +14,9 @@ block graph
         svg#linegraph
         script.
             loadUsaData("en")
+            d3.json("/data/usa/usa_events.json", function(error, d) {
+                lineGraph.addEvents(d.items);
+            })
 
 block results	
     div#results
