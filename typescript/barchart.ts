@@ -117,7 +117,8 @@ class Barchart {
             barEnter.append("rect")
                 .attr("width", (d: any) => this.xScale(d.viewPercentage))
                 .attr("height", 20)
-                .attr("fill", (d: any) => this.colorScale(d.candidate));
+                .attr("fill", (d: any) => this.colorScale(d.candidate))
+                .attr("class", (d: any) => d.candidate);
 
             bar.exit().remove();
         }

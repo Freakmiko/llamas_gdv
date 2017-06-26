@@ -87,7 +87,8 @@ var Barchart = (function () {
             barEnter.append("rect")
                 .attr("width", function (d) { return _this.xScale(d.viewPercentage); })
                 .attr("height", 20)
-                .attr("fill", function (d) { return _this.colorScale(d.candidate); });
+                .attr("fill", function (d) { return _this.colorScale(d.candidate); })
+                .attr("class", function (d) { return d.candidate; });
             bar.exit().remove();
         }
         //this.updatePageViews(d3.easeCircleOut, 200);
