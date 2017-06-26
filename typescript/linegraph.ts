@@ -233,7 +233,7 @@ class LineGraph {
             .attr("fill", "none")
             //.attr("stroke", (d: any) => this.colorScale(d[0].article))
             .attr("stroke-width", "2")
-            .attr("class", (d: any[]) => d[0].article)
+            .attr("class", (d: any[]) => d[0].article.replace(",", ""))
             .attr("d", (d: any[]) => this.line(d))
 
         // g.datum(this.data).attr("d", transitionLine(this.data))

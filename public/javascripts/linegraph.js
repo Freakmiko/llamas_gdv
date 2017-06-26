@@ -186,7 +186,7 @@ var LineGraph = (function () {
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
             .attr("stroke-width", "2")
-            .attr("class", function (d) { return d[0].article; })
+            .attr("class", function (d) { return d[0].article.replace(",", ""); })
             .attr("d", function (d) { return _this.line(d); });
         // g.datum(this.data).attr("d", transitionLine(this.data))
         // //.merge(g.selectAll(".pageViews > path") as any)
