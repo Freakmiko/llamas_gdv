@@ -150,6 +150,7 @@ var LineGraph = (function () {
             .attr("fill", "none")
             .attr("stroke", function (d) { return _this.colorScale(d[0].article); })
             .attr("stroke-width", "2")
+            .attr("class", function (d) { return d[0].article; })
             .attr("d", function (d) { return _this.line(d); });
         // g.datum(this.data).attr("d", transitionLine(this.data))
         // //.merge(g.selectAll(".pageViews > path") as any)

@@ -107,7 +107,7 @@ class Barchart {
         let svg = d3.select(`#barchart${this.svgIndex}`);
 
         if (this.data.items[0]) {
-            console.log(this.data.items[0].candidate);
+            //console.log(this.data.items[0].candidate);
             svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
 
             var bar = svg.selectAll("g").data(this.data.items, (d: any) => d.viewPercentage);
