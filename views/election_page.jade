@@ -24,7 +24,14 @@ block content
 			img#headerComparisonImage(src="/images/cross.svg")
 			div.headerMenuContent.headerItem Sprachvergleich		
 	
-	div.contentArea(onclick="hideCandidateInformation()")
+	div.contentArea
+		div#graphSelectionBox
+			block candidate1Block
+			block candidate2Block
+			block candidate3Block
+			block candidate4Block
+			block candidate5Block
+			block electionBlock
 		block graph
 		block results
 	script(src="/javascripts/linegraph.js")

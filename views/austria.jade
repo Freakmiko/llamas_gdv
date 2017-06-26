@@ -9,14 +9,51 @@ block countryName
 block electionPhases
     div.headerMenuContent.headerItem 2 Wahlrunden
 
+block candidate1Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Bellen.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('BELLEN')") Van der Bellen
+        div.toggleButton#tb1(onclick="toggleGraphVisibility(this, 'BELLEN')")
+
+block candidate2Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Hofer.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('HOFER')") Hofer
+        div.toggleButton#tb2(onclick="toggleGraphVisibility(this, 'HOFER)")
+
+block candidate3Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Griss.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('GRISS')") Griss
+        div.toggleButton#tb3(onclick="toggleGraphVisibility(this, 'GRISS')")
+
+block candidate4Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Hundstorfer.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('HUNDSTORFER')") Hundstorfer
+        div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'HUNDSTORFER')")
+
+block candidate5Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Khol.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('KHOL')") Khol
+        div.toggleButton#tb5(onclick="toggleGraphVisibility(this, 'KHOL')")
+
+block electionBlock
+    div.selectionBox
+        img.selectionBoxImage(src="/images/black.jpg")
+        div.selectionBoxText Wahl Österreich
+        div.toggleButton#tb6(onclick="toggleGraphVisibility(this, 'ELECTION')")
+
+
 block graph
-    div#graph
+    div#graph(onclick="hideCandidateInformation()")
         svg#linegraph
         script.
             loadAustrianData("de");
 
 block results	
-    div#results
+    div#results(onclick="hideCandidateInformation()")
         div#barchart
             script.
                 loadAustrianCandidatePercentagesData("de")

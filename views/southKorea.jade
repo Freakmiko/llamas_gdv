@@ -9,14 +9,51 @@ block countryName
 block electionPhases
     div.headerMenuContent 1 Wahlrunde
 
+block candidate1Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Moon.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('MOON')") Moon
+        div.toggleButton#tb1(onclick="toggleGraphVisibility(this, 'MOON')")
+
+block candidate2Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Hong.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('HONG')") Hong
+        div.toggleButton#tb2(onclick="toggleGraphVisibility(this, 'HONG')")
+
+block candidate3Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Ahn.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('AHN')") Ahn
+        div.toggleButton#tb3(onclick="toggleGraphVisibility(this, 'AHN')")
+
+block candidate4Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Yoo.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('YOO')") Yoo
+        div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'YOO')")
+
+block candidate5Block
+    div.selectionBox
+        img.selectionBoxImage(src="/images/Sim.jpg")
+        div.selectionBoxText(onclick="showCandidateInformation('SIM')") Sim
+        div.toggleButton#tb5(onclick="toggleGraphVisibility(this, 'SIM')")
+
+block electionBlock
+    div.selectionBox
+        img.selectionBoxImage(src="/images/black.jpg")
+        div.selectionBoxText Wahl Südkorea
+        div.toggleButton#tb6(onclick="toggleGraphVisibility(this, 'ELECTION')")
+
+
 block graph
-    div#graph
+    div#graph(onclick="hideCandidateInformation()")
         svg#linegraph
         script.
             loadKoreanData("ko")
 
 block results	
-    div#results
+    div#results(onclick="hideCandidateInformation()")
         div#barchart
         script.
             loadKoreanCandidatePercentagesData("ko")

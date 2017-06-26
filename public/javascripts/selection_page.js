@@ -73,13 +73,53 @@ function compare(){
 	window.open("http://localhost:3000/all","_self")
 }
 
-function showCandidateInformation(name){		
+function showCandidateInformation(name){	
+	document.getElementById("graphSelectionBox").style.visibility = "hidden";
 	document.getElementById("sidebarInfoContainer").style.visibility = "visible";	
 	document.getElementById("candidateName").textContent = candidatesNames[name];
 	document.getElementById("candidateInfoText").textContent = candidatesInfoText[name];
 	document.getElementById("candidateInfoImage").src=candidatesInfoImage[name];
 }
 
-function hideCandidateInformation(){
+function hideCandidateInformation(){	
 	document.getElementById("sidebarInfoContainer").style.visibility = "hidden";	
+	document.getElementById("graphSelectionBox").style.visibility = "visible";
+}
+
+function toggleGraphVisibility(elem, name){	
+	if(elem.style.background === "rgb(242, 242, 242)"){
+		elem.style.background = "#333333";
+		elem.style.border = "none";
+		if(name === "ELECTION"){
+			document.getElementsByClassName("pageviews")[0].style.visibility = "visible";
+		}else if(name === "SANDERS" || name === "AHN" || name === "HAMON" || name === "BELLEN"){
+			document.getElementsByClassName("pageviews")[1].style.visibility = "visible";
+		}else if(name === "TRUMP" || name === "HONG" || name === "MACRON" || name === "KHOL"){
+			document.getElementsByClassName("pageviews")[2].style.visibility = "visible";
+		}else if(name === "CLINTON" || name === "MOON" || name === "FILLON" || name === "GRISS"){
+			document.getElementsByClassName("pageviews")[3].style.visibility = "visible";
+		}else if(name === "KASICH" || name === "SIM" || name === "MELENCHON" || name === "HOFER"){
+			document.getElementsByClassName("pageviews")[4].style.visibility = "visible";
+		}else{
+			document.getElementsByClassName("pageviews")[5].style.visibility = "visible";
+		}
+	}else{
+		elem.style.background = "#f2f2f2";
+		elem.style.border = "1px solid #333333";
+		if(name === "ELECTION"){
+			document.getElementsByClassName("pageviews")[0].style.visibility = "hidden";
+		}else if(name === "SANDERS" || name === "AHN" || name === "HAMON" || name === "BELLEN"){
+			document.getElementsByClassName("pageviews")[1].style.visibility = "hidden";
+		}else if(name === "TRUMP" || name === "HONG" || name === "MACRON" || name === "KHOL"){
+			document.getElementsByClassName("pageviews")[2].style.visibility = "hidden";
+		}else if(name === "CLINTON" || name === "MOON" || name === "FILLON" || name === "GRISS"){
+			document.getElementsByClassName("pageviews")[3].style.visibility = "hidden";
+		}else if(name === "KASICH" || name === "SIM" || name === "MELENCHON" || name === "HOFER"){
+			document.getElementsByClassName("pageviews")[4].style.visibility = "hidden";
+		}else{
+			document.getElementsByClassName("pageviews")[5].style.visibility = "hidden";
+		}
+	}
+	
+	
 }

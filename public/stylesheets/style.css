@@ -162,7 +162,7 @@ html,body {
 }
 
 .pageviews path.Donald_Trump {
-	stroke: #c1272d;	
+	stroke: #c1272d;		
 }
 
 #barchart rect.Donald_Trump {
@@ -319,4 +319,66 @@ html,body {
 
 #barchart rect.Sim_Sang-Jung {
 	fill: #9b0c12;
+}
+
+#graphSelectionBox{
+	width: 10vw;
+    height: 28vh;
+    background: #f2f2f2;
+    position: absolute;
+    left: 3vw;
+    top: 20vh;
+}
+
+.selectionBox{
+	height: 16%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+.selectionBoxImage{
+	border-radius: 50%;
+	width: 2vw;
+	height: 2vw;
+}
+
+.selectionBoxText{
+	width: 50%;
+	margin-left: 5%;
+	text-align: center;
+}
+
+.toggleButton{
+	width: 1.5vh;
+	height: 1.5vh;	
+	margin-left: 5%;
+}
+
+#tb1{
+	background: #333333;
+}
+
+#tb2{
+	background: #333333;
+}
+
+#tb3{
+	background: #333333;
+}
+
+#tb4{
+	background: #333333;
+}
+
+#tb5{
+	background: #333333;
+}
+
+#tb6{
+	background: #333333;
+}
+
+.toggleButton:hover, .selectionBoxText:hover{
+	cursor: pointer;
 }
