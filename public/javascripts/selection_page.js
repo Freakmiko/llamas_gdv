@@ -9,6 +9,16 @@ candidatesInfoText['HOFER'] = "Norbert Gerwald Hofer ist ein österreichischer P
 candidatesInfoText['GRISS'] = "Irmgard Griss ist eine österreichische Juristin und ehemalige Präsidentin des Obersten Gerichtshofes. Bei der Bundespräsidentenwahl in Österreich 2016 trat Griss als unabhängige Kandidatin an. Sie erreichte mit 18,9% der Stimmen das drittbeste Ergebnis beim ersten Wahlgang und verfehlte die Stichwahl um weniger als 3 Prozentpunkte. Beim darauffolgenden zweiten Wahlgang unterstützte sie den als unabhängiger Kandidat angetretenen früheren Grünen-Vorsitzenden Alexander Van der Bellen, um eine Bundespräsidentschaft des FPÖ-Politikers Norbert Hofer zu vermeiden.";
 candidatesInfoText['HUNDSTORFER'] = "Rudolf Hundstorfer ist ein österreichischer Politiker, ÖGB-Gewerkschaftsfunktionär und war seit 2007 Präsident des ÖGB. Hundstorfer war von Dezember 2008 bis Januar 2016 Bundesminister für Arbeit, Soziales und Konsumentenschutz. Am 4. November 2016 wurde er zum Präsidenten der Österreichischen Bundessportorganisation gewählt. Am 15. Januar 2016 wurde sein Antreten bei der Bundespräsidentenwahl in Österreich 2016 bekanntgegeben. Bei der Wahl am 24. April erreichte er als Kandidat der stärksten im Parlament vertretenen Partei aber nur 11,28 %.";
 candidatesInfoText['KHOL'] = "Andreas Khol ist ein ehemaliger österreichischer Politiker der ÖVP. In der Zeit von 1969-1973 war er internationaler Beamter im Sekretariat des Europarates. Dort arbeitete er im internationalen Menschenrechtsschutz. Von 2002 bis 2006 war er Präsident des österreichischen Nationalrates. Am 10. Januar 2016 wurde Khol als ÖVP-Kandidat für die Bundespräsidentenwahl in Österreich 2016 präsentiert. Nach seiner Wahlniederlage im ersten Wahlgang gab Khol allerdings bekannt, sich aus der Politik zurückzuziehen.";
+candidatesInfoText['FILLON'] = "François Fillon ist ein französischer Politiker. Von 1993 bis 2005 hatte er Ministerposten in verschiedenen Kabinetten inne; von 2007 bis 2012 war er Premierminister Frankreichs unter dem damaligen Staatspräsidenten Sarkozy. Fillon trat als Kandidat der Partei Les Républicains bei der ersten Runde der Präsidentschaftswahl 2017 am 23. April 2017 an. Als bekannt wurde, dass Emmanuel Macron der neu gegründeten Partei En Marche und Marine Le Pen als Vertreterin der rechtsextremen Front National wenige Prozentpunkte mehr als er hatten, kündigte er an, bei der Stichwahl am 7. Mai 2017 Macron zu wählen.";
+candidatesInfoText['HAMON'] = "Benoît Hamon ist ein französischer Politiker der Parti Socialiste (PS). Bei den Präsidentschaftswahlen 2017 war er Kandidat seiner Partei. Er erhielt im ersten Wahlgang am 23. April 2017 6,36 % der Stimmen[1] und kam nicht in die Stichwahl. Vom 2. April bis zum 25. August 2014 war Hamon Minister für Bildung, Hochschulen und Forschung im Kabinett Valls. Seit Mai 2012 war er Beigeordneter Minister für soziale Ökonomie und Solidarität im Ministerium für Wirtschaft, Finanzen und Außenhandel im Kabinett von Premierminister Ayrault. Von 2004 bis 2009 war er Mitglied des Europäischen Parlaments.";
+candidatesInfoText['LEPEN'] = "Marine Le Pen ist eine französische Juristin und Politikerin des rechtsextremen Front National (FN). Am 16. Januar 2011 wurde sie die Nachfolgerin ihres Vaters Jean-Marie Le Pen als Vorsitzende des FN. Sie kandidierte bei den französischen Präsidentschaftswahlen der Jahre 2012 und 2017. Sie ist seit Juni 2017 Abgeordnete der französischen Nationalversammlung.";
+candidatesInfoText['MACRON'] = "Emmanuel Jean-Michel Frédéric Macron ist ein französischer Politiker und seit dem 14. Mai 2017 der jüngste Staatspräsident in der Geschichte Frankreichs. Von August 2014 bis August 2016 war er Wirtschaftsminister im Kabinett Valls II unter Staatspräsident François Hollande. Er trat mit sozialliberalen und wirtschaftsliberalen Positionen als Kandidat zur Präsidentschaftswahl in Frankreich 2017 mit der von ihm gegründeten Partei En Marche an. In seinem Wahlprogramm schlug er einen Umbau der Sozialsysteme und des Parlaments sowie eine engere Zusammenarbeit innerhalb der Eurozone vor.";
+candidatesInfoText['MELENCHON'] = "Jean-Luc Mélenchon ist ein linker französischer Politiker. Er war Gründer und bis 2014 Vorsitzender der Linkspartei Parti de Gauche, war Präsidentschaftskandidat des Wahlbündnisses Front de gauche bei der Präsidentschaftswahl 2012 und trat bei der der Präsidentschaftswahl 2017 im Namen der von ihm dafür gegründeten Partei La France insoumise („Unbeugsames Frankreich“) an und erhielt 19,58 % der Stimmen. Seit Juni 2017 ist er Abgeordneter in der französischen Nationalversammlung.";
+candidatesInfoText['AHN'] = "Ahn Cheol-soo (안철수) ist ein südkoreanischer Politiker, Physiker und Softwareentwickler. Er ist ein Mitglied der derzeitigen Nationalversammlung und war der Kandidat der Gungminui-Partei in der Präsidentschaftswahl Südkoreas in 2017. Er war zusammen mit Chun Jung-bae Mitbegründer und Anführer der Gungminui-Partei. Er trat als unabhängiger Kandidat in der Präsidentschaftswahlen von 2012 an, trat aber einen Monat vor der Wahl zurück, um Moon Jae-in zu unterstützen. 1995 gründete er AhnLab Inc., eine Firma für Antivirensoftware. Bevor er an der Politik teilnahm, war er bis September 2012 Dekan einer Hochschule der Seoul National University.";
+candidatesInfoText['HONG'] = "Hong Jun-pyo (홍준표) ist ein südkoreanischer Politiker, ehemaliger Staatsanwalt und ehemaliger Gouverneur der Provinz South Gyeongsang. Er war bis Dezember 2011 Vorsitzender der Grand National Party. Er gestand im Alter von 18 Jahren an einer gescheiterten Vergewaltigung beteiligt gewesen zu sein. Bei der Präsidentschaftswahl Südkoreas 2017 trat er als Präsidentschaftskandidat der Freiheitspartei Koreas an. Die Bekenntnis zu der versuchten Vergewaltigung sorgte bei der Wahl für starke Kontroversen und führte mehrfach zur Forderung seine Kandidatur aufzugeben.";
+candidatesInfoText['MOON'] = "Moon Jae-in (문재인) ist seit dem 10. Mai 2017 der Staatspräsident von Südkorea. Er wurde nach der Amtsenthebung von seiner Vorgängerin, Park Geun-hye. Er ist ehemaliger Aktivist für Studenten, Anwalt für Menschenrechte und Stabschef für den damaligen Präsidenten Roh Moo-hyun. Moon ist ehemaliger Anführer der Minjoo Partei Koreas, ein Mitglied der 19. Nationalversammlung und war ebenfalls Kandidat der früheren Demokratischen Partei in der Präsidentschaftswahl in 2012, welche er damals knapp gegen Park Geun-hye verlor.";
+candidatesInfoText['SIM'] = "Sim Sang-jung (심상정) ist eine südkoreanische Politikerin. Sie ist eine wichtige Persönlichkeit für die linke progressive Fraktion in der südkoreanischen Politik. Sim war Vorsitzende der Demokratischen Arbeiterpartei, ist Mitbegründerin der Neuen Progressiven Partei sowie Mitbegründerin und Vorsitzende der Unified Progressive Party. Sie war einer der fünf Hauptkandidaten der Präsidentschaftswahl Südkoreas in 2017, wo sie für die Jonguidang Partei kandidierte";
+candidatesInfoText['YOO'] = "Yoo Seung-min (유승민) ist südkoreanischer Wirtschaftswissenschaftler und Politiker. Im Jahr 2004 wurde er zum ersten Mal als Mitglied der Nationalversammlung berufen und als Mitglied der konservativen Hannara-Partei gewählt. Yoo diente als Stabschef der ehemaligen Präsidentin Park Geun-hye und wurde als ihr enger Vertrauter betrachtet. Er ist derzeit nach wie vor Mitglied der koreanischen Nationalversammlung und war Kandidat für die Bareun Partei bei der Präsidentschaftswahl Südkoreas in 2017.";
 
 var candidatesInfoImage = new Array ();
 candidatesInfoImage['CLINTON'] = "/images/Clinton.jpg";
@@ -21,6 +31,16 @@ candidatesInfoImage['HOFER'] = "/images/Hofer.jpg";
 candidatesInfoImage['GRISS'] = "/images/Griss.jpg";
 candidatesInfoImage['HUNDSTORFER'] = "/images/Hundstorfer.jpg";
 candidatesInfoImage['KHOL'] = "/images/Khol.jpg";
+candidatesInfoImage['FILLON'] = "/images/Fillon.jpg";
+candidatesInfoImage['HAMON'] = "/images/Hamon.jpg";
+candidatesInfoImage['LEPEN'] = "/images/LePen.jpg";
+candidatesInfoImage['MACRON'] = "/images/Macron.jpg";
+candidatesInfoImage['MELENCHON'] = "/images/Melenchon.jpg";
+candidatesInfoImage['AHN'] = "/images/Ahn.jpg";
+candidatesInfoImage['HONG'] = "/images/Hong.jpg";
+candidatesInfoImage['MOON'] = "/images/Moon.jpg";
+candidatesInfoImage['SIM'] = "/images/Sim.jpg";
+candidatesInfoImage['YOO'] = "/images/Yoo.jpg";
 
 var candidatesNames = new Array();
 candidatesNames['CLINTON'] = "Hillary Clinton";
@@ -33,10 +53,24 @@ candidatesNames['HOFER'] = "Norbert Hofer";
 candidatesNames['GRISS'] = "Irmgard Griss";
 candidatesNames['HUNDSTORFER'] = "Rudolf Hundstorfer";
 candidatesNames['KHOL'] = "Andreas Khol";
+candidatesNames['FILLON'] = "François Fillon";
+candidatesNames['HAMON'] = "Benoit Hamon";
+candidatesNames['LEPEN'] = "Marine Le Pen";
+candidatesNames['MACRON'] = "Emmanuel Macron";
+candidatesNames['MELENCHON'] = "Jean-Luc Mélenchon";
+candidatesNames['AHN'] = "Ahn Cheol-soo";
+candidatesNames['HONG'] = "Hong Jun-pyo";
+candidatesNames['MOON'] = "Moon Jae-in";
+candidatesNames['SIM'] = "Sim Sang-jung";
+candidatesNames['YOO'] = "Yoo Seung-min";
 
 
 function back() {
 	window.open("http://localhost:3000/","_self")
+}
+
+function compare(){
+	window.open("http://localhost:3000/all","_self")
 }
 
 function showCandidateInformation(name){		

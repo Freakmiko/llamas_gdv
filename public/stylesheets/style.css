@@ -36,10 +36,19 @@ html,body {
 	border-bottom: 1px dotted black;
 }
 
+.nonClickableHeaderContainer{
+	display: flex;
+    align-items: center;
+}
+
+.nonClickableHeaderContainer:hover{
+	cursor: default;
+}
+
 #headerCountrySelection{
 	width: 10%;
 	height: 100%;
-	margin-right: 10%;
+	margin-right: 23.75vw;
 }
 
 #headerCountry{
@@ -61,7 +70,7 @@ html,body {
 #headerElectionPhases{
 	width: 10%;
 	height: 100%;
-	margin-right: 16vw;
+	margin-right: 23.75vw;
 }
 
 #headerSettings{
@@ -86,28 +95,22 @@ html,body {
 
 .contentArea{
 	width:100%;
-	height:92%;	
+	height:92%;
 	display: flex;
 }
 
 #graph{
 	width: 69.5%;
 	height: 95%;
-	text-align: center;
-	border: solid #333333 1px;
+	text-align: center;	
 	margin: 2% 0% 0% 1%;
 }
 
 #results{
 	width: 28.5%;
 	height: 95%;
-	text-align: center;
-	border: solid #333333 1px;
+	text-align: center;	
 	margin: 2% 0% 0% 0%;
-}
-
-#headerComparison{
-	margin-right: 10vw;
 }
 
 #headerComparisonImage{	

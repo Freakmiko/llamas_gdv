@@ -4,27 +4,27 @@ block countryImage
     img#headerCountryImage(src="/images/southKorea.svg")
 
 block countryName
-    div.headerMenuContent.headerItem Südkorea
+    div.headerMenuContent Südkorea
 
 block electionPhases
-    div.headerMenuContent.headerItem 1 Wahlrunde
+    div.headerMenuContent 1 Wahlrunde
 
 block graph
     div#graph
         svg#linegraph
         script.
             var data = [];
-            d3.json("/data/korea/en/election_2017.json", function (error, d) {
+            d3.json("/data/korea/ko/election_2017.json", function (error, d) {
                 data = d3.merge([data, d.items])
-                d3.json("/data/korea/en/ahn_cheol-soo.json", function (error, d) {
+                d3.json("/data/korea/ko/ahn_cheol-soo.json", function (error, d) {
                     data = d3.merge([data, d.items])
-                    d3.json("/data/korea/en/hong_jun-pyo.json", function (error, d) {
+                    d3.json("/data/korea/ko/hong_jun-pyo.json", function (error, d) {
                         data = d3.merge([data, d.items])
-                        d3.json("/data/korea/en/moon_jae-in.json", function (error, d) {
+                        d3.json("/data/korea/ko/moon_jae-in.json", function (error, d) {
                             data = d3.merge([data, d.items])
-                            d3.json("/data/korea/en/sim_sang-jung.json", function (error, d) {
+                            d3.json("/data/korea/ko/sim_sang-jung.json", function (error, d) {
                                 data = d3.merge([data, d.items])
-                                d3.json("/data/korea/en/yoo_seung-min.json", function (error, d) {
+                                d3.json("/data/korea/ko/yoo_seung-min.json", function (error, d) {
                                     data = d3.merge([data, d.items])
                                     lineGraph.renderGraph(data)
                                 })

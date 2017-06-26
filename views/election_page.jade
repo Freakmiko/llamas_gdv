@@ -11,19 +11,16 @@ block content
 	div.header
 		div.headerHoverContainer#headerCountrySelection
 			div.headerMenuContent.headerItem(onclick="back()") Länderauswahl
-		div.headerHoverContainer#headerCountry
+		div.nonClickableHeaderContainer#headerCountry
 			block countryImage	
 			block countryName					
-		div.headerHoverContainer#headerCandidates
-			div.headerMenuContent.headerItem(onclick="showCandidateInformation(\'CLINTON\')") 5 Kandidaten
-		div.headerHoverContainer#headerElectionPhases
+		div.nonClickableHeaderContainer#headerCandidates
+			div.headerMenuContent 5 Kandidaten
+		div.nonClickableHeaderContainer#headerElectionPhases
 			block electionPhases			
-		div.headerHoverContainer#headerComparison
+		div.headerHoverContainer(onclick="compare()")
 			img#headerComparisonImage(src="/images/cross.svg")
-			div.headerMenuContent.headerItem Ländervergleich
-		div.headerHoverContainer#headerSettings
-			div.headerMenuContent.headerItem Wikipedia-Sprache
-			img#headerSettingsImage(src="/images/settings.svg")
+			div.headerMenuContent.headerItem Sprachvergleich		
 	
 	div.contentArea(onclick="hideCandidateInformation()")
 		block graph
