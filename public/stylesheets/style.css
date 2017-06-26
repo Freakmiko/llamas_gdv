@@ -152,3 +152,45 @@ html,body {
 	text-align: center;
 	font-size: 1.5vw;
 }
+
+#barchart rect {
+	fill: #ff00e7;
+}
+
+.pageviews path {
+	stroke: #ff00e7;
+}
+
+.pageviews path.Donald_Trump {
+	stroke: #0f4d99;
+}
+
+#barchart rect.Donald_Trump {
+	fill: #0f4d99;
+}
+
+
+.pageviews path.Hillary_Clinton {
+	stroke: #993d4a;
+}
+
+#barchart rect.Hillary_Clinton {
+	fill: #993d4a;
+}
+
+.pageviews path.Bernie_Sanders {
+	stroke: #419954;
+}
+
+#barchart rect.Bernie_Sanders {
+	fill: #419954;
+}
+
+.pageviews path.John_Kasich {
+	stroke: #05b9b4;
+}
+
+#barchart rect.John_Kasich {
+	fill: #05b9b4;
+}
+
