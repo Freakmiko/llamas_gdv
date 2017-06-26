@@ -57,7 +57,7 @@ class LineGraph {
         this.zoomHistory = [];
         this.xBrush = d3.brushX();
 
-        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20);
+        this.colorScale = d3.scaleOrdinal(d3.schemeCategory20).range(["#ed1c24", "#c1272d" , "#0071bc" , "#29abe2" , "#5cd5ff"]);
 
         this.line = d3.line()
             .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
