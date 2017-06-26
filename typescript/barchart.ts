@@ -27,10 +27,16 @@ class Barchart {
         "Hong_Jun-pyo": "images/Hong.jpg",
         "안철수": "images/Ahn.jpg",
         "Ahn_Cheol-soo": "images/Ahn.jpg",
-        "유승민": "images/Yoo.jpg",
+        "유승민_(정치인)": "images/Yoo.jpg",
         "Yoo_Seong-min": "images/Yoo.jpg",
         "심상정": "images/Sim.jpg",
-        "Sim_Sang-jung": "images/Sim.jpg"
+        "Sim_Sang-jung": "images/Sim.jpg",
+
+        "Alexander_Van_der_Bellen": "images/Bellen.jpg",
+        "Andreas_Khol": "images/Khol.jpg",
+        "Irmgard_Griss": "images/Griss.jpg",
+        "Norbert_Hofer": "images/Hofer.jpg",
+        "Rudolf_Hundstorfer": "images/Hundstorfer.JPG"
     }
 
     /**
@@ -97,18 +103,21 @@ class Barchart {
         let svg = d3.select(`#barchart${this.svgIndex}`);
 
         //console.log(this.data.items[0].candidate + " " + "안철수");
-        svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
+        if (this.data.items[0]) {
+            console.log(this.data.items[0].candidate);
+            svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
 
-        var bar = svg.selectAll("g").data(this.data.items, (d: any) => d.viewPercentage)
-        var barEnter = bar.enter().append("g")
-            .attr("transform", (d, i) => `translate(${this.margin.left},${ 20})`);
+            var bar = svg.selectAll("g").data(this.data.items, (d: any) => d.viewPercentage);
+            var barEnter = bar.enter().append("g")
+                .attr("transform", (d, i) => `translate(${this.margin.left},${ 20})`);
 
-        barEnter.append("rect")
-            .attr("width", (d: any) => this.xScale(d.viewPercentage))
-            .attr("height", 20)
-            .attr("fill", (d: any) => this.colorScale(d.candidate));
+            barEnter.append("rect")
+                .attr("width", (d: any) => this.xScale(d.viewPercentage))
+                .attr("height", 20)
+                .attr("fill", (d: any) => this.colorScale(d.candidate));
 
-        bar.exit().remove();
+            bar.exit().remove();
+        }
         //this.updatePageViews(d3.easeCircleOut, 200);
     }
 

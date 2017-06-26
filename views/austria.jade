@@ -35,4 +35,34 @@ block graph
             })
 
 block results	
-    div#results Ergebnisse
+    div#results
+        div#barchart
+            script.
+                d3.json("/data/austria/de/candidate_percentages.json", function (error, d) {
+                    var charts = [];
+                    for (var i = 0; i < d.length; i++) {
+                        charts.push(new Barchart("barchart", i));
+                    }
+                    var currentDay = 0;
+                    d3.interval(function () {
+                        charts.forEach(function (element, index) {
+                            if (currentDay >= d[index].length)
+                                element.renderGraph(d[index][currentDay - 1])
+                            else
+                                element.renderGraph(d[index][currentDay])
+                        })
+                        currentDay++;
+                    }, 150)
+                });
+//                var barData = [];
+//                    d3.json("/data/austria/en/alexander_van_der_bellen.json", function (error, d) {
+//                        barData = d3.merge([barData, d.items]);
+//                        d3.json("/data/austria/en/andreas_khol.json", function (error, d) {
+//                            barData = d3.merge([barData, d.items]);
+//                                d3.json("/data/austria/en/norbert_hofer.json", function (error, d) {
+//                                    barData = d3.merge([barData, d.items]);
+//                                        var chart01 = new Barchart("barchart");
+//                                        chart01.calculatePercentages(barData);
+//                                    })
+//                        })
+//                    })
