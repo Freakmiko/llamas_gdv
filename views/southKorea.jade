@@ -36,5 +36,42 @@ block graph
 
 
 block results	
-    div#results Ergebnisse
+    div#results
+        div#barchart
+        script.
+            d3.json("/data/korea/en/candidate_percentages.json", function (error, d) {
+                var currentDay = 0;
+                var chart =  new Barchart("barchart", 0);
+                var chart2 =  new Barchart("barchart", 1);
+                var chart3 =  new Barchart("barchart", 2);
+                d3.interval(function (elapsed) {
+                    if (currentDay >= d[0].length) {
+                        chart.renderGraph(d[0][currentDay - 1]);
+                        chart2.renderGraph(d[1][currentDay - 1]);
+                        chart3.renderGraph(d[2][currentDay - 1]);
+                    } else {
+                        chart.renderGraph(d[0][currentDay]);
+                        chart2.renderGraph(d[1][currentDay]);
+                        chart3.renderGraph(d[2][currentDay++]);
+                    }
+                }, 50);
+            });
+//            var barData = [];
+//            d3.json("/data/korea/en/ahn_cheol-soo.json", function (error, d) {
+//                barData = d3.merge([barData, d.items])
+//                d3.json("/data/korea/en/hong_jun-pyo.json", function (error, d) {
+//                    barData = d3.merge([barData, d.items])
+//                    d3.json("/data/korea/en/moon_jae-in.json", function (error, d) {
+//                        barData = d3.merge([barData, d.items])
+//                        d3.json("/data/korea/en/sim_sang-jung.json", function (error, d) {
+//                            barData = d3.merge([barData, d.items])
+//                            d3.json("/data/korea/en/yoo_seung-min.json", function (error, d) {
+//                                barData = d3.merge([barData, d.items])
+//                                var chart01 = new Barchart("barchart");
+//                                chart01.renderGraph(barData, 0)
+//                            })
+//                        })
+//                    })
+//                })
+//            })
 
