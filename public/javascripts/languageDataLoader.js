@@ -1,17 +1,23 @@
 function loadKoreanData(language) {
     var data = [];
     d3.json("/data/korea/" + language + "/election_2017.json", function (error, d) {
-        data = d3.merge([data, d.items]);
-        d3.json("/data/korea/" + language + "/ahn_cheol-soo.json", function (error, d) {
+        if (!error)
             data = d3.merge([data, d.items]);
-            d3.json("/data/korea/" + language + "/hong_jun-pyo.json", function (error, d) {
+        d3.json("/data/korea/" + language + "/ahn_cheol-soo.json", function (error, d) {
+            if (!error)
                 data = d3.merge([data, d.items]);
-                d3.json("/data/korea/" + language + "/moon_jae-in.json", function (error, d) {
+            d3.json("/data/korea/" + language + "/hong_jun-pyo.json", function (error, d) {
+                if (!error)
                     data = d3.merge([data, d.items]);
-                    d3.json("/data/korea/" + language + "/sim_sang-jung.json", function (error, d) {
+                d3.json("/data/korea/" + language + "/moon_jae-in.json", function (error, d) {
+                    if (!error)
                         data = d3.merge([data, d.items]);
-                        d3.json("/data/korea/" + language + "/yoo_seung-min.json", function (error, d) {
+                    d3.json("/data/korea/" + language + "/sim_sang-jung.json", function (error, d) {
+                        if (!error)
                             data = d3.merge([data, d.items]);
+                        d3.json("/data/korea/" + language + "/yoo_seung-min.json", function (error, d) {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
                             lineGraph.renderGraph(data);
                         });
                     });
@@ -22,6 +28,37 @@ function loadKoreanData(language) {
 }
 function loadKoreanCandidatePercentagesData(language) {
     loadCandidatePercentagesData(language, "korea");
+}
+function loadUsaData(language) {
+    var data = [];
+    d3.json("/data/usa/" + language + "/election_2016.json", function (error, d) {
+        if (!error)
+            data = d3.merge([data, d.items]);
+        d3.json("/data/usa/" + language + "/bernie_sanders.json", function (error, d) {
+            if (!error)
+                data = d3.merge([data, d.items]);
+            d3.json("/data/usa/" + language + "/donald_trump.json", function (error, d) {
+                if (!error)
+                    data = d3.merge([data, d.items]);
+                d3.json("/data/usa/" + language + "/hillary_clinton.json", function (error, d) {
+                    if (!error)
+                        data = d3.merge([data, d.items]);
+                    d3.json("/data/usa/" + language + "/john_kasich.json", function (error, d) {
+                        if (!error)
+                            data = d3.merge([data, d.items]);
+                        d3.json("/data/usa/" + language + "/ted_cruz.json", function (error, d) {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
+                            lineGraph.renderGraph(data);
+                        });
+                    });
+                });
+            });
+        });
+    });
+}
+function loadUsaCandidatePercentagesData(language) {
+    loadCandidatePercentagesData(language, "usa");
 }
 function loadAustrianData(language) {
     var data = [];

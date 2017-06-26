@@ -13,26 +13,10 @@ block graph
     div#graph
         svg#linegraph
         script.
-            var data = [];
-            d3.json("/data/usa/en/election_2016.json", function (error, d) {
-                data = d3.merge([data, d.items])
-                d3.json("/data/usa/en/bernie_sanders.json", function (error, d) {
-                    data = d3.merge([data, d.items])
-                    d3.json("/data/usa/en/donald_trump.json", function (error, d) {
-                        data = d3.merge([data, d.items])
-                        d3.json("/data/usa/en/hillary_clinton.json", function (error, d) {
-                            data = d3.merge([data, d.items])
-                            d3.json("/data/usa/en/john_kasich.json", function (error, d) {
-                                data = d3.merge([data, d.items])
-                                d3.json("/data/usa/en/ted_cruz.json", function (error, d) {
-                                    data = d3.merge([data, d.items])
-                                    lineGraph.renderGraph(data)
-                                })
-                            })
-                        })
-                    })
-                })
-            })
+            loadUsaData("en")
 
 block results	
-    div#results Ergebnisse
+    div#results
+        div#barchart
+            script.
+                loadUsaCandidatePercentagesData("en")

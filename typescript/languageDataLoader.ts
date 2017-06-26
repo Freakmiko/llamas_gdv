@@ -1,18 +1,23 @@
-
 function loadKoreanData(language: string) {
-    var data = [];
+    let data = [];
     d3.json(`/data/korea/${language}/election_2017.json`, (error, d: any) => {
-        data = d3.merge([data, d.items]);
-        d3.json(`/data/korea/${language}/ahn_cheol-soo.json`, (error, d: any) => {
+        if (!error)
             data = d3.merge([data, d.items]);
-            d3.json(`/data/korea/${language}/hong_jun-pyo.json`, (error, d: any) => {
+        d3.json(`/data/korea/${language}/ahn_cheol-soo.json`, (error, d: any) => {
+            if (!error)
                 data = d3.merge([data, d.items]);
-                d3.json(`/data/korea/${language}/moon_jae-in.json`, (error, d: any) => {
+            d3.json(`/data/korea/${language}/hong_jun-pyo.json`, (error, d: any) => {
+                if (!error)
                     data = d3.merge([data, d.items]);
-                    d3.json(`/data/korea/${language}/sim_sang-jung.json`, (error, d: any) => {
+                d3.json(`/data/korea/${language}/moon_jae-in.json`, (error, d: any) => {
+                    if (!error)
                         data = d3.merge([data, d.items]);
-                        d3.json(`/data/korea/${language}/yoo_seung-min.json`, (error, d: any) => {
+                    d3.json(`/data/korea/${language}/sim_sang-jung.json`, (error, d: any) => {
+                        if (!error)
                             data = d3.merge([data, d.items]);
+                        d3.json(`/data/korea/${language}/yoo_seung-min.json`, (error, d: any) => {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
                             lineGraph.renderGraph(data)
                         })
                     })
@@ -24,6 +29,39 @@ function loadKoreanData(language: string) {
 
 function loadKoreanCandidatePercentagesData(language: string) {
     loadCandidatePercentagesData(language, "korea");
+}
+
+function loadUsaData(language: string) {
+    let data = [];
+    d3.json(`/data/usa/${language}/election_2016.json`, (error, d: any) => {
+        if (!error)
+            data = d3.merge([data, d.items]);
+        d3.json(`/data/usa/${language}/bernie_sanders.json`, (error, d: any) => {
+            if (!error)
+                data = d3.merge([data, d.items]);
+            d3.json(`/data/usa/${language}/donald_trump.json`, (error, d: any) => {
+                if (!error)
+                    data = d3.merge([data, d.items]);
+                d3.json(`/data/usa/${language}/hillary_clinton.json`, (error, d: any) => {
+                    if (!error)
+                        data = d3.merge([data, d.items]);
+                    d3.json(`/data/usa/${language}/john_kasich.json`, (error, d: any) => {
+                        if (!error)
+                            data = d3.merge([data, d.items]);
+                        d3.json(`/data/usa/${language}/ted_cruz.json`, (error, d: any) => {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
+                            lineGraph.renderGraph(data)
+                        })
+                    })
+                })
+            })
+        })
+    })
+}
+
+function loadUsaCandidatePercentagesData(language: string) {
+    loadCandidatePercentagesData(language, "usa");
 }
 
 function loadAustrianData(language: string) {
@@ -61,18 +99,18 @@ function loadAustrianCandidatePercentagesData(language: string) {
 
 function loadCandidatePercentagesData(language: string, country: string) {
     d3.json(`/data/${country}/${language}/candidate_percentages.json`, (error, d: any) => {
-        var charts = [];
-        for (var i = 0; i < d.length; i++) {
+        let charts = [];
+        for (let i = 0; i < d.length; i++) {
             charts.push(new Barchart(`barchart`, i));
         }
-        var currentDay = 0;
-        d3.interval(function() {
-            charts.forEach(function(element, index) {
+        let currentDay = 0;
+        d3.interval(function () {
+            charts.forEach(function (element, index) {
                 if (currentDay >= d[index].length)
-                    element.renderGraph(d[index][currentDay - 1])
+                    element.renderGraph(d[index][currentDay - 1]);
                 else
                     element.renderGraph(d[index][currentDay])
-            })
+            });
             currentDay++;
         }, 150)
     });

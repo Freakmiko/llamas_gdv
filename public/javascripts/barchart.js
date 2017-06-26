@@ -25,7 +25,12 @@ var Barchart = (function () {
             "Andreas_Khol": "images/Khol.jpg",
             "Irmgard_Griss": "images/Griss.jpg",
             "Norbert_Hofer": "images/Hofer.jpg",
-            "Rudolf_Hundstorfer": "images/Hundstorfer.JPG"
+            "Rudolf_Hundstorfer": "images/Hundstorfer.JPG",
+            "Bernie_Sanders": "images/Sanders.jpg",
+            "Donald_Trump": "images/Trump.jpg",
+            "Hillary_Clinton": "images/Clinton.jpg",
+            "John_Kasich": "images/Kasich.jpg",
+            "Ted_Cruz": "images/Cruz.jpg"
         };
         this.divId = divId;
         this.svgIndex = svgIndex;
@@ -72,10 +77,7 @@ var Barchart = (function () {
     Barchart.prototype.renderGraph = function (data) {
         var _this = this;
         this.data = { "items": [data] };
-        //console.log(this.data);
-        this.updateScales(data);
         var svg = d3.select("#barchart" + this.svgIndex);
-        //console.log(this.data.items[0].candidate + " " + "안철수");
         if (this.data.items[0]) {
             console.log(this.data.items[0].candidate);
             svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
@@ -89,106 +91,6 @@ var Barchart = (function () {
             bar.exit().remove();
         }
         //this.updatePageViews(d3.easeCircleOut, 200);
-    };
-    Barchart.prototype.calculatePercentages = function (data) {
-        var sum = 0;
-        _.forEach(data, function (t) { return sum += t.views; });
-        this.groupedData = _.toArray(_.groupBy(data, "article"));
-        var candidateData = [];
-        _.forEach(this.groupedData, function (t) {
-            var currentSum = 0;
-            candidateData.push([]);
-            _.forEach(t, function (candidate) {
-                currentSum += candidate.views;
-                candidateData[candidateData.length - 1].push({
-                    candidate: candidate.article,
-                    viewPercentage: currentSum / sum * 100
-                });
-            });
-        });
-        console.log(JSON.stringify(candidateData));
-    };
-    /**
-     * Updates the pageViews linegraphs
-     * by animating them using the given easing function
-     * for the given duration
-     * @param easingFn A easing function like d3.easeCircleOut
-     * @param duration The duration of the transition animation
-     */
-    Barchart.prototype.updatePageViews = function (easingFn, duration) {
-        // let g = d3.select(`#${this.divId} > g.lineGraph`);
-        // let groupSelection = g.selectAll(".pageviews").data(this.groupedData);
-        // let pageviewsSelection = groupSelection.enter().append("g").attr("class", "pageviews");
-        // let transitionLine = d3.line()
-        //     .x((d: any) => this.xScale(this.parseDate(d.timestamp)))
-        //     .y((d: any) => this.yScale(0))
-        //     .curve(d3.curveLinear);
-        //
-        //
-        // pageviewsSelection.append("path").attr("d", (d: any[]) => transitionLine(d))
-        //     .merge(g.selectAll(".pageviews > path") as any)
-        //     .transition().duration(duration).ease(easingFn)
-        //     .attr("fill", "none")
-        //     .attr("stroke", (d: any) => this.colorScale(d[0].article))
-        //     .attr("stroke-width", "2")
-        //     .attr("d", (d: any[]) => this.line(d))
-    };
-    /**
-     * Updates the y- and x-scales to
-     * the domains of the new data
-     * @param data The new data whose domains will be used
-     */
-    Barchart.prototype.updateScales = function (data) {
-        // this.xScale.domain(
-        //     d3.extent(
-        //         data,
-        //         (d: any) => this.parseDate(d.timestamp.toString())
-        //     ) as [Date, Date]
-        // );
-        //this.xScale.domain(0, 100);
-        // let yMaximumValue = d3.max(data, (d: any) => d.views);
-        // yMaximumValue += d3.quantile(data, 0.5, (datum: any) => datum.views);
-        // this.yScale.domain([0, yMaximumValue]);
-    };
-    /**
-     * Updates the y- and the x-axis
-     * by animating them to the updated ranges
-     */
-    Barchart.prototype.updateAxis = function () {
-        this.yAxis = d3.axisLeft(this.yScale).tickSize(0)
-            .tickFormat(function (d) { return "" + d; });
-        d3.select("#" + this.divId).select("g.leftAxis")
-            .transition().duration(500)
-            .call(this.yAxis)
-            .select(".domain")
-            .attr("stroke", "none");
-        this.xAxis = d3.axisBottom(this.xScale);
-        d3.select("#" + this.divId).select("g.bottomAxis")
-            .transition().duration(500)
-            .call(this.xAxis)
-            .select(".domain")
-            .attr("stroke", "#AAA");
-    };
-    /**
-     * Updates the grid on the graph by animating
-     * the existing lines to their respective positions
-     * and adding new lines or removing lines that don't exist anymore
-     */
-    Barchart.prototype.updateGrid = function () {
-        var _this = this;
-        var gridGroup = d3.select("#" + this.divId).select("g.gridLines").selectAll("line")
-            .data(this.yScale.ticks(), function (d) { return d; });
-        gridGroup.exit().remove();
-        gridGroup.enter().append("line")
-            .attr("x1", this.margin.left)
-            .attr("x2", this.margin.right + this.size.width)
-            .merge(gridGroup)
-            .transition().duration(500)
-            .attr("y1", function (d) { return _this.yScale(d); })
-            .attr("y2", function (d) { return _this.yScale(d); })
-            .attr("stroke", "black")
-            .attr("opacity", 0.2)
-            .attr("stroke-width", 0.5 + "px");
     };
     return Barchart;
 }());
