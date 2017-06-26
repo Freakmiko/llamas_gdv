@@ -1,3832 +1,3812 @@
 [
-  [
-    {
-        "candidate": "안철수",
-        "viewPercentage": 0.32145727297080096
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.3616394320921511
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.41521564425395124
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.4821859094562015
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.7232788641843022
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.7634610233056522
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.7902491293865523
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.8170372354674524
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.9241896597910528
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 0.9777658719528528
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.031342084114653
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.071524243236003
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1117064023573533
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1384945084382534
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1518885614787036
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1652826145191535
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1786766675596034
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.1920707206000536
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.2054647736405035
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.2322528797214036
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.259040985802304
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.2724350388427539
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.2858290918832038
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.2992231449236538
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.312617197964104
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.326011251004554
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.3527993570854542
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.3661934101259041
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.4063755692472542
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.4465577283686044
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.4733458344495045
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.5001339405304044
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.5403160996517546
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.5671042057326545
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.5938923118135546
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.620680417894455
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.687650683096705
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.7144387891776054
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.741226895258505
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.7680150013394051
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.7814090543798553
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.8617733726225556
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.9153495847843558
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.9421376908652557
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 1.9689257969461558
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.0492901151888563
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.0894722743102063
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.1296544334315564
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.1564425395124562
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.1832306455933566
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.2100187516742564
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.250200910795607
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.303777122957407
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.357353335119207
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.5582641307259575
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.625234395928208
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.7055987141709084
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.759174926332708
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.8261451915349585
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.8797214036967587
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.933297615858559
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 2.986873828020359
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.2681489418698098
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.41548352531476
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.48245379051701
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.5360300026788103
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.5896062148406105
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.6967586391642113
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.7637289043664612
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.857487275649612
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 3.9914278060541117
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.111974283418162
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.232520760782213
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.299491025984463
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.366461291186713
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.446825609429413
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.647736405036164
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.862041253683365
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.915617465845164
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.955799624966515
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 4.982587731047415
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.0093758371283155
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.049557996249665
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.076346102330565
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.263862844896866
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.451379587463166
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.504955799624966
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.5451379587463165
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.585320117867667
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.612108223948567
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.652290383069917
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.679078489150817
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.705866595231717
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.732654701312617
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.759442807393517
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.7728368604339675
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.799624966514867
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.826413072595767
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.853201178676668
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.933565496919368
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 5.987141709081168
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.067506027323868
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.121082239485669
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.174658451647468
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.295204929011519
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.362175194213769
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.41575140637557
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.48272167157782
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.72381462630592
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.83096705062952
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.88454326279132
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 6.938119474953121
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.031877846236272
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.085454058398072
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.246182694883471
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.447093490490222
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.621216180016073
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.768550763461023
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 7.929279399946424
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 8.090008036431824
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 8.331100991159925
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 8.532011786766676
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 8.786498794535227
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 9.067773908384677
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 9.63032413608358
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 10.179480310742031
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 10.648272167157783
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 11.063487811411733
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 11.344762925261184
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 11.907313152960086
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 13.246718457005091
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 13.889633002946692
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 14.170908116796143
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 14.639699973211895
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 14.974551299223146
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 15.202250200910797
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 15.470131261719796
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 15.831770693811947
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 16.180016072863648
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 16.63541387623895
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 17.01044736137155
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 17.278328422180554
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 17.532815429949103
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 18.068577551567106
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 18.443611036699707
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 18.832038574872755
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 19.193678006964905
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 19.421376908652558
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 19.76962228770426
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 19.95713903027056
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 20.18483793195821
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 20.372354674524512
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 20.653629788373962
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 20.90811679614251
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 21.162603803911065
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 21.443878917760514
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 21.684971872488614
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 21.966246986338067
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 22.515403160996517
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 23.68068577551567
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.00214304848647
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.149477631931422
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.229841950174123
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.296812215376374
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.36378248057862
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.417358692740425
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.457540851861772
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.484328957942676
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.511117064023573
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.537905170104473
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.564693276185373
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.591481382266274
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.618269488347174
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.631663541387624
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.645057594428074
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.658451647468524
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.671845700508975
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.685239753549425
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.69863380658987
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.71202785963032
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.725421912670775
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.738815965711225
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.765604071792126
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.778998124832576
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.792392177873023
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.805786230913473
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.805786230913473
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.819180283953923
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.832574336994377
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.832574336994377
-    },
-    {
-      "candidate": "안철수",
-      "viewPercentage": 24.832574336994377
-    }
-  ],
-  [
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.13394053040450038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.3884275381730512
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.41521564425395124
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.4420037503348513
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.5223680685775516
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.5893383337798017
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.656308598982052
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.6830967050629521
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.6964907581034021
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7098848111438522
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7232788641843022
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7232788641843022
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7366729172247523
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7366729172247523
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7634610233056522
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.7768550763461024
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.8304312885079025
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.8438253415483525
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.8572193945888027
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 0.9375837128315029
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.031342084114653
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.071524243236003
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.1384945084382534
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.1786766675596034
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.2054647736405035
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.2322528797214036
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.2456469327618538
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.259040985802304
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.2858290918832038
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.2992231449236538
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.339405304045004
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.3527993570854542
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.3661934101259041
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.379587463166354
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.3929815162068042
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.5537101526922048
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.6340744709349049
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.7010447361371552
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.7814090543798553
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 1.982319849986606
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.1832306455933566
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.290383069916957
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.357353335119207
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.410929547281007
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.4912938655237076
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.585052236806858
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.638628448968658
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.678810608090008
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.8261451915349585
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 2.9600857219394587
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.0404500401821593
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.1609965175462094
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.32172515403161
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.48245379051701
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.7771229574069114
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 3.9914278060541117
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 4.286096972944012
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 4.4736137155103135
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 4.902223412804715
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 5.143316367532815
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 5.504955799624966
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 5.866595231717118
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 6.147870345566568
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 6.429145459416019
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 6.670238414144119
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 6.96490758103402
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 7.2193945888025715
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 7.688186445218323
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 8.103402089472274
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 8.424859362443076
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 8.786498794535227
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 9.081167961425127
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 9.44280739351728
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 9.95178140905438
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.291186713099384
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.572461826948835
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.679614251272435
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.759978569515136
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.813554781676935
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.867130993838735
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.893919099919636
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.920707206000536
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.947495312081436
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.960889365121886
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 11.974283418162337
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.001071524243235
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.014465577283687
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.027859630324137
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.041253683364586
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.054647736405036
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.054647736405036
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.054647736405036
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.054647736405036
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.068041789445486
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.068041789445486
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.081435842485936
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.081435842485936
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.081435842485936
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.081435842485936
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.081435842485936
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.094829895526386
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.108223948566836
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.121618001607287
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.121618001607287
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.121618001607287
-    },
-    {
-      "candidate": "홍준표",
-      "viewPercentage": 12.121618001607287
-    }
-  ],
-  [
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.013394053040450042
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.04018215912135012
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.05357621216180017
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.06697026520225019
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.08036431824270024
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.09375837128315027
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.10715242432360034
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.12054647736405037
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.17412268952585053
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.2009107956067506
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.22769890168765067
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.25448700776855077
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.26788106080900076
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.28127511384945086
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.29466916688990086
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.3080632199303509
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.32145727297080096
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.334851326011251
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.34824537905170105
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.3616394320921511
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.3750334851326011
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.3884275381730512
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.3884275381730512
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.41521564425395124
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.42860969729440135
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.4420037503348513
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.46879185641575144
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.4821859094562015
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.5089740155371015
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.5491561746584517
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.5625502276989017
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.5759442807393518
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.6027323868202518
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.6161264398607018
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.6429145459416019
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.669702652022502
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.6964907581034021
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.7098848111438522
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.7232788641843022
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.7500669702652022
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.7902491293865523
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.8170372354674524
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.8438253415483525
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.8706134476292525
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.8974015537101526
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.9241896597910528
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.9375837128315029
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.9509777658719529
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.964371818912403
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 0.991159924993303
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.017948031074203
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.031342084114653
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.0447361371551032
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.071524243236003
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.0983123493169034
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.1251004553978035
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.1518885614787036
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.1786766675596034
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.2054647736405035
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.2724350388427539
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.326011251004554
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.3661934101259041
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.3929815162068042
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.4331636753281543
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.4599517814090543
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.4867398874899544
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.5269220466113045
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.5671042057326545
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.620680417894455
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.647468523975355
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.687650683096705
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7144387891776054
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7278328422180553
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.741226895258505
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7546209482989552
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7680150013394051
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7814090543798553
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7814090543798553
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.7948031074203052
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8081971604607554
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8215912135012053
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8349852665416555
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8483793195821057
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8617733726225556
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.8751674256630058
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.928743637824806
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 1.9421376908652557
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.076078221269756
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1028663273506565
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1162603803911066
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1296544334315564
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.143048486472006
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1564425395124562
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1698365925529064
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1698365925529064
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.1832306455933566
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.276989016876507
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.330565229038307
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.397535494240557
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.4377176533619074
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.4645057594428073
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.4912938655237076
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.518081971604608
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.5314760246450576
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.5582641307259575
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.585052236806858
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.7859630324136084
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.8797214036967587
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.906509509777659
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.9199035628181087
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.9600857219394587
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 2.986873828020359
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.013661934101259
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.053844093222609
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.0806321993035093
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.1074203053844096
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.134208411465309
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.1877846236271092
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.2145727297080096
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.24136083578891
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.30833110099116
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.38869541923386
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.44227163139566
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.48245379051701
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.5092418965979104
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.5360300026788103
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.5762121618001608
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.616394320921511
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.6565764800428613
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.6833645861237607
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.723546745245111
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.7637289043664612
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.790517010447361
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.8306991695687116
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.897669434770962
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 3.951245646932762
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.031609965175463
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.125368336458612
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.178944548620413
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.232520760782213
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.339673185105813
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.406643450308064
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.553978033753014
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.647736405036164
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.714706670238414
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.7816769354406645
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.835253147602465
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.888829359764265
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 4.955799624966515
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.1567104205732655
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.304045004018216
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.397803375301366
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.491561746584517
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.558532011786767
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.625502276989017
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 5.799624966514867
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 7.139030270559872
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 7.942673452986875
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.170372354674523
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.264130725957674
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.371283150281275
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.451647468523975
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.518617733726225
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.572193945888024
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.612376105009375
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.679346370211626
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.719528529332976
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.759710688454327
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.799892847575675
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.826680953656577
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.853469059737476
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.880257165818376
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.893651218858826
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.907045271899277
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.920439324939727
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.933833377980177
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.947227431020627
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.960621484061077
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.974015537101527
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 8.987409590141977
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.000803643182428
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.014197696222876
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.027591749263326
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.027591749263326
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.040985802303778
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.040985802303778
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.040985802303778
-    },
-    {
-      "candidate": "문재인",
-      "viewPercentage": 9.040985802303778
-    }
-  ],
-  [
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.14733458344495043
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.2009107956067506
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.24109295472810074
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.28127511384945086
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.32145727297080096
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.5089740155371015
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.669702652022502
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.7366729172247523
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.7768550763461024
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.8036431824270024
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 0.8438253415483525
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.2322528797214036
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.2992231449236538
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.3929815162068042
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.4063755692472542
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.4197696222877043
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.4331636753281543
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.4465577283686044
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.4733458344495045
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5001339405304044
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5135279935708545
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5269220466113045
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5403160996517546
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5671042057326545
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5804982587731047
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.5938923118135546
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.6072863648540048
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.620680417894455
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.6340744709349049
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.647468523975355
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.660862577015805
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.6742566300562551
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.687650683096705
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.7010447361371552
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.7144387891776054
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.7278328422180553
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.741226895258505
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.8081971604607554
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.8483793195821057
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.8617733726225556
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.8751674256630058
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.8885614787034557
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.9019555317439059
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.9019555317439059
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.9153495847843558
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.928743637824806
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 1.9555317439057056
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.290383069916957
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.330565229038307
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.343959282078757
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.357353335119207
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.370747388159657
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.410929547281007
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.424323600321457
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.4377176533619074
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.4645057594428073
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.4778998124832574
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.4912938655237076
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.5046879185641577
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.5448700776855078
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.625234395928208
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 2.7055987141709084
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.027055987141709
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.0806321993035093
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.1074203053844096
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.134208411465309
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.1743905705866595
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.2145727297080096
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.25475488882936
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.2815429949102595
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.32172515403161
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.3485132601125103
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.38869541923386
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.5226359496383606
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.5628181087597106
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.603000267881061
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.669970533083311
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.6967586391642113
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.710152692204661
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.723546745245111
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.7503348513260115
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.790517010447361
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.8173051165282614
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.8440932226091613
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.857487275649612
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.8842753817305113
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 3.911063487811411
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.1655504955799625
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.245914813822663
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.286096972944012
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.326279132065363
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.353067238146263
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.379855344227163
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.393249397267613
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.406643450308064
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.446825609429413
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 4.969193678006965
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.304045004018216
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.4647736405036165
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.571926064827217
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.652290383069917
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.732654701312617
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.799624966514867
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.853201178676668
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.933565496919368
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 5.973747656040718
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.027323868202518
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.107688186445218
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.161264398607019
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.201446557728368
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.255022769890169
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.295204929011519
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.348781141173319
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.388963300294669
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.45593356549692
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.52290383069917
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.57648004286097
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.630056255022771
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.71042057326547
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.81757299758907
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.89793731583177
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 6.991695687114921
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.112242164478971
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.286364854004821
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.460487543530673
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.581034020894722
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.688186445218323
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.822126975622822
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 7.929279399946424
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 8.036431824270023
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 8.156978301634075
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 8.880257165818376
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 9.349049022234128
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 9.590141976962228
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 9.89820519689258
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 10.44736137155103
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 10.889365121885882
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 12.228770425930886
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 12.992231449236538
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 13.43423519957139
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 13.78248057862309
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 14.720064291454593
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 15.215644253951247
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 16.153227966782747
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 17.06402357353335
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 17.733726225555856
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 18.590945620144655
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 19.14010179480311
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 19.541923386016606
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 19.87677471202786
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 20.58665952317171
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 21.216180016072865
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 21.751942137690865
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 22.260916153227967
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 22.67613179748192
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 23.09134744173587
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 23.68068577551567
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 24.845968390034827
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.194213769086527
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.421912670774176
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.58264130725958
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.676399678542726
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.743369943744977
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.796946155906774
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.837128315028128
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.87731047414948
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.93088668631128
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.971068845432626
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 25.997856951513526
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.024645057594427
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.03803911063488
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.06482721671578
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.09161532279668
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.105009375837128
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.118403428877578
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.131797481918028
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.520225020091083
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.57380123225288
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.61398339137423
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.654165550495577
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.680953656576477
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.707741762657378
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.74792392177873
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.761317974819182
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.774712027859632
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.788106080900082
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.801500133940532
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.814894186980982
-    },
-    {
-      "candidate": "심상정",
-      "viewPercentage": 26.82828824002143
-    }
-  ],
-  [
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.013394053040450042
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.04018215912135012
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.06697026520225019
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.10715242432360034
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.14733458344495043
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.17412268952585053
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.18751674256630055
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.22769890168765067
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.334851326011251
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.4018215912135012
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.45539780337530134
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.5625502276989017
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.6429145459416019
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.6830967050629521
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.7098848111438522
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.7634610233056522
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.8036431824270024
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.8840075006697026
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 0.991159924993303
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.1518885614787036
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.4599517814090543
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.5671042057326545
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.687650683096705
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.741226895258505
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.7948031074203052
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.8617733726225556
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 1.9957139030270559
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 2.062684168229306
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 2.1162603803911066
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 2.143048486472006
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 2.1698365925529064
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 2.2100187516742564
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 3.3351192070720597
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 3.736940798285561
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 3.8306991695687116
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 3.924457540851862
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 3.978033753013662
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.018215912135012
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.058398071256362
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.098580230377713
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.125368336458612
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.1655504955799625
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.192338601660863
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.219126707741762
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.245914813822663
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.272702919903563
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.286096972944012
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.3128850790249125
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.339673185105813
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.500401821591214
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.567372086793464
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.607554245914814
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.674524511117064
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.835253147602465
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.875435306723815
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 4.9290115188856145
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.196892579694615
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.344227163139566
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.411197428341817
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.5451379587463165
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.652290383069917
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.732654701312617
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 5.839807125636217
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 6.335387088132868
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 6.79078489150817
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 6.991695687114921
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.112242164478971
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.232788641843022
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.353335119207072
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.487275649611573
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.594428073935172
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.648004286096972
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.741762657380123
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.808732922582373
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.862309134744174
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.902491293865524
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 7.929279399946424
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.116796142512724
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.210554513795874
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.250736672917224
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.290918832038576
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.331100991159925
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.371283150281275
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.411465309402626
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.438253415483524
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.465041521564427
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.491829627645325
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.505223680685775
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.532011786766676
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.558799892847576
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.585587998928476
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.598982051968926
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.612376105009375
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.625770158049825
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.679346370211626
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.692740423252076
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.706134476292526
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.719528529332976
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.746316635413876
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.813286900616127
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.853469059737476
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.933833377980177
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 8.974015537101527
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.000803643182428
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.054379855344227
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.094562014465577
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.121350120546477
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.148138226627378
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.201714438789176
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.295472810072328
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.322260916153228
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.349049022234128
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.375837128315029
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.402625234395929
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.496383605679078
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.57674792392178
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.643718189124028
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 9.95178140905438
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.08572193945888
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.13929815162068
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.23305652290383
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.313420841146531
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.380391106348782
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.474149477631931
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.581301901955532
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.688454326279132
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.768818644521833
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.835788909724082
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.902759174926333
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 10.983123493169034
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 11.050093758371284
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 11.103669970533083
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 11.170640235735334
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 11.612643986070186
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 12.001071524243235
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 12.188588266809537
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 12.416287168497188
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 12.724350388427538
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 12.96544334315564
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 13.79587463166354
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 14.438789177605143
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 14.867398874899546
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 15.135279935708546
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 15.952317171175997
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 16.39432092151085
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 17.412268952585052
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 17.881060809000804
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 18.175729975890704
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 18.724886150549157
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 19.046343423519957
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 19.300830431288507
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 19.622287704259307
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 20.46611304580766
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 21.162603803911065
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 21.939458880257163
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 22.67613179748192
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 23.252076078221272
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 23.76105009375837
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 24.417358692740425
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 25.756763996785427
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.145191534958478
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.37289043664613
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.506830967050632
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.61398339137423
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.667559603536027
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.707741762657378
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.74792392177873
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.801500133940532
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.84168229306188
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.86847039914278
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.89525850522368
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.92204661130458
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.935440664345027
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.948834717385477
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.975622823466384
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 26.98901687650683
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.00241092954728
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.01580498258773
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.04259308866863
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.055987141709082
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.069381194749532
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.082775247789982
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.096169300830432
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.10956335387088
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.12295740691133
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.13635145995178
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.14974551299223
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.16313956603268
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.17653361907313
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.17653361907313
-    },
-    {
-      "candidate": "유승민_(정치인)",
-      "viewPercentage": 27.17653361907313
-    }
-  ]
+   [
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 56.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 38.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 34.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 31.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 32.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 31.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 30.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 28.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 26
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 24.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 24.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 23.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 22.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21.3
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 21
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 20.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 19.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.4
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.2
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18.1
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Ahn_Cheol-Soo",
+         "viewPercentage": 17.4
+      }
+   ],
+   [
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 0.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 0.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 0.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 12.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 11.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 10.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 1.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 4.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 9.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 10.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 10.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 12.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 12.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 13.5
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 13.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 14.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 14.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.7
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.3
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hong_Jun-Pyo",
+         "viewPercentage": 15.8
+      }
+   ],
+   [
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 28.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 50.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 44
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 44.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 46.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 48.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 55.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 61.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 61
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 61.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 61.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 60
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 59
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 58.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 57.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 56
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 54.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 50.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 50.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 50.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 49.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 49.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 49
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 48.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 48.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 48
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 47
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 46.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 46.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 46.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 49.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 51.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.4
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.5
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.6
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.7
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.8
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 52.9
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.1
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.2
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.3
+      },
+      {
+         "candidate": "Moon_Jae-In",
+         "viewPercentage": 53.3
+      }
+   ],
+   [
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 9.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Sim_Sang-Jung",
+         "viewPercentage": 6.9
+      }
+   ],
+   [
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 18
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 17.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 15.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 14.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 13
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 10
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8.1
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Yoo_Seung-Min",
+         "viewPercentage": 6.5
+      }
+   ]
 ]
