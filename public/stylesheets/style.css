@@ -154,43 +154,169 @@ html,body {
 }
 
 #barchart rect {
-	fill: #ff00e7;
+	fill: #333333;
 }
 
 .pageviews path {
-	stroke: #ff00e7;
+	stroke: #333333;
 }
 
 .pageviews path.Donald_Trump {
-	stroke: #0f4d99;
+	stroke: #c1272d;	
 }
 
 #barchart rect.Donald_Trump {
-	fill: #0f4d99;
+	fill: #c1272d;	
 }
 
-
 .pageviews path.Hillary_Clinton {
-	stroke: #993d4a;
+	stroke: #0071bc;
 }
 
 #barchart rect.Hillary_Clinton {
-	fill: #993d4a;
+	fill: #0071bc;
 }
 
 .pageviews path.Bernie_Sanders {
-	stroke: #419954;
+	stroke: #5cd5ff;
 }
 
 #barchart rect.Bernie_Sanders {
-	fill: #419954;
+	fill: #5cd5ff;
 }
 
 .pageviews path.John_Kasich {
-	stroke: #05b9b4;
+	stroke: #f84049;
 }
 
 #barchart rect.John_Kasich {
-	fill: #05b9b4;
+	fill: #f84049;
 }
 
+.pageviews path.Ted_Cruz {
+	stroke: #9b0c12;
+}
+
+#barchart rect.Ted_Cruz {
+	fill: #9b0c12;
+}
+
+.pageviews path.Alexander_Van_der_Bellen {
+	stroke: #c1272d;	
+}
+
+#barchart rect.Alexander_Van_der_Bellen {
+	fill: #c1272d;	
+}
+
+.pageviews path.Norbert_Hofer {
+	stroke: #0071bc;
+}
+
+#barchart rect.Norbert_Hofer {
+	fill: #0071bc;
+}
+
+.pageviews path.Irmgard_Griss {
+	stroke: #5cd5ff;
+}
+
+#barchart rect.Irmgard_Griss {
+	fill: #5cd5ff;
+}
+
+.pageviews path.Rudolf_Hundstorfer {
+	stroke: #f84049;
+}
+
+#barchart rect.Rudolf_Hundstorfer {
+	fill: #f84049;
+}
+
+.pageviews path.Andreas_Khol {
+	stroke: #9b0c12;
+}
+
+#barchart rect.Andreas_Khol {
+	fill: #9b0c12;
+}
+
+.pageviews path.Jean-Luc_Mélenchon {
+	stroke: #c1272d;	
+}
+
+#barchart rect.Luc_Mélenchon {
+	fill: #c1272d;	
+}
+
+.pageviews path.François_Fillon {
+	stroke: #0071bc;
+}
+
+#barchart rect.François_Fillon {
+	fill: #0071bc;
+}
+
+.pageviews path.Emmanuel_Macron {
+	stroke: #5cd5ff;
+}
+
+#barchart rect.Emmanuel_Macron {
+	fill: #5cd5ff;
+}
+
+.pageviews path.Benoît_Hamon {
+	stroke: #f84049;
+}
+
+#barchart rect.Benoît_Hamon {
+	fill: #f84049;
+}
+
+.pageviews path.Marine_Le_Pen {
+	stroke: #9b0c12;
+}
+
+#barchart rect.Marine_Le_Pen {
+	fill: #9b0c12;
+}
+
+.pageviews path.Jean-Hong_Jun {
+	stroke: #c1272d;	
+}
+
+#barchart rect.Hong_Jun-Pyo {
+	fill: #c1272d;	
+}
+
+.pageviews path.Moon_Jae-In {
+	stroke: #0071bc;
+}
+
+#barchart rect.Moon_Jae-In {
+	fill: #0071bc;
+}
+
+.pageviews path.Ahn_Cheol-Soo {
+	stroke: #5cd5ff;
+}
+
+#barchart rect.Ahn_Cheol-Soo {
+	fill: #5cd5ff;
+}
+
+.pageviews path.Yoo_Seung-Min {
+	stroke: #f84049;
+}
+
+#barchart rect.Yoo_Seung-Min {
+	fill: #f84049;
+}
+
+.pageviews path.Sim_Sang-Jung {
+	stroke: #9b0c12;
+}
+
+#barchart rect.Sim_Sang-Jung {
+	fill: #9b0c12;
+}
