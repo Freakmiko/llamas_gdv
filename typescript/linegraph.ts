@@ -121,7 +121,7 @@ class LineGraph {
             .attr("x2", this.margin.left)
             .attr("y1", 0)
             .attr("y2", this.size.height)
-            .attr("stroke-dasharray", "0, 5")
+            .attr("stroke-dasharray", "0, 20")
             .attr("stroke-width", "1.75")
             .attr("stroke-linecap", "round")
             .style("stroke", "#2ECC71")
@@ -162,11 +162,9 @@ class LineGraph {
 
                  showEvent(_.find(this.events, (event: any) => event.date == closestDate));
 
-                 d3.select(".eventText").remove();
-                 d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
-                     .attr("transform", "translate(300, 400)").attr("width", 200);
-
-                 console.log(this.xScale(this.parseEventDate(closestDate)) + this.margin.left);
+                 // d3.select(".eventText").remove();
+                 // d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
+                 //     .attr("transform", "translate(300, 400)").attr("width", 200);
 
                 d3.select(`#${this.svgId}`).select(".selectionLine")
                     .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
@@ -198,8 +196,8 @@ class LineGraph {
             let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
             let stepsize = this.size.width / maximum;
             this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(150).attr("width", this.currentWidth)
-        }, 150);
+            d3.select("clipPath > rect").transition().duration(100).attr("width", this.currentWidth)
+        }, 100);
     }
 
     addData(data: any) {
@@ -233,7 +231,7 @@ class LineGraph {
             .merge(g.selectAll(".pageviews > path") as any)
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
-            .attr("stroke", (d: any) => this.colorScale(d[0].article))
+            //.attr("stroke", (d: any) => this.colorScale(d[0].article))
             .attr("stroke-width", "2")
             .attr("class", (d: any[]) => d[0].article)
             .attr("d", (d: any[]) => this.line(d))

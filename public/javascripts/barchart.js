@@ -11,16 +11,11 @@ var Barchart = (function () {
         var _this = this;
         this.parseDate = d3.timeParse("%Y%m%d00");
         this.nameMap = {
-            "문재인": "images/Moon.jpg",
-            "Moon_Jae-in": "images/Moon.jpg",
-            "홍준표": "images/Hong.jpg",
-            "Hong_Jun-pyo": "images/Hong.jpg",
-            "안철수": "images/Ahn.jpg",
-            "Ahn_Cheol-soo": "images/Ahn.jpg",
-            "유승민_(정치인)": "images/Yoo.jpg",
-            "Yoo_Seong-min": "images/Yoo.jpg",
-            "심상정": "images/Sim.jpg",
-            "Sim_Sang-jung": "images/Sim.jpg",
+            "Moon_Jae-In": "images/Moon.jpg",
+            "Hong_Jun-Pyo": "images/Hong.jpg",
+            "Ahn_Cheol-Soo": "images/Ahn.jpg",
+            "Yoo_Seung-Min": "images/Yoo.jpg",
+            "Sim_Sang-Jung": "images/Sim.jpg",
             "Alexander_Van_der_Bellen": "images/Bellen.jpg",
             "Andreas_Khol": "images/Khol.jpg",
             "Irmgard_Griss": "images/Griss.jpg",
@@ -36,7 +31,7 @@ var Barchart = (function () {
         this.svgIndex = svgIndex;
         this.margin = {
             top: 20,
-            right: 20,
+            right: 120,
             bottom: 40,
             left: 90
         };
@@ -69,6 +64,7 @@ var Barchart = (function () {
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
         svg.append("image").attr("width", 80).attr("height", 80);
+        svg.append("g").attr("id", "bar").append("rect").attr("width", 300);
     };
     /**
      * Renders the line graph with the given data
@@ -81,13 +77,13 @@ var Barchart = (function () {
         if (this.data.items[0]) {
             //console.log(this.data.items[0].candidate);
             svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
-            var bar = svg.selectAll("g").data(this.data.items, function (d) { return d.viewPercentage; });
-            var barEnter = bar.enter().append("g")
+            var bar = svg.select("#bar").data(this.data.items);
+            var barEnter = bar
                 .attr("transform", function (d, i) { return "translate(" + _this.margin.left + "," + 20 + ")"; });
-            barEnter.append("rect")
+            barEnter.select("rect")
+                .transition().duration(100)
                 .attr("width", function (d) { return _this.xScale(d.viewPercentage); })
                 .attr("height", 20)
-                .attr("fill", function (d) { return _this.colorScale(d.candidate); })
                 .attr("class", function (d) { return d.candidate; });
             bar.exit().remove();
         }

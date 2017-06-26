@@ -90,7 +90,7 @@ var LineGraph = (function () {
             .attr("x2", this.margin.left)
             .attr("y1", 0)
             .attr("y2", this.size.height)
-            .attr("stroke-dasharray", "0, 5")
+            .attr("stroke-dasharray", "0, 20")
             .attr("stroke-width", "1.75")
             .attr("stroke-linecap", "round")
             .style("stroke", "#2ECC71")
@@ -125,10 +125,9 @@ var LineGraph = (function () {
                 return memo[1] < value[1] ? memo : value;
             })[0];
             showEvent(_.find(_this.events, function (event) { return event.date == closestDate; }));
-            d3.select(".eventText").remove();
-            d3.select("#" + _this.svgId).append("text").attr("class", "eventText").text(_.find(_this.events, function (event) { return event.date == closestDate; }).text)
-                .attr("transform", "translate(300, 400)").attr("width", 200);
-            console.log(_this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
+            // d3.select(".eventText").remove();
+            // d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
+            //     .attr("transform", "translate(300, 400)").attr("width", 200);
             d3.select("#" + _this.svgId).select(".selectionLine")
                 .attr("x1", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left)
                 .attr("x2", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
@@ -155,8 +154,8 @@ var LineGraph = (function () {
             var maximum = parseInt(d3.max(_this.groupedData, function (datum) { return datum.length; }));
             var stepsize = _this.size.width / maximum;
             _this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(150).attr("width", _this.currentWidth);
-        }, 150);
+            d3.select("clipPath > rect").transition().duration(100).attr("width", _this.currentWidth);
+        }, 100);
     };
     LineGraph.prototype.addData = function (data) {
         this.data = d3.merge([this.data, data]);
@@ -186,7 +185,6 @@ var LineGraph = (function () {
             .merge(g.selectAll(".pageviews > path"))
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
-            .attr("stroke", function (d) { return _this.colorScale(d[0].article); })
             .attr("stroke-width", "2")
             .attr("class", function (d) { return d[0].article; })
             .attr("d", function (d) { return _this.line(d); });
