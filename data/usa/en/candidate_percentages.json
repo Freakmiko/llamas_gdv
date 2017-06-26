@@ -1,3332 +1,3312 @@
 [
-  [
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 0.6779661016949152
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 1.933458882611425
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 2.56120527306968
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 3.113622096672944
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 3.5781544256120528
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 4.193345888261143
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 5.285624607658506
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 5.8631512868801
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 6.7419962335216574
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 7.583176396735719
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 8.097928436911488
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 8.600125549278092
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 9.202762084118016
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 9.968612680477088
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 10.759573132454488
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 11.525423728813559
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 11.914626490897676
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 12.253609541745135
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 12.54237288135593
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 12.856246076585059
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 13.15756434400502
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 13.49654739485248
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 13.873195229127433
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 14.149403640929064
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 14.400502197112367
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 14.865034526051476
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 15.56811048336472
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 16.03264281230383
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 16.421845574387948
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 16.77338355304457
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 17.112366603892028
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 17.46390458254865
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 17.79033270558694
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 18.091650973006907
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 18.39296924042687
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 18.757062146892657
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 19.522912743251727
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 20.062774639045823
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 20.59008160703076
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 21.004394224733208
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 21.468926553672315
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 21.84557438794727
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 22.17200251098556
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 22.510985561833017
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 22.988072818581294
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 23.79158819836786
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 24.293785310734464
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 24.733207784055242
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 25.160075329566855
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 25.69993722536095
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 26.22724419334589
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 26.50345260514752
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 26.691776522285
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 26.84243565599498
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 27.030759573132457
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 27.231638418079097
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 27.470182046453235
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 27.796610169491526
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.010043942247332
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.185812931575644
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.323917137476464
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.48713119899561
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.66290018832392
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 28.85122410546139
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 29.34086629001883
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 29.642184557438796
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 29.868173258003765
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 30.069052102950405
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 30.257376020087882
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 30.445699937225363
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 30.65913370998117
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 30.998116760828626
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.186440677966104
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.337099811676083
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.462649089767737
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.613308223477716
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.789077212806028
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 31.989956057752668
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 32.3038292529818
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 32.52981795354677
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 32.70558694287508
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 32.843691148775896
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 33.03201506591337
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 33.220338983050844
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 33.408662900188325
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 33.58443188951664
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 33.79786566227244
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 34.02385436283741
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 34.24984306340239
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 34.463276836158194
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 34.65160075329567
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 34.85247959824231
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.01569365976145
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.191462649089765
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.35467671060891
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.517890772128055
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.718769617074706
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 35.932203389830505
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 36.32140615191462
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 36.97426239799121
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 37.36346516007533
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 37.61456371625863
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 37.76522284996861
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 37.915881983678595
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.02887633396108
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.15442561205273
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.29252981795355
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.4180790960452
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.54362837413685
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.631512868801
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.706842435656
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.78217200251098
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.87005649717514
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 38.970495919648464
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.070935342121786
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.18392969240427
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.27181418706843
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.34714375392341
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.42247332077841
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.4978028876334
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.56057752667922
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.623352165725045
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.698681732580035
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.76145637162586
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.82423101067169
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.89956057752668
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 39.97489014438167
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.050219711236664
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.12554927809165
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.188323917137474
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.2510985561833
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.31387319522913
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.38920276208412
-    },
-    {
-      "candidate": "Bernie_Sanders",
-      "viewPercentage": 40.57752667922159
-    }
-  ],
-  [
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 0.07532956685499058
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 0.18832391713747645
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 0.28876333961079725
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 0.7658505963590709
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 1.5944758317639676
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 2.209667294413057
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 2.6365348399246704
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 2.7997489014438166
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 2.937853107344633
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.050847457627119
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.1387319522912747
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.2140615191462647
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.289391086001255
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.3647206528562466
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.4400502197112366
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.5279347143753923
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.5907093534212176
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.640929064657878
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.6785938480853737
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.716258631512869
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.753923414940364
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.8041431261770247
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.84180790960452
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.8794726930320147
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.9171374764595104
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.9422473320778404
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 3.967357187696171
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.005021971123666
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.042686754551161
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.080351537978657
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.105461393596987
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.130571249215317
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.143126177024483
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.168236032642812
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.193345888261143
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.2310106716886375
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.256120527306968
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.2812303829252984
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.306340238543628
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.318895166352794
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.3314500941619585
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.356559949780289
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.381669805398619
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.419334588826114
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.431889516635279
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.444444444444445
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.444444444444445
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.45699937225361
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.469554300062774
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.482109227871939
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.50721908349027
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.5323289391086
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.544883866917765
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.557438794726931
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.569993722536095
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.58254865034526
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.595103578154426
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.620213433772756
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.632768361581921
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.645323289391086
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.657878217200251
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.670433145009416
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.682988072818581
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.6955430006277465
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.745762711864407
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.783427495291901
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.808537350910233
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.821092278719397
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.833647206528562
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.8462021343377275
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.858757062146893
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.871311989956058
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.883866917765223
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.8964218455743875
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.908976773383554
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.921531701192718
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.934086629001883
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.9466415568110484
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.959196484620213
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.971751412429379
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.984306340238544
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.984306340238544
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 4.9968612680477085
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.009416195856874
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.009416195856874
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.009416195856874
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.021971123666039
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.034526051475204
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.047080979284369
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.047080979284369
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.059635907093534
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.059635907093534
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.072190834902699
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.084745762711865
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.097300690521029
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.109855618330195
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.12241054613936
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.134965473948524
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.14752040175769
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.1600753295668556
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.17263025737602
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.185185185185185
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.19774011299435
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.210295040803516
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.222849968612681
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.24795982423101
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.273069679849341
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.285624607658506
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.298179535467671
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.310734463276836
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.323289391086002
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.335844318895166
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.348399246704331
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.3609541745134965
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.373509102322662
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.386064030131827
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.398618957940992
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.411173885750157
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.423728813559322
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.436283741368487
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.448838669177652
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.4613935969868175
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.473948524795983
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.486503452605147
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.499058380414312
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.5116133082234775
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.524168236032643
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.549278091650973
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.674827369742624
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.800376647834275
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 5.888261142498431
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.0263653483992465
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.064030131826742
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.089139987445072
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.114249843063402
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.139359698681733
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.164469554300063
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.189579409918393
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.214689265536723
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.227244193345888
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.239799121155054
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.264908976773384
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.290018832391714
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.315128688010044
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.3276836158192085
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.340238543628374
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.352793471437539
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.365348399246705
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.37790332705587
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.390458254865035
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.4030131826742
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.415568110483365
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.440677966101695
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.45323289391086
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.45323289391086
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.45323289391086
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.465787821720024
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.4908976773383555
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.503452605147521
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.516007532956686
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.52856246076585
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.541117388575016
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.553672316384181
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.566227244193346
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.57878217200251
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.591337099811676
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.603892027620842
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.616446955430007
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.616446955430007
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.616446955430007
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.629001883239171
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.6415568110483365
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.654111738857502
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.666666666666667
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.679221594475831
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.6917765222849965
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.704331450094162
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.729441305712493
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.7419962335216574
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.754551161330823
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.779661016949152
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.7922159447583175
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.804770872567483
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.817325800376647
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.829880728185812
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.842435655994978
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.854990583804144
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.867545511613309
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.880100439422473
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.880100439422473
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.892655367231638
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.905210295040804
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 6.993094789704959
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.030759573132454
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.055869428750785
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.080979284369116
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.1060891399874455
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.131198995605775
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.1563088512241055
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.181418706842435
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.2065285624607665
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.219083490269932
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.231638418079096
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.269303201506591
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.319522912743253
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.4074074074074066
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.457627118644068
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.495291902071563
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.532956685499058
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.583176396735719
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.633396107972379
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.68361581920904
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.746390458254865
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.809165097300691
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.884494664155681
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 7.9723791588198365
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.022598870056497
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.047708725674827
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.072818581293157
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.097928436911488
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.123038292529818
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.148148148148149
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.17325800376648
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.185812931575644
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.198367859384808
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.210922787193974
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.223477715003138
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.248587570621469
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.2736974262398
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.29880728185813
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.32391713747646
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.349026993094789
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.386691776522285
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.436911487758945
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 8.537350910232266
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 9.792843691148775
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 10.332705586942875
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 10.646578782172003
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 10.847457627118644
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 10.998116760828625
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.161330822347772
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.261770244821093
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.337099811676083
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.399874450721908
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.450094161958567
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.50031387319523
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.537978656622725
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.57564344005022
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.613308223477716
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.638418079096045
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.663527934714375
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.688637790332706
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.70119271814187
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.713747645951036
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.7263025737602
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.738857501569367
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.751412429378531
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.763967357187695
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.776522284996862
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.789077212806026
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.80163214061519
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.814187068424356
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.82674199623352
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.839296924042687
-    },
-    {
-      "candidate": "Donald_Trump",
-      "viewPercentage": 11.851851851851853
-    }
-  ],
-  [
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.050219711236660386
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.16321406151914628
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.21343377275580663
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.25109855618330196
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.28876333961079725
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.3389830508474576
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.4017576898932831
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.4394224733207784
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.4896421845574388
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.5398618957940993
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.5775266792215945
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.6026365348399246
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.64030131826742
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.6779661016949152
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.7281858129315757
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.8160703075957313
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.8537350910232265
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.8788449466415568
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.903954802259887
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.9290646578782172
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.9541745134965474
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 0.9792843691148776
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.0043942247332078
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.0295040803515378
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.054613935969868
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.0671688637790333
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.0922787193973633
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.1173885750156936
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.1424984306340238
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.167608286252354
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.1927181418706843
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.2178279974890145
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.2303829252981795
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.2554927809165097
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.28060263653484
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.3057124921531702
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.3433772755806654
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.3684871311989957
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.393596986817326
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.418706842435656
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.4438166980539862
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.4689265536723164
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.4940364092906466
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.5065913370998116
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.5317011927181419
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.5693659761456373
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.5819209039548021
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.5944758317639676
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.6195856873822974
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.6572504708097928
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.7325800376647833
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.7576898932831135
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.770244821092279
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.7827997489014438
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.7953546767106088
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.807909604519774
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.8330194601381042
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.8706842435655995
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.8957940991839297
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.9083490269930947
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.92090395480226
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.933458882611425
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.9585687382297552
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 1.9836785938480854
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.0338983050847457
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.0715630885122414
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.109227871939736
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.1343377275580666
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.159447583176397
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.1845574387947266
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.209667294413057
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.234777150031387
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.2598870056497176
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.2724419334588823
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.2849968612680476
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.297551789077213
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.322661644695543
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.3477715003138733
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.3728813559322033
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.3979912115505337
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.4231010671688638
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.435655994978029
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.4482109227871938
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.460765850596359
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.4733207784055242
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.4984306340238542
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.5235404896421847
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.5486503452605147
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.56120527306968
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.573760200878845
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.58631512868801
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.598870056497175
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.6114249843063404
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.623979912115505
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.6365348399246704
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.6490897677338356
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.6741996233521657
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.699309478970496
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.7746390458254866
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 2.9252981795354676
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.0006277463904585
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.0759573132454485
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.1261770244821094
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.1638418079096042
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.2015065913371
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.2391713747645947
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.2768361581920904
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.301946013810421
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.327055869428751
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.352165725047081
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.3772755806654113
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.4023854362837413
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.427495291902072
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.452605147520402
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.477715003138732
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.490269930947897
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.5028248587570623
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.515379786566227
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.540489642184558
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.5655994978028875
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.5781544256120528
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.5907093534212176
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.6032642812303832
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.6283741368487132
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.653483992467043
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.6660389202762085
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.7037037037037033
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.741368487131199
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.7790332705586946
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.8041431261770247
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.8166980539861894
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.8292529817953542
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.84180790960452
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.86691776522285
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.89202762084118
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.9171374764595104
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.9422473320778404
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.954802259887006
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 3.979912115505336
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.005021971123666
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.055241682360326
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.118016321406151
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.168236032642812
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.243565599497803
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.318895166352794
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.369114877589453
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.431889516635279
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.569993722536095
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 4.908976773383554
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.109855618330195
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.574387947269304
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.687382297551789
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.762711864406779
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.8254865034526055
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.875706214689266
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.91337099811676
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.951035781544256
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 5.988700564971752
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.013810420590081
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.038920276208412
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.064030131826742
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.089139987445072
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.114249843063402
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.139359698681733
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.164469554300063
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.189579409918393
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.202134337727558
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.227244193345888
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.252354048964219
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.277463904582549
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.290018832391714
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.315128688010044
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.3276836158192085
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.340238543628374
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.352793471437539
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.37790332705587
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.4030131826742
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.45323289391086
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.478342749529189
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.503452605147521
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.52856246076585
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.553672316384181
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.57878217200251
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.603892027620842
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.616446955430007
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.629001883239171
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.6415568110483365
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.654111738857502
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.679221594475831
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.704331450094162
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.7419962335216574
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.767106089139988
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.7922159447583175
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.867545511613309
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 6.980539861895794
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.043314500941619
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.09353421217828
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.14375392341494
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.181418706842435
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.2065285624607665
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.231638418079096
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.2567482736974265
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.294413057124921
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.332077840552417
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.357187696170747
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.382297551789077
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.4074074074074066
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.432517263025738
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.482736974262398
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.796610169491526
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.909604519774012
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 7.997489014438167
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.072818581293157
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.135593220338983
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.210922787193974
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.2736974262398
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.336472065285625
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.42435655994978
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.47457627118644
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.512241054613936
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.575015693659761
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 8.662900188323917
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.001883239171375
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.13998744507219
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.252981795354676
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.403640929064657
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.516635279347144
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.591964846202135
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.667294413057125
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.73006905210295
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.792843691148775
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 9.855618330194602
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.056497175141244
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.156936597614564
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.21971123666039
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.29504080351538
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.37037037037037
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.433145009416195
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.533584431889517
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.621468926553671
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.696798493408663
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.759573132454488
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.822347771500313
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.897677338355304
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 10.973006905210294
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.048336472065285
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.148775894538607
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.236660389202763
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.324544883866917
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.450094161958567
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 11.638418079096045
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 12.065285624607657
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 13.32077840552417
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 13.697426239799121
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 13.885750156936597
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 13.998744507219083
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.099183929692405
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.174513496547394
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.237288135593221
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.28750784682988
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.350282485875706
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.387947269303202
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.413057124921533
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.438166980539863
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.463276836158192
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.488386691776522
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.513496547394853
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.538606403013182
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.55116133082235
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.563716258631512
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.576271186440678
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.588826114249843
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.601381042059009
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.613935969868171
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.62649089767734
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.639045825486505
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.651600753295668
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.664155681104834
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.676710608913998
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.689265536723164
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.701820464532329
-    },
-    {
-      "candidate": "Hillary_Clinton",
-      "viewPercentage": 14.714375392341495
-    }
-  ],
-  [
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 0.15065913370998116
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 0.31387319522912743
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 0.389202762084118
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 0.9290646578782172
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.1048336472065285
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.2554927809165097
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.418706842435656
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.6070307595731324
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.7953546767106088
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 1.9083490269930947
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 2.1845574387947266
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 2.310106716886378
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 2.4482109227871938
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 2.6114249843063404
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 2.862523540489642
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.118016321406151
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.293785310734463
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.381669805398619
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.444444444444445
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.5323289391086
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.632768361581921
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.720652856246076
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.7959824231010675
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.8462021343377275
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.921531701192718
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 4.984306340238544
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.034526051475204
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.084745762711865
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.134965473948524
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.273069679849341
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.348399246704331
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.398618957940992
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.448838669177652
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.499058380414312
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.561833019460138
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.624607658505964
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.687382297551789
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.725047080979284
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.762711864406779
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.81293157564344
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.850596359070935
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 5.888261142498431
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.139359698681733
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.202134337727558
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.252354048964219
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.315128688010044
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.37790332705587
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.428123038292529
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.465787821720024
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.52856246076585
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.603892027620842
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.6415568110483365
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.666666666666667
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.6917765222849965
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.729441305712493
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.804770872567483
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.892655367231638
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.955430006277464
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 6.993094789704959
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.018204645323289
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.043314500941619
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.055869428750785
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.068424356559949
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.09353421217828
-    },
-    {
-      "candidate": "John_Kasich",
-      "viewPercentage": 7.344632768361582
-    }
-  ],
-  [
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 0.6654111738857502
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 1.8957940991839297
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 2.4231010671688638
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 3.264281230382925
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 3.89202762084118
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 5.072190834902699
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 5.775266792215945
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 6.315128688010044
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 6.892655367231638
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 7.369742623979912
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 8.047708725674827
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 8.37413684871312
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 8.725674827369742
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 9.077212806026365
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 9.541745134965474
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 10.332705586942875
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 10.671688637790332
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 10.9353421217828
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 11.186440677966102
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 11.412429378531073
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 11.67608286252354
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 11.96484620213434
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 12.504708097928438
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 12.919020715630886
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 13.408662900188324
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 13.785310734463277
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 14.061519146264908
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 14.325172630257377
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 14.576271186440678
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 15.342121782799751
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 15.668549905838042
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 15.944758317639673
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 16.170747018204644
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 16.371625863151287
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 16.585059635907093
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 16.861268047708723
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 17.602008788449467
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 17.953546767106086
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 18.229755178907723
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 18.430634023854363
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 18.64406779661017
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 18.870056497175142
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 19.108600125549277
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 19.397363465160076
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 19.861895794099187
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 20.138104205900817
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 20.33898305084746
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 20.59008160703076
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 20.828625235404896
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.05461393596987
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.330822347771498
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.506591337099813
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.644695543000626
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.77024482109228
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 21.92090395480226
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 22.109227871939733
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 22.297551789077215
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 22.611424984306343
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 22.9504080351538
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 23.214061519146263
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 23.377275580665412
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 23.590709353421218
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 23.829252981795353
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 24.25612052730697
-    },
-    {
-      "candidate": "Ted_Cruz",
-      "viewPercentage": 25.51161330822348
-    }
-  ]
+   [
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 3.8
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.1
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.8
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 2.9
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 3.1
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.2
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "John_Kasich",
+         "viewPercentage": 4.7
+      }
+   ],
+   [
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 13.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 3.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 7.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 9.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.4
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.6
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.7
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.8
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 11.9
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.3
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.2
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      },
+      {
+         "candidate": "Bernie_Sander",
+         "viewPercentage": 12.1
+      }
+   ],
+   [
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 63.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 59.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 62.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 85
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 85.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 75.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 75.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 75.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 75
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 74.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 74.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 74.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 74.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 74
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 73.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 73.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 73.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 73
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 72
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 71.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 77
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 76.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 86.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 85.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 85.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 84
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 83
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 82.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 81
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 78.5
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.4
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.6
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.7
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.8
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 79.9
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.1
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.2
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      },
+      {
+         "candidate": "Donald_Trump",
+         "viewPercentage": 80.3
+      }
+   ],
+   [
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 12.5
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 4.9
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.8
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 6.9
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.1
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.2
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.3
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.4
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.5
+      },
+      {
+         "candidate": "Ted_Cruz",
+         "viewPercentage": 7.6
+      }
+   ],
+   [
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 7.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 2.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 2.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 2.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 3.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 4.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 5.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 6.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 7.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 7.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 7.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 8.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 9.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 10.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 11.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 13.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 14.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 14.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 15.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 15.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 15.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 16.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 17.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 18.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 21
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 21.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 21.5
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 21
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.6
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.4
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.3
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.2
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20.1
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 20
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.9
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.8
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      },
+      {
+         "candidate": "Hillary_Clinton",
+         "viewPercentage": 19.7
+      }
+   ]
 ]
