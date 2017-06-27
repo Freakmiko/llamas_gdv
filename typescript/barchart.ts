@@ -96,8 +96,14 @@ class Barchart {
         svg.attr("width", this.size.width + this.margin.left + this.margin.right)
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
         svg.append("image").attr("width", 80).attr("height", 80);
-        svg.append("g").attr("id", "bar").append("rect").attr("width", 300);
-        svg.append("g").attr("id", "finalBar").append("rect").attr("width", 300);
+
+        let firstBar = svg.append("g").attr("id", "bar");
+        firstBar.append("rect").attr("width", 300);
+        firstBar.append("text");
+
+        let secondBar = svg.append("g").attr("id", "finalBar");
+        secondBar.append("rect").attr("width", 300);
+        secondBar.append("text");
     }
 
     /**
@@ -122,6 +128,10 @@ class Barchart {
                 .attr("height", 20)
                 .attr("class", (d: any) => d.candidate);
 
+            svg.select("#bar text").data(this.data.items)
+                .attr("transform", (datum: any) => `translate(${this.xScale(datum.viewPercentage) + 8}, 14)`)
+                .text((datum: any) => datum.viewPercentage);
+
             let candidate = _.find(percentages, (element: any) => this.data.items[0].candidate === element.candidate);
             let finalPercentages =  {"items": [candidate]};
             if (candidate) {
@@ -131,6 +141,10 @@ class Barchart {
                     .attr("width", (d: any) => this.xScale(d.viewPercentage))
                     .attr("height", 20)
                     .attr("class", (d: any) => d.candidate);
+
+                svg.select("#finalBar text").data(finalPercentages.items)
+                    .attr("transform", (datum: any) => `translate(${this.xScale(datum.viewPercentage) + 8}, 14)`)
+                    .text((datum: any) => datum.viewPercentage);
             }
 
         } else {
