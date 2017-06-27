@@ -112,7 +112,7 @@ function loadCandidatePercentagesData(language: string, country: string) {
                     element.renderGraph(d[index][currentDay])
             });
             currentDay++;
-        }, 100)
+        }, 20)
     });
 }
 

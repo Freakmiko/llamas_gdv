@@ -106,7 +106,7 @@ function loadCandidatePercentagesData(language, country) {
                     element.renderGraph(d[index][currentDay]);
             });
             currentDay++;
-        }, 100);
+        }, 20);
     });
 }
 //# sourceMappingURL=languageDataLoader.js.map

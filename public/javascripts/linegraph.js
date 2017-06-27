@@ -149,13 +149,13 @@ var LineGraph = (function () {
             .transition().duration(350).ease(d3.easeCircleOut)
             .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
             .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
-        this.updatePageViews(d3.easeCircleOut, 200);
+        this.updatePageViews(d3.easeCircleOut, 10);
         d3.interval(function (elapsed) {
             var maximum = parseInt(d3.max(_this.groupedData, function (datum) { return datum.length; }));
             var stepsize = _this.size.width / maximum;
             _this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(100).attr("width", _this.currentWidth);
-        }, 100);
+            d3.select("clipPath > rect").transition().duration(30).attr("width", _this.currentWidth);
+        }, 30);
     };
     LineGraph.prototype.addData = function (data) {
         this.data = d3.merge([this.data, data]);
@@ -185,7 +185,7 @@ var LineGraph = (function () {
             .merge(g.selectAll(".pageviews > path"))
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
-            .attr("stroke-width", "2")
+            .attr("stroke-width", "4")
             .attr("class", function (d) { return d[0].article.replace(",", ""); })
             .attr("d", function (d) { return _this.line(d); });
         // g.datum(this.data).attr("d", transitionLine(this.data))
