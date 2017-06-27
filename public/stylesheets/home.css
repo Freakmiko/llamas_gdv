@@ -55,6 +55,7 @@
 	height: 19.5vh;
 	width: 14vw;
 	text-align: center;
+	margin-right: 4vw;
 }
 
 #franceImg{
@@ -67,6 +68,7 @@
 	height: 21vh;
 	width: 12vw;
 	text-align: center;
+	margin-right: 4vw;
 }
 
 #austriaImg{
@@ -80,6 +82,7 @@
 	width: 15vw;
 	text-align: center;
 	margin-left: 1vw;
+	margin-right: 4vw;
 }
 
 #usaImg{
