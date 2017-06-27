@@ -84,17 +84,17 @@ var LineGraph = (function () {
         svg.append("g")
             .attr("class", "legend")
             .attr("transform", "translate(" + this.margin.left + ", " + (this.size.height + this.margin.top + 5) + ")");
-        svg.append("line")
-            .attr("class", "selectionLine")
-            .attr("x1", this.margin.left)
-            .attr("x2", this.margin.left)
-            .attr("y1", 0)
-            .attr("y2", this.size.height)
-            .attr("stroke-dasharray", "0, 20")
-            .attr("stroke-width", "1.75")
-            .attr("stroke-linecap", "round")
-            .style("stroke", "#2ECC71")
-            .style("pointer-events", "none");
+        // svg.append("line")
+        //     .attr("class", "selectionLine")
+        //     .attr("x1", this.margin.left)
+        //     .attr("x2", this.margin.left)
+        //     .attr("y1", 0)
+        //     .attr("y2", this.size.height)
+        //     .attr("stroke-dasharray", "0, 20")
+        //     .attr("stroke-width", "1.75")
+        //     .attr("stroke-linecap", "round")
+        //     .style("stroke", "#2ECC71")
+        //     .style("pointer-events", "none")
     };
     /**
      * Adds event listeners to its elements
@@ -128,9 +128,9 @@ var LineGraph = (function () {
             // d3.select(".eventText").remove();
             // d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
             //     .attr("transform", "translate(300, 400)").attr("width", 200);
-            d3.select("#" + _this.svgId).select(".selectionLine")
-                .attr("x1", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left)
-                .attr("x2", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
+            // d3.select(`#${this.svgId}`).select(".selectionLine")
+            //     .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
+            //     .attr("x2", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
         });
     };
     /**
