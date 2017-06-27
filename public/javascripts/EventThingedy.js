@@ -1,4 +1,8 @@
+var lastEvent = {};
 function showEvent(event) {
-    console.log(event);
+    if (event !== lastEvent) {
+        console.log(event);
+        lastEvent = event;
+    }
 }
 //# sourceMappingURL=EventThingedy.js.map

@@ -1,3 +1,7 @@
+let lastEvent = {};
 function showEvent(event: any) {
-    console.log(event);
+    if (event !== lastEvent) {
+        console.log(event);
+        lastEvent = event;
+    }
 }

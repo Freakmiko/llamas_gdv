@@ -29,7 +29,7 @@ block candidate3Block
 
 block candidate4Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Hundstorfer.jpg")
+        img.selectionBoxImage(src="/images/Hundstorfer.JPG")
         div.selectionBoxText(onclick="showCandidateInformation('HUNDSTORFER')") Hundstorfer
         div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'HUNDSTORFER')")
 
@@ -51,6 +51,9 @@ block graph
         svg#linegraph
         script.
             loadAustrianData("de");
+            d3.json("/data/austria/austria_events.json", function(error, d) {
+                lineGraph.addEvents(d.items);
+            })
 
 block results	
     div#results(onclick="hideCandidateInformation()")

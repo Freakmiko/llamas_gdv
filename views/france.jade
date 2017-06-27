@@ -51,6 +51,9 @@ block graph
         svg#linegraph
         script.
             loadFrenchData("fr")
+            d3.json("/data/france/france_events.json", function(error, d) {
+                lineGraph.addEvents(d.items);
+            })
 
 block results
     div#results(onclick="hideCandidateInformation()")

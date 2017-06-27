@@ -51,6 +51,9 @@ block graph
         svg#linegraph
         script.
             loadKoreanData("ko")
+            d3.json("/data/korea/southkorea_events.json", function(error, d) {
+                lineGraph.addEvents(d.items);
+            })
 
 block results	
     div#results(onclick="hideCandidateInformation()")
