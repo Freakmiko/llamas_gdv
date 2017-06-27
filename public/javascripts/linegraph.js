@@ -150,12 +150,15 @@ var LineGraph = (function () {
             .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
             .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
         this.updatePageViews(d3.easeCircleOut, 10);
+        var maximum = parseInt(d3.max(this.groupedData, function (datum) { return datum.length; }));
+        var stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
         d3.interval(function (elapsed) {
-            var maximum = parseInt(d3.max(_this.groupedData, function (datum) { return datum.length; }));
-            var stepsize = _this.size.width / maximum;
+            // console.log(`line: ${this.currentWidth / stepsize}`);
+            // if (this.currentWidth / stepsize < maximum - 1) {
             _this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(30).attr("width", _this.currentWidth);
-        }, 30);
+            d3.select("clipPath > rect").transition().duration(3000 / maximum).attr("width", _this.currentWidth);
+            // }
+        }, 3000 / maximum);
     };
     LineGraph.prototype.addData = function (data) {
         this.data = d3.merge([this.data, data]);

@@ -87,6 +87,10 @@ var Barchart = (function () {
                 .attr("class", function (d) { return d.candidate; });
             bar.exit().remove();
         }
+        else {
+            // console.log("NOPE")
+            svg.select("rect").classed("not_available", true);
+        }
         //this.updatePageViews(d3.easeCircleOut, 200);
     };
     return Barchart;

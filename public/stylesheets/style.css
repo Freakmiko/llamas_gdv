@@ -166,7 +166,8 @@ html,body {
 }
 
 #barchart rect.Donald_Trump {
-	fill: #c1272d;	
+	stroke: #c1272d;
+	fill: #c1272d;
 }
 
 .pageviews path.Hillary_Clinton {
@@ -174,6 +175,7 @@ html,body {
 }
 
 #barchart rect.Hillary_Clinton {
+	stroke: #0071bc;
 	fill: #0071bc;
 }
 
@@ -182,6 +184,7 @@ html,body {
 }
 
 #barchart rect.Bernie_Sanders {
+	stroke: #5cd5ff;
 	fill: #5cd5ff;
 }
 
@@ -190,6 +193,7 @@ html,body {
 }
 
 #barchart rect.John_Kasich {
+	stroke: #f84049;
 	fill: #f84049;
 }
 
@@ -198,6 +202,7 @@ html,body {
 }
 
 #barchart rect.Ted_Cruz {
+	stroke: #9b0c12;
 	fill: #9b0c12;
 }
 
@@ -206,7 +211,8 @@ html,body {
 }
 
 #barchart rect.Alexander_Van_der_Bellen {
-	fill: #c1272d;	
+	stroke: #c1272d;
+	fill: #c1272d;
 }
 
 .pageviews path.Norbert_Hofer {
@@ -214,6 +220,7 @@ html,body {
 }
 
 #barchart rect.Norbert_Hofer {
+	stroke: #0071bc;
 	fill: #0071bc;
 }
 
@@ -222,6 +229,7 @@ html,body {
 }
 
 #barchart rect.Irmgard_Griss {
+	stroke: #5cd5ff;
 	fill: #5cd5ff;
 }
 
@@ -230,6 +238,7 @@ html,body {
 }
 
 #barchart rect.Rudolf_Hundstorfer {
+	stroke: #f84049;
 	fill: #f84049;
 }
 
@@ -238,6 +247,7 @@ html,body {
 }
 
 #barchart rect.Andreas_Khol {
+	stroke: #9b0c12;
 	fill: #9b0c12;
 }
 
@@ -246,7 +256,8 @@ html,body {
 }
 
 #barchart rect.Luc_Mélenchon {
-	fill: #c1272d;	
+	stroke: #c1272d;
+	fill: #c1272d;
 }
 
 .pageviews path.François_Fillon {
@@ -254,6 +265,7 @@ html,body {
 }
 
 #barchart rect.François_Fillon {
+	stroke: #0071bc;
 	fill: #0071bc;
 }
 
@@ -262,6 +274,7 @@ html,body {
 }
 
 #barchart rect.Emmanuel_Macron {
+	stroke: #5cd5ff;
 	fill: #5cd5ff;
 }
 
@@ -270,6 +283,7 @@ html,body {
 }
 
 #barchart rect.Benoît_Hamon {
+	stroke: #f84049;
 	fill: #f84049;
 }
 
@@ -278,6 +292,7 @@ html,body {
 }
 
 #barchart rect.Marine_Le_Pen {
+	stroke: #9b0c12;
 	fill: #9b0c12;
 }
 
@@ -286,7 +301,8 @@ html,body {
 }
 
 #barchart rect.Hong_Jun-Pyo {
-	fill: #c1272d;	
+	stroke: #c1272d;
+	fill: #c1272d;
 }
 
 .pageviews path.Moon_Jae-In {
@@ -294,6 +310,7 @@ html,body {
 }
 
 #barchart rect.Moon_Jae-In {
+	stroke: #0071bc;
 	fill: #0071bc;
 }
 
@@ -302,6 +319,7 @@ html,body {
 }
 
 #barchart rect.Ahn_Cheol-Soo {
+	stroke: #5cd5ff;
 	fill: #5cd5ff;
 }
 
@@ -310,6 +328,7 @@ html,body {
 }
 
 #barchart rect.Yoo_Seung-Min {
+	stroke: #f84049;
 	fill: #f84049;
 }
 
@@ -318,6 +337,7 @@ html,body {
 }
 
 #barchart rect.Sim_Sang-Jung {
+	stroke: #9b0c12;
 	fill: #9b0c12;
 }
 
@@ -353,6 +373,10 @@ html,body {
 	width: 1.5vh;
 	height: 1.5vh;	
 	margin-left: 5%;
+}
+
+.not_available {
+	fill: none !important;
 }
 
 #tb1{

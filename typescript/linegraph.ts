@@ -192,12 +192,16 @@ class LineGraph {
 
         this.updatePageViews(d3.easeCircleOut, 10);
 
+        let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
+        let stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
+
         d3.interval((elapsed: number) => {
-            let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
-            let stepsize = this.size.width / maximum;
-            this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(30).attr("width", this.currentWidth)
-        }, 30);
+            // console.log(`line: ${this.currentWidth / stepsize}`);
+            // if (this.currentWidth / stepsize < maximum - 1) {
+                this.currentWidth += stepsize;
+                d3.select("clipPath > rect").transition().duration(3000/maximum).attr("width", this.currentWidth)
+            // }
+        }, 3000/maximum);
     }
 
     addData(data: any) {

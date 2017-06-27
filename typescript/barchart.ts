@@ -118,6 +118,9 @@ class Barchart {
                 .attr("class", (d: any) => d.candidate);
 
             bar.exit().remove();
+        } else {
+            // console.log("NOPE")
+            svg.select("rect").classed("not_available", true);
         }
         //this.updatePageViews(d3.easeCircleOut, 200);
     }

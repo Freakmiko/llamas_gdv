@@ -98,6 +98,10 @@ function loadCandidatePercentagesData(language, country) {
             charts.push(new Barchart("barchart", i));
         }
         var currentDay = 0;
+        var groupedData = _.toArray(_.groupBy(d, "candidate"));
+        var maximum = parseInt(d3.max(groupedData[0], function (datum) { return datum.length; }));
+        // console.log(groupedData);
+        // console.log(maximum);
         d3.interval(function () {
             charts.forEach(function (element, index) {
                 if (currentDay >= d[index].length)
@@ -105,8 +109,10 @@ function loadCandidatePercentagesData(language, country) {
                 else
                     element.renderGraph(d[index][currentDay]);
             });
-            currentDay++;
-        }, 20);
+            // console.log(`bar: ${currentDay}`)
+            if (currentDay < maximum - 1)
+                currentDay++;
+        }, 3000 / maximum);
     });
 }
 //# sourceMappingURL=languageDataLoader.js.map

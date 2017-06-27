@@ -104,6 +104,12 @@ function loadCandidatePercentagesData(language: string, country: string) {
             charts.push(new Barchart(`barchart`, i));
         }
         let currentDay = 0;
+
+        let groupedData: any = _.toArray(_.groupBy(d, "candidate"));
+        let maximum = parseInt(d3.max<number>(groupedData[0], (datum: any) => datum.length));
+        // console.log(groupedData);
+        // console.log(maximum);
+
         d3.interval(function () {
             charts.forEach(function (element, index) {
                 if (currentDay >= d[index].length)
@@ -111,8 +117,10 @@ function loadCandidatePercentagesData(language: string, country: string) {
                 else
                     element.renderGraph(d[index][currentDay])
             });
-            currentDay++;
-        }, 20)
+            // console.log(`bar: ${currentDay}`)
+            if (currentDay < maximum - 1)
+                currentDay++;
+        }, 3000/maximum)
     });
 }
 
