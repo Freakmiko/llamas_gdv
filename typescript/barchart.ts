@@ -117,7 +117,7 @@ class Barchart {
                 .attr("transform", (d, i) => `translate(${this.margin.left},${ 20})`);
 
             barEnter.select("rect")
-                .transition().duration(100)
+                .transition().duration(10)
                 .attr("width", (d: any) => this.xScale(d.viewPercentage))
                 .attr("height", 20)
                 //.attr("fill", (d: any) => this.colorScale(d.candidate))

@@ -86,7 +86,7 @@ var Barchart = (function () {
             var barEnter = bar
                 .attr("transform", function (d, i) { return "translate(" + _this.margin.left + "," + 20 + ")"; });
             barEnter.select("rect")
-                .transition().duration(100)
+                .transition().duration(10)
                 .attr("width", function (d) { return _this.xScale(d.viewPercentage); })
                 .attr("height", 20)
                 .attr("class", function (d) { return d.candidate; });
