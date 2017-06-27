@@ -177,18 +177,10 @@ class LineGraph {
      * @param data The {any} that is used for the graph
      */
     renderGraph(data: any) {
-        //console.log(data);
-        //this.data = data;
         this.addData(data);
 
         this.updateScales(data);
         this.updateAxis();
-        this.updateGrid();
-
-        d3.select(`#${this.svgId}`).select(".maximumLine")
-            .transition().duration(350).ease(d3.easeCircleOut)
-            .attr("y1", this.yScale(d3.max(data, (datum: any) => datum.views)))
-            .attr("y2", this.yScale(d3.max(data, (datum: any) => datum.views)));
 
         this.updatePageViews(d3.easeCircleOut, 10);
 
@@ -196,11 +188,8 @@ class LineGraph {
         let stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
 
         d3.interval((elapsed: number) => {
-            // console.log(`line: ${this.currentWidth / stepsize}`);
-            // if (this.currentWidth / stepsize < maximum - 1) {
                 this.currentWidth += stepsize;
                 d3.select("clipPath > rect").transition().duration(3000/maximum).attr("width", this.currentWidth)
-            // }
         }, 3000/maximum);
     }
 
@@ -236,37 +225,13 @@ class LineGraph {
             .y((d: any) => this.yScale(0))
             .curve(d3.curveLinear);
 
-
         pageviewsSelection.append("path").attr("d", (d: any[]) => transitionLine(d))
             .merge(g.selectAll(".pageviews > path") as any)
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
-            //.attr("stroke", (d: any) => this.colorScale(d[0].article))
             .attr("stroke-width", "4")
             .attr("class", (d: any[]) => d[0].article.replace(",", ""))
             .attr("d", (d: any[]) => this.line(d))
-
-        // g.datum(this.data).attr("d", transitionLine(this.data))
-        // //.merge(g.selectAll(".pageViews > path") as any)
-        //     .transition().duration(duration).ease(easingFn)
-        //     .attr("d", this.line)
-        //     .attr("fill", "none")
-        //     .attr("stroke", "#2a6093")
-        //     .attr("stroke-width", "4");
-
-        //let groupSelection = g.selectAll(".pageViews").datum(this.data)
-        //let pageViewsSelection = groupSelection.enter()
-        //    .append("g").attr("class", "pageViews")
-
-        //pageViewsSelection.append("path")
-        //    //.attr("d", (d: any) => transitionLine(d))
-        //    //.merge(g.selectAll(".pageViews > path") as any)
-        //    //.transition().duration(duration).ease(easingFn)
-        //    .attr("fill", "black")
-        //    .attr("stroke-width", "2")
-        //    .attr("d", (d: any) => this.line(this.data))
-        //    //.attr("clip-path", "url(#clip)")
-        //    //.attr("stroke", (datum: any) => ColorScheme.getColor(datum[0]))
     }
 
     /**

@@ -139,25 +139,15 @@ var LineGraph = (function () {
      */
     LineGraph.prototype.renderGraph = function (data) {
         var _this = this;
-        //console.log(data);
-        //this.data = data;
         this.addData(data);
         this.updateScales(data);
         this.updateAxis();
-        this.updateGrid();
-        d3.select("#" + this.svgId).select(".maximumLine")
-            .transition().duration(350).ease(d3.easeCircleOut)
-            .attr("y1", this.yScale(d3.max(data, function (datum) { return datum.views; })))
-            .attr("y2", this.yScale(d3.max(data, function (datum) { return datum.views; })));
         this.updatePageViews(d3.easeCircleOut, 10);
         var maximum = parseInt(d3.max(this.groupedData, function (datum) { return datum.length; }));
         var stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
         d3.interval(function (elapsed) {
-            // console.log(`line: ${this.currentWidth / stepsize}`);
-            // if (this.currentWidth / stepsize < maximum - 1) {
             _this.currentWidth += stepsize;
             d3.select("clipPath > rect").transition().duration(3000 / maximum).attr("width", _this.currentWidth);
-            // }
         }, 3000 / maximum);
     };
     LineGraph.prototype.addData = function (data) {
@@ -196,25 +186,6 @@ var LineGraph = (function () {
             .attr("stroke-width", "4")
             .attr("class", function (d) { return d[0].article.replace(",", ""); })
             .attr("d", function (d) { return _this.line(d); });
-        // g.datum(this.data).attr("d", transitionLine(this.data))
-        // //.merge(g.selectAll(".pageViews > path") as any)
-        //     .transition().duration(duration).ease(easingFn)
-        //     .attr("d", this.line)
-        //     .attr("fill", "none")
-        //     .attr("stroke", "#2a6093")
-        //     .attr("stroke-width", "4");
-        //let groupSelection = g.selectAll(".pageViews").datum(this.data)
-        //let pageViewsSelection = groupSelection.enter()
-        //    .append("g").attr("class", "pageViews")
-        //pageViewsSelection.append("path")
-        //    //.attr("d", (d: any) => transitionLine(d))
-        //    //.merge(g.selectAll(".pageViews > path") as any)
-        //    //.transition().duration(duration).ease(easingFn)
-        //    .attr("fill", "black")
-        //    .attr("stroke-width", "2")
-        //    .attr("d", (d: any) => this.line(this.data))
-        //    //.attr("clip-path", "url(#clip)")
-        //    //.attr("stroke", (datum: any) => ColorScheme.getColor(datum[0]))
     };
     /**
      * Updates the y- and x-scales to
