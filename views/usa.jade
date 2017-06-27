@@ -51,12 +51,12 @@ block graph
         svg#linegraph
         script.
             loadUsaData("en")
-            d3.json("/data/usa/usa_events.json", function(error, d) {
-                lineGraph.addEvents(d.items);
-            })
+//            d3.json("/data/usa/usa_events.json", function(error, d) {
+//                lineGraph.addEvents(d.items);
+//            })
 
-block results(onclick="hideCandidateInformation()")
-    div#results
+block results
+    div#results(onclick="hideCandidateInformation()")
         div#barchart
             script.
                 loadUsaCandidatePercentagesData("en")

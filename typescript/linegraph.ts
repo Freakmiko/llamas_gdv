@@ -190,14 +190,14 @@ class LineGraph {
             .attr("y1", this.yScale(d3.max(data, (datum: any) => datum.views)))
             .attr("y2", this.yScale(d3.max(data, (datum: any) => datum.views)));
 
-        this.updatePageViews(d3.easeCircleOut, 200);
+        this.updatePageViews(d3.easeCircleOut, 10);
 
         d3.interval((elapsed: number) => {
             let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
             let stepsize = this.size.width / maximum;
             this.currentWidth += stepsize;
-            d3.select("clipPath > rect").transition().duration(100).attr("width", this.currentWidth)
-        }, 100);
+            d3.select("clipPath > rect").transition().duration(30).attr("width", this.currentWidth)
+        }, 30);
     }
 
     addData(data: any) {
@@ -232,7 +232,7 @@ class LineGraph {
             .transition().duration(duration).ease(easingFn)
             .attr("fill", "none")
             //.attr("stroke", (d: any) => this.colorScale(d[0].article))
-            .attr("stroke-width", "2")
+            .attr("stroke-width", "4")
             .attr("class", (d: any[]) => d[0].article.replace(",", ""))
             .attr("d", (d: any[]) => this.line(d))
 
