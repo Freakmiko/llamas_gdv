@@ -18,6 +18,7 @@ function loadKoreanData(language) {
                         d3.json("/data/korea/" + language + "/yoo_seung-min.json", function (error, d) {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data);
                         });
                     });
@@ -49,6 +50,7 @@ function loadUsaData(language) {
                         d3.json("/data/usa/" + language + "/ted_cruz.json", function (error, d) {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data);
                         });
                     });
@@ -80,6 +82,7 @@ function loadAustrianData(language) {
                         d3.json("/data/austria/" + language + "/rudolf_hundstorfer.json", function (error, d) {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data);
                         });
                     });
@@ -111,6 +114,7 @@ function loadFrenchData(language) {
                         d3.json("/data/france/" + language + "/marine_le_pen.json", function (error, d) {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data);
                         });
                     });
@@ -122,13 +126,13 @@ function loadFrenchData(language) {
 function loadFrenchCandidatePercentagesData(language) {
     loadCandidatePercentagesData(language, "france");
 }
+var currentDay = 0;
 function loadCandidatePercentagesData(language, country) {
     d3.json("/data/" + country + "/" + language + "/candidate_percentages.json", function (error, d) {
         var charts = [];
         for (var i = 0; i < d.length; i++) {
             charts.push(new Barchart("barchart", i));
         }
-        var currentDay = 0;
         var groupedData = _.toArray(_.groupBy(d, "candidate"));
         var maximum = parseInt(d3.max(groupedData[0], function (datum) { return datum.length; }));
         // console.log(groupedData);

@@ -18,6 +18,7 @@ function loadKoreanData(language: string) {
                         d3.json(`/data/korea/${language}/yoo_seung-min.json`, (error, d: any) => {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data)
                         })
                     })
@@ -51,6 +52,7 @@ function loadUsaData(language: string) {
                         d3.json(`/data/usa/${language}/ted_cruz.json`, (error, d: any) => {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data)
                         })
                     })
@@ -84,6 +86,7 @@ function loadAustrianData(language: string) {
                         d3.json(`/data/austria/${language}/rudolf_hundstorfer.json`, (error, d: any) => {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data)
                         })
                     })
@@ -117,6 +120,7 @@ function loadFrenchData(language: string) {
                         d3.json(`/data/france/${language}/marine_le_pen.json`, (error, d: any) => {
                             if (!error)
                                 data = d3.merge([data, d.items]);
+                            lineGraph.clearData();
                             lineGraph.renderGraph(data)
                         })
                     })
@@ -130,13 +134,14 @@ function loadFrenchCandidatePercentagesData(language: string) {
     loadCandidatePercentagesData(language, "france");
 }
 
+let currentDay = 0;
+
 function loadCandidatePercentagesData(language: string, country: string) {
     d3.json(`/data/${country}/${language}/candidate_percentages.json`, (error, d: any) => {
         let charts = [];
         for (let i = 0; i < d.length; i++) {
             charts.push(new Barchart(`barchart`, i));
         }
-        let currentDay = 0;
 
         let groupedData: any = _.toArray(_.groupBy(d, "candidate"));
         let maximum = parseInt(d3.max<number>(groupedData[0], (datum: any) => datum.length));

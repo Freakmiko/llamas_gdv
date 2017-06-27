@@ -168,6 +168,11 @@ var LineGraph = (function () {
         this.events = events;
         console.log(events);
     };
+    LineGraph.prototype.clearData = function () {
+        this.data = [];
+        this.currentWidth = 0;
+        d3.select("clipPath > rect").attr("width", this.currentWidth);
+    };
     /**
      * Updates the pageViews linegraphs
      * by animating them using the given easing function
