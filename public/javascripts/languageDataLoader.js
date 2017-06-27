@@ -128,26 +128,28 @@ function loadFrenchCandidatePercentagesData(language) {
 }
 var currentDay = 0;
 function loadCandidatePercentagesData(language, country) {
-    d3.json("/data/" + country + "/" + language + "/candidate_percentages.json", function (error, d) {
-        var charts = [];
-        for (var i = 0; i < d.length; i++) {
-            charts.push(new Barchart("barchart", i));
-        }
-        var groupedData = _.toArray(_.groupBy(d, "candidate"));
-        var maximum = parseInt(d3.max(groupedData[0], function (datum) { return datum.length; }));
-        // console.log(groupedData);
-        // console.log(maximum);
-        d3.interval(function () {
-            charts.forEach(function (element, index) {
-                if (currentDay >= d[index].length)
-                    element.renderGraph(d[index][currentDay - 1]);
-                else
-                    element.renderGraph(d[index][currentDay]);
-            });
-            // console.log(`bar: ${currentDay}`)
-            if (currentDay < maximum - 1)
-                currentDay++;
-        }, 3000 / maximum);
+    d3.json("/data/" + country + "/" + language + "/candidate_final_percentages.json", function (error, finalPercentages) {
+        d3.json("/data/" + country + "/" + language + "/candidate_percentages.json", function (error, d) {
+            var charts = [];
+            for (var i = 0; i < d.length; i++) {
+                charts.push(new Barchart("barchart", i));
+            }
+            var groupedData = _.toArray(_.groupBy(d, "candidate"));
+            var maximum = parseInt(d3.max(groupedData[0], function (datum) { return datum.length; }));
+            // console.log(groupedData);
+            // console.log(maximum);
+            d3.interval(function () {
+                charts.forEach(function (element, index) {
+                    if (currentDay >= d[index].length)
+                        element.renderGraph(d[index][currentDay - 1], finalPercentages);
+                    else
+                        element.renderGraph(d[index][currentDay], finalPercentages);
+                });
+                // console.log(`bar: ${currentDay}`)
+                if (currentDay < maximum - 1)
+                    currentDay++;
+            }, 3000 / maximum);
+        });
     });
 }
 //# sourceMappingURL=languageDataLoader.js.map

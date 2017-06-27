@@ -97,37 +97,45 @@ class Barchart {
             .attr("height", this.size.height + this.margin.top + this.margin.bottom);
         svg.append("image").attr("width", 80).attr("height", 80);
         svg.append("g").attr("id", "bar").append("rect").attr("width", 300);
+        svg.append("g").attr("id", "finalBar").append("rect").attr("width", 300);
     }
 
     /**
      * Renders the line graph with the given data
      * @param data The {any} that is used for the graph
      */
-    renderGraph(data: any) {
+    renderGraph(data: any, percentages: any) {
         this.data = {"items": [data]};
 
         let svg = d3.select(`#barchart${this.svgIndex}`);
 
         if (this.data.items[0]) {
-            // console.log(this.data.items[0].candidate);
             svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
 
-            var bar = svg.select("#bar").data(this.data.items);
-            var barEnter = bar
-                .attr("transform", (d, i) => `translate(${this.margin.left},${ 20})`);
+            let bar = svg.select("#bar").data(this.data.items);
+            let barEnter = bar
+                .attr("transform", (d, i) => `translate(${this.margin.left},${20})`);
 
             barEnter.select("rect")
                 .transition().duration(10)
                 .attr("width", (d: any) => this.xScale(d.viewPercentage))
                 .attr("height", 20)
-                //.attr("fill", (d: any) => this.colorScale(d.candidate))
                 .attr("class", (d: any) => d.candidate);
 
-            bar.exit().remove();
+            let candidate = _.find(percentages, (element: any) => this.data.items[0].candidate === element.candidate);
+            let finalPercentages =  {"items": [candidate]};
+            if (candidate) {
+                svg.select("#finalBar").data(finalPercentages.items)
+                    .attr("transform", `translate(${this.margin.left}, ${45})`)
+                    .select("rect")
+                    .attr("width", (d: any) => this.xScale(d.viewPercentage))
+                    .attr("height", 20)
+                    .attr("class", (d: any) => d.candidate);
+            }
+
         } else {
-            // console.log("NOPE")
             svg.select("rect").classed("not_available", true);
+            svg.select("#finalBar rect").classed("not_available", true);
         }
-        //this.updatePageViews(d3.easeCircleOut, 200);
     }
 }

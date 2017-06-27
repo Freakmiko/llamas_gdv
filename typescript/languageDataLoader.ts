@@ -137,28 +137,30 @@ function loadFrenchCandidatePercentagesData(language: string) {
 let currentDay = 0;
 
 function loadCandidatePercentagesData(language: string, country: string) {
-    d3.json(`/data/${country}/${language}/candidate_percentages.json`, (error, d: any) => {
-        let charts = [];
-        for (let i = 0; i < d.length; i++) {
-            charts.push(new Barchart(`barchart`, i));
-        }
+    d3.json(`/data/${country}/${language}/candidate_final_percentages.json`, (error, finalPercentages: any) => {
+        d3.json(`/data/${country}/${language}/candidate_percentages.json`, (error, d: any) => {
+            let charts = [];
+            for (let i = 0; i < d.length; i++) {
+                charts.push(new Barchart(`barchart`, i));
+            }
 
-        let groupedData: any = _.toArray(_.groupBy(d, "candidate"));
-        let maximum = parseInt(d3.max<number>(groupedData[0], (datum: any) => datum.length));
-        // console.log(groupedData);
-        // console.log(maximum);
+            let groupedData: any = _.toArray(_.groupBy(d, "candidate"));
+            let maximum = parseInt(d3.max<number>(groupedData[0], (datum: any) => datum.length));
+            // console.log(groupedData);
+            // console.log(maximum);
 
-        d3.interval(function () {
-            charts.forEach(function (element, index) {
-                if (currentDay >= d[index].length)
-                    element.renderGraph(d[index][currentDay - 1]);
-                else
-                    element.renderGraph(d[index][currentDay])
-            });
-            // console.log(`bar: ${currentDay}`)
-            if (currentDay < maximum - 1)
-                currentDay++;
-        }, 3000/maximum)
+            d3.interval(function () {
+                charts.forEach(function (element, index) {
+                    if (currentDay >= d[index].length)
+                        element.renderGraph(d[index][currentDay - 1], finalPercentages);
+                    else
+                        element.renderGraph(d[index][currentDay], finalPercentages)
+                });
+                // console.log(`bar: ${currentDay}`)
+                if (currentDay < maximum - 1)
+                    currentDay++;
+            }, 3000 / maximum)
+        });
     });
 }
 
