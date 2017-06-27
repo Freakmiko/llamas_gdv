@@ -97,6 +97,39 @@ function loadAustrianCandidatePercentagesData(language: string) {
     loadCandidatePercentagesData(language, "austria");
 }
 
+function loadFrenchData(language: string) {
+    var data = [];
+    d3.json(`/data/france/${language}/election_2017.json`, (error, d: any) => {
+        if (!error)
+            data = d3.merge([data, d.items]);
+        d3.json(`/data/france/${language}/benoit_hamon.json`, (error, d: any) => {
+            if (!error)
+                data = d3.merge([data, d.items]);
+            d3.json(`/data/france/${language}/emmanuel_macron.json`, (error, d: any) => {
+                if (!error)
+                    data = d3.merge([data, d.items]);
+                d3.json(`/data/france/${language}/francois_fillon.json`, (error, d: any) => {
+                    if (!error)
+                        data = d3.merge([data, d.items]);
+                    d3.json(`/data/france/${language}/jean_luc_melenchon.json`, (error, d: any) => {
+                        if (!error)
+                            data = d3.merge([data, d.items]);
+                        d3.json(`/data/france/${language}/marine_le_pen.json`, (error, d: any) => {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
+                            lineGraph.renderGraph(data)
+                        })
+                    })
+                })
+            })
+        })
+    })
+}
+
+function loadFrenchCandidatePercentagesData(language: string) {
+    loadCandidatePercentagesData(language, "france");
+}
+
 function loadCandidatePercentagesData(language: string, country: string) {
     d3.json(`/data/${country}/${language}/candidate_percentages.json`, (error, d: any) => {
         let charts = [];

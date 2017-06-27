@@ -91,6 +91,37 @@ function loadAustrianData(language) {
 function loadAustrianCandidatePercentagesData(language) {
     loadCandidatePercentagesData(language, "austria");
 }
+function loadFrenchData(language) {
+    var data = [];
+    d3.json("/data/france/" + language + "/election_2017.json", function (error, d) {
+        if (!error)
+            data = d3.merge([data, d.items]);
+        d3.json("/data/france/" + language + "/benoit_hamon.json", function (error, d) {
+            if (!error)
+                data = d3.merge([data, d.items]);
+            d3.json("/data/france/" + language + "/emmanuel_macron.json", function (error, d) {
+                if (!error)
+                    data = d3.merge([data, d.items]);
+                d3.json("/data/france/" + language + "/francois_fillon.json", function (error, d) {
+                    if (!error)
+                        data = d3.merge([data, d.items]);
+                    d3.json("/data/france/" + language + "/jean_luc_melenchon.json", function (error, d) {
+                        if (!error)
+                            data = d3.merge([data, d.items]);
+                        d3.json("/data/france/" + language + "/marine_le_pen.json", function (error, d) {
+                            if (!error)
+                                data = d3.merge([data, d.items]);
+                            lineGraph.renderGraph(data);
+                        });
+                    });
+                });
+            });
+        });
+    });
+}
+function loadFrenchCandidatePercentagesData(language) {
+    loadCandidatePercentagesData(language, "france");
+}
 function loadCandidatePercentagesData(language, country) {
     d3.json("/data/" + country + "/" + language + "/candidate_percentages.json", function (error, d) {
         var charts = [];

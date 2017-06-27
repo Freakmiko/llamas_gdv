@@ -25,7 +25,12 @@ var Barchart = (function () {
             "Donald_Trump": "images/Trump.jpg",
             "Hillary_Clinton": "images/Clinton.jpg",
             "John_Kasich": "images/Kasich.jpg",
-            "Ted_Cruz": "images/Cruz.jpg"
+            "Ted_Cruz": "images/Cruz.jpg",
+            "François_Fillon": "images/Fillon.jpg",
+            "Benoît_Hamon": "images/Hamon.jpg",
+            "Marine_Le_Pen": "images/LePen.jpg",
+            "Emmanuel_Macron": "images/Macron.jpg",
+            "Jean-Luc_Mélenchon": "images/Melenchon.jpg"
         };
         this.divId = divId;
         this.svgIndex = svgIndex;
@@ -75,7 +80,7 @@ var Barchart = (function () {
         this.data = { "items": [data] };
         var svg = d3.select("#barchart" + this.svgIndex);
         if (this.data.items[0]) {
-            //console.log(this.data.items[0].candidate);
+            // console.log(this.data.items[0].candidate);
             svg.select("image").attr("href", this.nameMap[this.data.items[0].candidate]);
             var bar = svg.select("#bar").data(this.data.items);
             var barEnter = bar

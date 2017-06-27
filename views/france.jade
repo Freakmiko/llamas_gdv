@@ -50,26 +50,10 @@ block graph
     div#graph(onclick="hideCandidateInformation()")
         svg#linegraph
         script.
-            var data = [];
-            d3.json("/data/france/fr/election_2017.json", function (error, d) {
-                data = d3.merge([data, d.items])
-                d3.json("/data/france/fr/benoit_hamon.json", function (error, d) {
-                    data = d3.merge([data, d.items])
-                    d3.json("/data/france/fr/emmanuel_macron.json", function (error, d) {
-                        data = d3.merge([data, d.items])
-                        d3.json("/data/france/fr/francois_fillon.json", function (error, d) {
-                            data = d3.merge([data, d.items])
-                            d3.json("/data/france/fr/jean_luc_melenchon.json", function (error, d) {
-                                data = d3.merge([data, d.items])
-                                d3.json("/data/france/fr/marine_le_pen.json", function (error, d) {
-                                    data = d3.merge([data, d.items])
-                                    lineGraph.renderGraph(data)
-                                })
-                            })
-                        })
-                    })
-                })
-            })
+            loadFrenchData("fr")
 
 block results
-    div#results (onclick="hideCandidateInformation()")
+    div#results(onclick="hideCandidateInformation()")
+        div#barchart
+            script.
+                loadFrenchCandidatePercentagesData("fr")
