@@ -93,7 +93,7 @@ class LineGraph {
             .attr("id", "clip")
             .append("rect")
             .attr("width", this.currentWidth)
-            .attr("height", this.size.height + this.margin.top);
+            .attr("height", this.size.height + this.margin.top + this.margin.bottom);
 
         svg.append("g")
             .attr("class", "lineGraph")
@@ -171,6 +171,18 @@ class LineGraph {
 
         let maximum = parseInt(d3.max<number>(this.groupedData, (datum: any) => datum.length));
         let stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
+
+        let g = d3.select(`#${this.svgId} > g.lineGraph`)
+        g.selectAll("circle.eventLine").data(this.events)
+            .enter().append("circle").attr("class", "eventLine")
+            .attr("cx", (datum: any) => this.xScale(this.parseEventDate(datum.date)))
+            .attr("cy", this.size.height + this.margin.bottom - 10)
+            .attr("r", 10)
+            .attr("stroke", "pink")
+            .attr("fill", "pink");
+            // .attr("stroke-width", "1")
+            // .style("stroke", "#000000")
+            // .style("pointer-events", "none");
 
         d3.interval((elapsed: number) => {
                 this.currentWidth += stepsize;

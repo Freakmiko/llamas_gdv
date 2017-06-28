@@ -67,7 +67,7 @@ var LineGraph = (function () {
             .attr("id", "clip")
             .append("rect")
             .attr("width", this.currentWidth)
-            .attr("height", this.size.height + this.margin.top);
+            .attr("height", this.size.height + this.margin.top + this.margin.bottom);
         svg.append("g")
             .attr("class", "lineGraph")
             .attr("clip-path", "url(#clip)")
@@ -132,6 +132,17 @@ var LineGraph = (function () {
         this.updatePageViews(d3.easeCircleOut, 10);
         var maximum = parseInt(d3.max(this.groupedData, function (datum) { return datum.length; }));
         var stepsize = (this.size.width - this.margin.left - this.margin.right) / maximum;
+        var g = d3.select("#" + this.svgId + " > g.lineGraph");
+        g.selectAll("circle.eventLine").data(this.events)
+            .enter().append("circle").attr("class", "eventLine")
+            .attr("cx", function (datum) { return _this.xScale(_this.parseEventDate(datum.date)); })
+            .attr("cy", this.size.height + this.margin.bottom - 10)
+            .attr("r", 10)
+            .attr("stroke", "pink")
+            .attr("fill", "pink");
+        // .attr("stroke-width", "1")
+        // .style("stroke", "#000000")
+        // .style("pointer-events", "none");
         d3.interval(function (elapsed) {
             _this.currentWidth += stepsize;
             d3.select("clipPath > rect").transition().duration(3000 / maximum).attr("width", _this.currentWidth);
