@@ -346,13 +346,12 @@ html,body {
 }
 
 #graphSelectionBox{
-	width: 8vw;
-	height: 65vh;
+	width: 153.59px;
+	height: 617.5px;
 	background: #f2f2f2;
 	position: absolute;
 	left: 70vw;
 	top: 9.5vh;
-	/* background-color: green; */
 }
 
 .selectionBox{
