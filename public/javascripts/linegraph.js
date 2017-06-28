@@ -115,8 +115,8 @@ var LineGraph = (function () {
                 return memo[1] < value[1] ? memo : value;
             })[0];
             showEvent(_.find(_this.events, function (event) { return event.date == closestDate; }));
-            d3.selectAll("circle").attr("fill", "#4e0000");
-            d3.select("#" + _this.svgId + " #e" + closestDate).attr("fill", "#ff0000");
+            d3.selectAll("circle").attr("fill", "#333333");
+            d3.select("#" + _this.svgId + " #e" + closestDate).attr("fill", "#4fbc64");
             d3.select("#" + _this.svgId).select(".selectionLine")
                 .attr("x1", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left)
                 .attr("x2", _this.xScale(_this.parseEventDate(closestDate)) + _this.margin.left);
@@ -141,7 +141,7 @@ var LineGraph = (function () {
             .attr("cy", this.size.height + this.margin.bottom - 10)
             .attr("r", 10)
             .attr("id", function (datum) { return "e" + datum.date; })
-            .attr("fill", "#4e0000");
+            .attr("fill", "#333333");
         // .attr("stroke-width", "1")
         // .style("stroke", "#000000")
         // .style("pointer-events", "none");
