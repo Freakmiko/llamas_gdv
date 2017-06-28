@@ -11,40 +11,28 @@ block electionPhases
 
 block candidate1Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Macron.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('MACRON')") Macron
         div.toggleButton#tb1(onclick="toggleGraphVisibility(this, 'MACRON')")
-
+        img.selectionBoxImage(src="/images/Macron.jpg" onclick="showCandidateInformation('MACRON')")
+        
 block candidate2Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/LePen.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('LEPEN')") Le Pen
         div.toggleButton#tb2(onclick="toggleGraphVisibility(this, 'LEPEN')")
+        img.selectionBoxImage(src="/images/LePen.jpg" onclick="showCandidateInformation('LEPEN')")               
 
 block candidate3Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Fillon.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('FILLON')") Fillon
         div.toggleButton#tb3(onclick="toggleGraphVisibility(this, 'FILLON')")
-
+        img.selectionBoxImage(src="/images/Fillon.jpg" onclick="showCandidateInformation('FILLON')")
+        
 block candidate4Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Melenchon.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('MELENCHON')") Mélenchon
         div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'MELENCHON')")
-
+        img.selectionBoxImage(src="/images/Melenchon.jpg" onclick="showCandidateInformation('MELENCHON')")
+        
 block candidate5Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Hamon.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('HAMON')") Hamon
         div.toggleButton#tb5(onclick="toggleGraphVisibility(this, 'HAMON')")
-
-block electionBlock
-    div.selectionBox
-        img.selectionBoxImage(src="/images/black.jpg")
-        div.selectionBoxText Wahl Frankreich
-        div.toggleButton#tb6(onclick="toggleGraphVisibility(this, 'ELECTION')")
-
+        img.selectionBoxImage(src="/images/Hamon.jpg" onclick="showCandidateInformation('HAMON')")
 
 block graph
     div#graph(onclick="hideCandidateInformation()")

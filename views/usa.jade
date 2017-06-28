@@ -11,40 +11,28 @@ block electionPhases
 
 block candidate1Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Trump.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('TRUMP')") Trump
         div.toggleButton#tb1(onclick="toggleGraphVisibility(this, 'TRUMP')")
+        img.selectionBoxImage(src="/images/Trump.jpg" onclick="showCandidateInformation('TRUMP')")
 
 block candidate2Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Clinton.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('CLINTON')") Clinton
         div.toggleButton#tb2(onclick="toggleGraphVisibility(this, 'CLINTON')")
+        img.selectionBoxImage(src="/images/Clinton.jpg" onclick="showCandidateInformation('CLINTON')")
 
 block candidate3Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Sanders.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('SANDERS')") Sanders
         div.toggleButton#tb3(onclick="toggleGraphVisibility(this, 'SANDERS')")
+        img.selectionBoxImage(src="/images/Sanders.jpg" onclick="showCandidateInformation('SANDERS')")
 
 block candidate4Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Cruz.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('CRUZ')") Cruz
         div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'CRUZ')")
+        img.selectionBoxImage(src="/images/Cruz.jpg" onclick="showCandidateInformation('CRUZ')")
 
 block candidate5Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Kasich.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('KASICH')") Kasich
         div.toggleButton#tb5(onclick="toggleGraphVisibility(this, 'KASICH')")
-
-block electionBlock
-    div.selectionBox
-        img.selectionBoxImage(src="/images/black.jpg")
-        div.selectionBoxText Wahl USA
-        div.toggleButton#tb6(onclick="toggleGraphVisibility(this, 'ELECTION')")
-
+        img.selectionBoxImage(src="/images/Kasich.jpg" onclick="showCandidateInformation('KASICH')")
 
 block graph
     div#graph(onclick="hideCandidateInformation()")

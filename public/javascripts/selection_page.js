@@ -73,8 +73,7 @@ function compare(){
 	window.open("http://localhost:3000/all","_self")
 }
 
-function showCandidateInformation(name){	
-	document.getElementById("graphSelectionBox").style.visibility = "hidden";
+function showCandidateInformation(name){		
 	document.getElementById("sidebarInfoContainer").style.visibility = "visible";	
 	document.getElementById("candidateName").textContent = candidatesNames[name];
 	document.getElementById("candidateInfoText").textContent = candidatesInfoText[name];
@@ -82,14 +81,12 @@ function showCandidateInformation(name){
 }
 
 function hideCandidateInformation(){	
-	document.getElementById("sidebarInfoContainer").style.visibility = "hidden";	
-	document.getElementById("graphSelectionBox").style.visibility = "visible";
+	document.getElementById("sidebarInfoContainer").style.visibility = "hidden";		
 }
 
 function toggleGraphVisibility(elem, name){	
 	if(elem.style.background === "rgb(242, 242, 242)"){
-		elem.style.background = "#333333";
-		elem.style.border = "none";
+		elem.style.background = "#333333";	
 		if(name === "ELECTION"){
 			document.getElementsByClassName("pageviews")[0].style.visibility = "visible";
 		}else if(name === "SANDERS" || name === "AHN" || name === "HAMON" || name === "BELLEN"){
@@ -104,8 +101,7 @@ function toggleGraphVisibility(elem, name){
 			document.getElementsByClassName("pageviews")[5].style.visibility = "visible";
 		}
 	}else{
-		elem.style.background = "#f2f2f2";
-		elem.style.border = "1px solid #333333";
+		elem.style.background = "#f2f2f2";		
 		if(name === "ELECTION"){
 			document.getElementsByClassName("pageviews")[0].style.visibility = "hidden";
 		}else if(name === "SANDERS" || name === "AHN" || name === "HAMON" || name === "BELLEN"){

@@ -11,40 +11,28 @@ block electionPhases
 
 block candidate1Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Bellen.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('BELLEN')") Van der Bellen
         div.toggleButton#tb1(onclick="toggleGraphVisibility(this, 'BELLEN')")
+        img.selectionBoxImage(src="/images/Bellen.jpg" onclick="showCandidateInformation('BELLEN')") 
 
 block candidate2Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Hofer.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('HOFER')") Hofer
         div.toggleButton#tb2(onclick="toggleGraphVisibility(this, 'HOFER')")
+        img.selectionBoxImage(src="/images/Hofer.jpg" onclick="showCandidateInformation('HOFER')") 
 
 block candidate3Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Griss.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('GRISS')") Griss
         div.toggleButton#tb3(onclick="toggleGraphVisibility(this, 'GRISS')")
-
+        img.selectionBoxImage(src="/images/Griss.jpg" onclick="showCandidateInformation('GRISS')")
+        
 block candidate4Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Hundstorfer.JPG")
-        div.selectionBoxText(onclick="showCandidateInformation('HUNDSTORFER')") Hundstorfer
         div.toggleButton#tb4(onclick="toggleGraphVisibility(this, 'HUNDSTORFER')")
-
+        img.selectionBoxImage(src="/images/Hundstorfer.JPG" onclick="showCandidateInformation('HUNDSTORFER')")
+        
 block candidate5Block
     div.selectionBox
-        img.selectionBoxImage(src="/images/Khol.jpg")
-        div.selectionBoxText(onclick="showCandidateInformation('KHOL')") Khol
         div.toggleButton#tb5(onclick="toggleGraphVisibility(this, 'KHOL')")
-
-block electionBlock
-    div.selectionBox
-        img.selectionBoxImage(src="/images/black.jpg")
-        div.selectionBoxText Wahl Österreich
-        div.toggleButton#tb6(onclick="toggleGraphVisibility(this, 'ELECTION')")
-
+        img.selectionBoxImage(src="/images/Khol.jpg" onclick="showCandidateInformation('KHOL')")
 
 block graph
     div#graph(onclick="hideCandidateInformation()")
