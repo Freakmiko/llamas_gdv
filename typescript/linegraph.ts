@@ -84,6 +84,10 @@ class LineGraph {
 
         // svg.append("g")
         //     .attr("class", "gridLines");
+        svg.append("g")
+            .attr("class", "bottomAxis")
+            .attr("transform", `translate(${this.margin.left}, ${this.size.height})`)
+            .call(this.xAxis);
 
         svg.append("defs").append("clipPath")
             .attr("id", "clip")
@@ -106,10 +110,6 @@ class LineGraph {
         //     .call(this.yAxis)
         //     .select(".domain")
         //     .attr("stroke", "none");
-        svg.append("g")
-            .attr("class", "bottomAxis")
-            .attr("transform", `translate(${this.margin.left}, ${this.size.height})`)
-            .call(this.xAxis);
 
         svg.append("g")
             .attr("class", "legend")
