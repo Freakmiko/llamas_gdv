@@ -115,17 +115,17 @@ class LineGraph {
             .attr("class", "legend")
             .attr("transform", `translate(${this.margin.left}, ${this.size.height + this.margin.top + 5})`);
 
-        // svg.append("line")
-        //     .attr("class", "selectionLine")
-        //     .attr("x1", this.margin.left)
-        //     .attr("x2", this.margin.left)
-        //     .attr("y1", 0)
-        //     .attr("y2", this.size.height)
-        //     .attr("stroke-dasharray", "0, 20")
-        //     .attr("stroke-width", "1.75")
-        //     .attr("stroke-linecap", "round")
-        //     .style("stroke", "#2ECC71")
-        //     .style("pointer-events", "none")
+        svg.append("line")
+            .attr("class", "selectionLine")
+            .attr("x1", this.margin.left)
+            .attr("x2", this.margin.left)
+            .attr("y1", 0)
+            .attr("y2", this.size.height)
+            .attr("stroke-dasharray", "0, 4")
+            .attr("stroke-width", "1.75")
+            .attr("stroke-linecap", "round")
+            .style("stroke", "#2ECC71")
+            .style("pointer-events", "none")
 
     }
 
@@ -134,17 +134,6 @@ class LineGraph {
      * to react to brush selection and so on
      */
     addListeners() {
-        // this.xBrush.on("end", (datum: any, index: number, groups: SVGGElement[]) => {
-        //     this.zoomHistory.push(this.xScale.domain())
-
-        //     let domain = [this.xScale.invert(d3.brushSelection(groups[index])[0] as number),
-        //                   this.xScale.invert(d3.brushSelection(groups[index])[1] as number)]
-        //     this.xScale.domain(domain)
-        //     d3.select(".brush").selectAll("*:not(.overlay)").style("display", "none")
-        //     this.zoomHistory.push(domain)
-        //     this.updatePageViews(d3.easeCircleInOut, 550)
-        //     this.updateAxis()
-        // })
         d3.select(`#${this.svgId}`)
             .on("contextmenu", () => {
                 d3.event.preventDefault();
@@ -160,15 +149,11 @@ class LineGraph {
                         return memo[1] < value[1] ? memo : value;
                     })[0];
 
-                 showEvent(_.find(this.events, (event: any) => event.date == closestDate));
+                showEvent(_.find(this.events, (event: any) => event.date == closestDate));
 
-                 // d3.select(".eventText").remove();
-                 // d3.select(`#${this.svgId}`).append("text").attr("class", "eventText").text(_.find(this.events, (event: any) => event.date == closestDate).text)
-                 //     .attr("transform", "translate(300, 400)").attr("width", 200);
-
-                // d3.select(`#${this.svgId}`).select(".selectionLine")
-                //     .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
-                //     .attr("x2", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
+                d3.select(`#${this.svgId}`).select(".selectionLine")
+                    .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
+                    .attr("x2", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
             })
     }
 
