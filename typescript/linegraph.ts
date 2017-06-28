@@ -151,6 +151,9 @@ class LineGraph {
 
                 showEvent(_.find(this.events, (event: any) => event.date == closestDate));
 
+                d3.selectAll("circle").attr("fill", "#4e0000");
+                d3.select(`#${this.svgId} #e${closestDate}`).attr("fill", "#ff0000");
+
                 d3.select(`#${this.svgId}`).select(".selectionLine")
                     .attr("x1", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
                     .attr("x2", this.xScale(this.parseEventDate(closestDate)) + this.margin.left)
@@ -178,8 +181,8 @@ class LineGraph {
             .attr("cx", (datum: any) => this.xScale(this.parseEventDate(datum.date)))
             .attr("cy", this.size.height + this.margin.bottom - 10)
             .attr("r", 10)
-            .attr("stroke", "pink")
-            .attr("fill", "pink");
+            .attr("id", (datum: any) => `e${datum.date}`)
+            .attr("fill", "#4e0000");
             // .attr("stroke-width", "1")
             // .style("stroke", "#000000")
             // .style("pointer-events", "none");
